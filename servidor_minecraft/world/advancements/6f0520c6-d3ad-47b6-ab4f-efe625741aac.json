@@ -1,0 +1,877 @@
+{
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-11-16 03:32:46 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-11-16 03:32:46 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-11-16 03:32:46 +0000"
+    },
+    "done": true
+  },
+  "realmrpg_quests:root": {
+    "criteria": {
+      "root_0": "2024-11-16 03:32:46 +0000"
+    },
+    "done": true
+  },
+  "seadwellers:adv_root": {
+    "criteria": {
+      "adv_root": "2024-11-16 03:32:46 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_normal": {
+    "criteria": {
+      "is_triggered": "2024-11-16 03:32:46 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-11-16 03:32:46 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2024-11-16 03:32:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "muskeg": "2024-12-01 20:56:33 +0000",
+      "woodland": "2024-12-02 01:20:22 +0000",
+      "shrubland": "2024-12-02 00:21:47 +0000",
+      "snowblossom_grove": "2024-12-01 22:58:23 +0000",
+      "rocky_shrubland": "2024-12-02 04:14:43 +0000",
+      "scrubland": "2024-11-20 03:28:20 +0000",
+      "erupting_inferno": "2024-12-09 03:53:49 +0000",
+      "highland": "2024-11-16 04:16:16 +0000",
+      "marsh": "2024-11-16 05:07:27 +0000",
+      "jade_cliffs": "2024-12-02 04:14:55 +0000",
+      "wetland": "2024-11-16 04:16:05 +0000",
+      "clover_patch": "2024-12-02 00:38:27 +0000",
+      "cold_desert": "2024-11-16 03:32:47 +0000",
+      "old_growth_woodland": "2024-12-02 01:22:29 +0000",
+      "maple_woods": "2024-11-16 04:16:27 +0000",
+      "crystalline_chasm": "2024-12-09 03:54:53 +0000",
+      "withered_abyss": "2024-12-14 07:24:49 +0000",
+      "field": "2024-12-01 22:56:49 +0000",
+      "orchard": "2024-12-02 00:40:05 +0000",
+      "lavender_forest": "2024-12-02 00:40:25 +0000",
+      "moor": "2024-12-10 06:23:35 +0000",
+      "mediterranean_forest": "2024-12-02 01:18:02 +0000",
+      "bog": "2024-11-16 04:34:55 +0000",
+      "coniferous_forest": "2024-11-16 07:39:05 +0000",
+      "spider_nest": "2024-11-16 04:21:36 +0000",
+      "redwood_forest": "2024-12-02 00:38:44 +0000",
+      "seasonal_orchard": "2024-12-02 00:11:40 +0000",
+      "dune_beach": "2024-12-02 04:14:00 +0000",
+      "seasonal_forest": "2024-12-02 00:11:08 +0000",
+      "dead_forest": "2024-12-01 20:55:25 +0000",
+      "volcano": "2024-12-10 06:09:12 +0000",
+      "pasture": "2024-12-02 04:14:15 +0000",
+      "lavender_field": "2024-12-09 00:21:50 +0000",
+      "fir_clearing": "2024-11-29 04:06:54 +0000",
+      "pumpkin_patch": "2024-12-02 00:40:36 +0000",
+      "grassland": "2024-12-02 00:37:54 +0000",
+      "prairie": "2024-12-02 04:14:57 +0000",
+      "snowy_coniferous_forest": "2024-12-01 20:52:31 +0000",
+      "snowy_fir_clearing": "2024-12-01 22:56:51 +0000",
+      "tundra": "2024-12-01 23:01:04 +0000",
+      "glowing_grotto": "2024-12-10 07:20:03 +0000",
+      "undergrowth": "2024-12-02 06:27:07 +0000",
+      "crag": "2024-12-02 00:11:55 +0000",
+      "snowy_maple_woods": "2024-12-01 20:56:13 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "cold_desert": "2024-11-16 03:32:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-16 03:33:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-11-16 03:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-11-16 03:36:47 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-11-16 03:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-11-16 03:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-11-16 03:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-12-02 00:22:15 +0000",
+      "minecraft:blaze": "2024-12-02 06:20:10 +0000",
+      "minecraft:skeleton": "2024-11-16 03:38:47 +0000",
+      "minecraft:ravager": "2024-12-09 01:00:09 +0000",
+      "minecraft:ghast": "2024-12-09 03:54:07 +0000",
+      "minecraft:hoglin": "2024-12-02 06:27:51 +0000",
+      "minecraft:vindicator": "2024-12-02 00:25:38 +0000",
+      "minecraft:magma_cube": "2024-12-02 06:21:35 +0000",
+      "minecraft:spider": "2024-11-16 03:58:19 +0000",
+      "minecraft:piglin_brute": "2024-12-02 06:29:17 +0000",
+      "minecraft:creeper": "2024-11-16 03:57:18 +0000",
+      "minecraft:slime": "2024-11-16 05:53:48 +0000",
+      "minecraft:evoker": "2024-12-09 00:44:42 +0000",
+      "minecraft:zombified_piglin": "2024-12-02 03:05:02 +0000",
+      "minecraft:witch": "2024-11-16 04:34:29 +0000",
+      "minecraft:wither_skeleton": "2024-12-02 02:54:07 +0000",
+      "minecraft:husk": "2024-11-16 05:54:52 +0000",
+      "minecraft:cave_spider": "2024-11-16 04:22:12 +0000",
+      "minecraft:piglin": "2024-12-02 06:28:29 +0000",
+      "minecraft:silverfish": "2024-11-16 04:40:38 +0000",
+      "minecraft:stray": "2024-11-16 05:56:00 +0000",
+      "minecraft:enderman": "2024-12-02 00:36:00 +0000",
+      "minecraft:vex": "2024-12-09 01:24:14 +0000",
+      "minecraft:zombie": "2024-11-16 03:39:36 +0000",
+      "minecraft:zombie_villager": "2024-11-16 05:23:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-11-16 03:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-11-29 03:50:51 +0000",
+      "cooked_mutton": "2024-11-29 03:58:57 +0000",
+      "cooked_beef": "2024-11-29 04:21:32 +0000",
+      "baked_potato": "2024-12-01 22:50:39 +0000",
+      "porkchop": "2024-12-09 01:15:01 +0000",
+      "apple": "2024-11-16 07:21:36 +0000",
+      "pumpkin_pie": "2024-11-16 07:25:20 +0000",
+      "bread": "2024-11-16 03:40:31 +0000",
+      "golden_apple": "2024-12-09 04:08:22 +0000",
+      "rotten_flesh": "2024-11-16 05:26:11 +0000",
+      "suspicious_stew": "2024-12-14 06:54:41 +0000",
+      "golden_carrot": "2024-12-09 03:03:50 +0000",
+      "cooked_chicken": "2024-11-29 04:15:54 +0000",
+      "rabbit_stew": "2024-12-09 04:14:19 +0000",
+      "cooked_salmon": "2024-12-09 01:15:53 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2024-11-16 03:43:26 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-11-16 03:43:26 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-11-16 03:43:26 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2024-11-16 03:44:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-11-16 03:44:14 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2024-11-16 03:50:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-11-16 03:57:16 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2024-11-16 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-11-16 06:48:48 +0000",
+      "minecraft:eroded_badlands": "2024-11-20 03:24:56 +0000",
+      "minecraft:frozen_river": "2024-11-16 06:45:24 +0000",
+      "minecraft:sunflower_plains": "2024-12-10 04:59:35 +0000",
+      "minecraft:birch_forest": "2024-12-02 00:37:56 +0000",
+      "minecraft:windswept_hills": "2024-11-30 05:01:46 +0000",
+      "minecraft:badlands": "2024-12-09 05:27:00 +0000",
+      "minecraft:savanna_plateau": "2024-12-10 06:53:18 +0000",
+      "minecraft:beach": "2024-11-29 04:47:02 +0000",
+      "minecraft:dark_forest": "2024-12-10 05:44:18 +0000",
+      "minecraft:stony_peaks": "2024-12-10 06:53:51 +0000",
+      "minecraft:river": "2024-11-16 06:42:07 +0000",
+      "minecraft:lukewarm_ocean": "2024-11-30 03:23:50 +0000",
+      "minecraft:snowy_plains": "2024-12-01 22:54:29 +0000",
+      "minecraft:stony_shore": "2024-12-02 01:19:23 +0000",
+      "minecraft:snowy_taiga": "2024-12-01 20:37:15 +0000",
+      "minecraft:swamp": "2024-11-30 05:07:47 +0000",
+      "minecraft:grove": "2024-12-10 05:42:09 +0000",
+      "minecraft:jagged_peaks": "2024-12-10 05:26:45 +0000",
+      "minecraft:cold_ocean": "2024-11-29 04:06:26 +0000",
+      "minecraft:forest": "2024-11-29 03:44:25 +0000",
+      "minecraft:lush_caves": "2024-12-14 04:59:01 +0000",
+      "minecraft:frozen_ocean": "2024-12-01 20:34:58 +0000",
+      "minecraft:windswept_forest": "2024-12-01 20:42:14 +0000",
+      "minecraft:snowy_beach": "2024-11-16 04:15:13 +0000",
+      "minecraft:flower_forest": "2024-12-09 00:39:09 +0000",
+      "minecraft:frozen_peaks": "2024-12-10 05:27:17 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-10 05:15:50 +0000",
+      "minecraft:deep_dark": "2024-11-20 03:08:03 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-11-29 03:43:54 +0000",
+      "minecraft:savanna": "2024-12-02 01:17:58 +0000",
+      "minecraft:plains": "2024-11-29 03:25:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-11-16 04:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-11-16 04:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-11-16 04:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-11-16 04:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-11-16 04:54:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2024-11-16 05:18:17 +0000"
+    },
+    "done": true
+  },
+  "seadwellers:adv_barter_fish": {
+    "criteria": {
+      "adv_barter_fish": "2024-11-16 05:19:11 +0000"
+    },
+    "done": true
+  },
+  "seadwellers:adv_open_casket": {
+    "criteria": {
+      "adv_open_casket": "2024-11-16 05:19:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-11-16 05:45:43 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2024-11-16 05:47:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2024-11-16 05:48:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2024-11-16 05:51:58 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2024-11-16 05:53:50 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:undead_army": {
+    "criteria": {
+      "army_defeated": "2024-11-16 05:57:00 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:undead_army_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-11-16 06:00:19 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/tattered_armor": {
+    "criteria": {
+      "has_cloth": "2024-11-16 06:00:25 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-11-16 06:05:58 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2024-11-16 06:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-11-16 06:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-11-16 06:14:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-11-16 06:29:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-11-16 07:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-11-16 07:15:34 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-11-16 07:37:53 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2024-11-16 07:52:50 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-11-16 07:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-11-20 03:05:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-11-20 03:05:22 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-11-20 03:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-11-20 03:09:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2024-11-20 03:20:12 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
+    "criteria": {
+      "requirement": "2024-11-29 03:21:34 +0000"
+    },
+    "done": true
+  },
+  "realmrpg_quests:refuse_quest": {
+    "criteria": {
+      "refuse_quest_0": "2024-11-29 03:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-11-29 03:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-11-29 04:24:14 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding": {
+    "criteria": {
+      "bleeding_applied": "2024-11-29 04:24:45 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "blue": "2024-11-29 05:18:08 +0000",
+      "yellow": "2024-12-09 02:23:02 +0000",
+      "lavender": "2024-11-30 05:26:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-11-30 03:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-11-30 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2024-11-30 04:27:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-11-30 04:30:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2024-11-30 04:39:26 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2024-11-30 04:43:41 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2024-11-30 04:57:35 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2024-11-30 05:42:38 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-01 20:34:59 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-01 20:42:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2024-12-01 21:03:02 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-01 23:08:00 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding_cactus": {
+    "criteria": {
+      "bleeding_applied": "2024-12-01 23:24:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-01 23:28:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2024-12-01 23:40:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2024-12-02 00:14:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-12-02 00:14:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-02 00:22:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2024-12-02 00:42:03 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2024-12-02 01:25:43 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2024-12-02 01:30:56 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2024-12-02 02:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-02 02:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-02 02:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-02 06:24:03 +0000",
+      "minecraft:nether_wastes": "2024-12-09 03:51:43 +0000",
+      "minecraft:soul_sand_valley": "2024-12-09 03:55:43 +0000",
+      "minecraft:warped_forest": "2024-12-02 02:53:22 +0000",
+      "minecraft:basalt_deltas": "2024-12-09 03:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-12-02 02:53:22 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2024-12-02 04:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-02 04:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-02 05:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-02 05:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-02 06:28:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-02 06:29:21 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2024-12-02 06:42:57 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_artificer": {
+    "criteria": {
+      "requirement": "2024-12-02 06:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-02 06:51:56 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-12-08 23:36:44 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2024-12-09 00:32:54 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2024-12-09 02:15:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "jar": "2024-12-09 03:02:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-09 03:15:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2024-12-09 03:18:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2024-12-09 03:23:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2024-12-09 03:23:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2024-12-09 03:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-09 03:51:55 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2024-12-09 04:11:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-12-09 04:16:13 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:kill_yourself": {
+    "criteria": {
+      "kill_yourself": "2024-12-09 05:38:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2024-12-09 06:00:40 +0000"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2024-12-09 06:01:45 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/laviathan_spyglass": {
+    "criteria": {
+      "spyglass_at_bison": "2024-12-09 06:24:20 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2024-12-09 06:29:52 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:gauntlet": "2024-12-09 07:06:38 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
+    "criteria": {
+      "requirement": "2024-12-10 04:09:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-10 05:05:07 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2024-12-10 05:16:15 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_wayward_compass": {
+    "criteria": {
+      "inscription_table": "2024-12-10 05:28:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2024-12-10 05:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2024-12-10 07:18:52 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2024-12-12 05:52:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-12-14 07:00:43 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

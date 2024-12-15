@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedstorage:chest|true", "sophisticatedstorage:iron_barrel|true", "sophisticatedstorage:stack_upgrade_tier_1|true", "sophisticatedstorage:stack_upgrade_tier_2|true", "sophisticatedstorage:stack_upgrade_tier_3|true", "sophisticatedstorage:stack_upgrade_tier_4|true", "sophisticatedstorage:shulker_box|true"]
+
