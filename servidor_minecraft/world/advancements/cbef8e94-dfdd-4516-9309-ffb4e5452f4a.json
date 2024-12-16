@@ -196,6 +196,7 @@
       "minecraft:vindicator": "2024-12-09 01:27:44 +0000",
       "minecraft:spider": "2024-11-16 06:19:40 +0000",
       "minecraft:creeper": "2024-11-16 05:56:19 +0000",
+      "minecraft:slime": "2024-12-16 05:02:01 +0000",
       "minecraft:phantom": "2024-12-09 02:24:44 +0000",
       "minecraft:zombified_piglin": "2024-12-09 04:20:09 +0000",
       "minecraft:witch": "2024-11-16 04:35:44 +0000",
@@ -796,6 +797,18 @@
   "twilightforest:progress_naga": {
     "criteria": {
       "trophy": "2024-12-16 04:16:12 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-12-16 04:36:17 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2024-12-16 05:02:05 +0000"
     },
     "done": true
   },
