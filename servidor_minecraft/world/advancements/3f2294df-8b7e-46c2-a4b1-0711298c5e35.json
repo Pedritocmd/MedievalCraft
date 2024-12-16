@@ -1197,9 +1197,21 @@
     },
     "done": true
   },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2024-12-16 03:28:48 +0000"
+    },
+    "done": true
+  },
   "twilightforest:hill1": {
     "criteria": {
       "redcap": "2024-12-16 03:02:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "swarm_spider": "2024-12-16 03:20:32 +0000"
     },
     "done": true
   },
