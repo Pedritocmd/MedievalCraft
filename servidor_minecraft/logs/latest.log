@@ -3029,3 +3029,7 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [16Dec2024 21:41:00.225] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mary'/8555, l='ServerLevel[world]', x=509.44, y=62.18, z=2370.36] died: Mary was slain by Sea Serpent
 [16Dec2024 21:41:02.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
 [16Dec2024 21:41:55.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Teleported junior_mtz_ to -343.000000, 86.000000, 1069.000000]
+[16Dec2024 22:04:26.130] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: junior_mtz_ lost connection: Disconnected
+[16Dec2024 22:04:26.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ left the game
+[16Dec2024 22:08:17.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] xd
+[16Dec2024 22:11:14.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
