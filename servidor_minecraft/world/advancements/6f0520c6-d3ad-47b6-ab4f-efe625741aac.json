@@ -873,15 +873,9 @@
     },
     "done": true
   },
-  "twilightforest:progress_naga": {
+  "twilightforest:root": {
     "criteria": {
-      "was_in_fight": "2024-12-16 03:40:23 +0000"
-    },
-    "done": true
-  },
-  "quark:overlevel_enchant": {
-    "criteria": {
-      "overlevel_enchant": "2024-12-16 03:49:08 +0000"
+      "in_tf": "2024-12-16 03:13:27 +0000"
     },
     "done": true
   },
@@ -891,9 +885,9 @@
     },
     "done": true
   },
-  "twilightforest:root": {
+  "twilightforest:progress_naga": {
     "criteria": {
-      "in_tf": "2024-12-16 03:13:27 +0000"
+      "was_in_fight": "2024-12-16 03:40:23 +0000"
     },
     "done": true
   },
@@ -902,6 +896,12 @@
       "kill_naga": "2024-12-16 03:40:23 +0000"
     },
     "done": false
+  },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2024-12-16 03:49:08 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

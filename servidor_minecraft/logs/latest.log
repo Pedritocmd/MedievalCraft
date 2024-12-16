@@ -3004,3 +3004,28 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [16Dec2024 21:28:47.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Teleported junior_mtz_ to -242.000000, 81.000000, 990.000000]
 [16Dec2024 21:28:53.955] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
 [16Dec2024 21:30:28.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ahh perro isando espectador ehhhh
+[16Dec2024 21:37:12.972] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Pepeowo is 6f0520c6-d3ad-47b6-ab4f-efe625741aac
+[16Dec2024 21:37:18.582] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepeowo[/127.121.247.159:53019] logged in with entity id 7916 at (-348.51249998807907, 86.0, 1060.2790173513608)
+[16Dec2024 21:37:18.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo joined the game
+[16Dec2024 21:37:18.965] [Server thread/INFO] [Jade/]: Syncing config to Pepeowo (6f0520c6-d3ad-47b6-ab4f-efe625741aac)
+[16Dec2024 21:37:22.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16Dec2024 21:37:42.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to junior_mtz_]
+[16Dec2024 21:37:51.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Teleported junior_mtz_ to 612.000000, 122.000000, 2231.000000]
+[16Dec2024 21:37:51.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepeowo moved too quickly! 0.4146088365482399,0.0,10.70497611179178
+[16Dec2024 21:37:51.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[16Dec2024 21:38:04.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <junior_mtz_> NO MMS ME ASUSTE
+[16Dec2024 21:38:10.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <junior_mtz_> JASJAJSAJSJASJAS
+[16Dec2024 21:38:12.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to junior_mtz_]
+[16Dec2024 21:38:14.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8061ms or 161 ticks behind
+[16Dec2024 21:38:23.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <junior_mtz_> NO MMS JASJASJAS
+[16Dec2024 21:38:33.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> jajajajajaajajaja
+[16Dec2024 21:38:45.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> que andas bucando joven?
+[16Dec2024 21:39:16.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <junior_mtz_> ds?
+[16Dec2024 21:39:21.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> vava
+[16Dec2024 21:39:23.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <junior_mtz_> hijo del diablo
+[16Dec2024 21:40:29.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -327.500000, 85.500000, 1072.500000]
+[16Dec2024 21:40:42.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3106ms or 62 ticks behind
+[16Dec2024 21:41:00.223] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mary'/8555, l='ServerLevel[world]', x=509.44, y=62.18, z=2370.36] died, message: 'Mary was slain by Sea Serpent'
+[16Dec2024 21:41:00.225] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mary'/8555, l='ServerLevel[world]', x=509.44, y=62.18, z=2370.36] died: Mary was slain by Sea Serpent
+[16Dec2024 21:41:02.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[16Dec2024 21:41:55.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Teleported junior_mtz_ to -343.000000, 86.000000, 1069.000000]
