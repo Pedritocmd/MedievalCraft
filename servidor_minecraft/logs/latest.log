@@ -3027,3 +3027,17 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [16Dec2024 01:49:32.671] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [polymorph:main] rejected their client side version number
 [16Dec2024 01:49:32.672] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [16Dec2024 01:49:32.715] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@22a031dd[id=8a74da1a-e9d6-4df9-b95e-7cdb19e4c545,name=Pepishikita21,properties={textures=[com.mojang.authlib.properties.Property@fa5c660]},legacy=false] (/127.115.246.240:57201) lost connection: Connection closed - mismatched mod channel list
+[16Dec2024 01:50:04.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -413.500000, 85.500000, 1128.500000]
+[16Dec2024 01:50:08.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[16Dec2024 01:50:10.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[16Dec2024 01:56:29.430] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Pepishikita21 is 8a74da1a-e9d6-4df9-b95e-7cdb19e4c545
+[16Dec2024 01:56:43.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepishikita21[/127.115.246.240:45683] logged in with entity id 9567 at (-400.7416144666266, 92.0, 1181.063901037442)
+[16Dec2024 01:56:43.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 joined the game
+[16Dec2024 01:56:43.755] [Server thread/INFO] [Jade/]: Syncing config to Pepishikita21 (8a74da1a-e9d6-4df9-b95e-7cdb19e4c545)
+[16Dec2024 01:56:45.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[16Dec2024 01:57:25.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> aló
+[16Dec2024 01:58:20.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Cuando quiera hacer la armadura me dice
+[16Dec2024 01:58:42.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> todo gud y usted?
+[16Dec2024 01:59:08.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> me hubiese avisado :c
+[16Dec2024 01:59:56.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Y pudo hace los desafíos?
+[16Dec2024 02:00:11.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> jsjsjsjs
