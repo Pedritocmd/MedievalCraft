@@ -820,6 +820,7 @@
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_log": "2024-12-16 02:39:56 +0000",
+      "liveroot": "2024-12-16 03:15:03 +0000",
       "twilight_oak_sapling": "2024-12-16 02:40:03 +0000"
     },
     "done": false
@@ -833,6 +834,18 @@
   "twilightforest:kill_cicada": {
     "criteria": {
       "kill_cicada": "2024-12-16 02:46:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2024-12-16 03:09:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hill1": {
+    "criteria": {
+      "redcap": "2024-12-16 03:03:10 +0000"
     },
     "done": true
   },
