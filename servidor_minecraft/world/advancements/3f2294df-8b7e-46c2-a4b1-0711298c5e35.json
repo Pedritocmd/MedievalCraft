@@ -1178,6 +1178,12 @@
     },
     "done": true
   },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2024-12-16 05:43:04 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_naga": {
     "criteria": {
       "was_in_fight": "2024-12-16 03:40:23 +0000"
