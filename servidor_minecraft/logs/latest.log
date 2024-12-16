@@ -3577,3 +3577,28 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [16Dec2024 05:14:20.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> No me odiaba según ella xD
 [16Dec2024 05:14:51.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: junior_mtz_ lost connection: Disconnected
 [16Dec2024 05:14:51.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ left the game
+[16Dec2024 05:16:43.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ah no lo mio fue desde hace un año más que superado
+[16Dec2024 05:17:15.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[16Dec2024 05:17:44.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Estaba viendo el sector de Pepe
+[16Dec2024 05:17:45.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> XD
+[16Dec2024 05:17:53.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -557.500000, -58.500000, 1067.500000]
+[16Dec2024 05:17:56.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Lo que minó
+[16Dec2024 05:18:06.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Sisis en espectador se ve tremendo coso
+[16Dec2024 05:18:36.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[16Dec2024 05:18:45.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Lo fokin makina del carreo
+[16Dec2024 05:18:48.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -327.500000, 85.500000, 1072.500000]
+[16Dec2024 05:18:52.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2238ms or 44 ticks behind
+[16Dec2024 05:19:02.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ay no xD
+[16Dec2024 05:19:46.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Hace ratos con GOndar pero se mimió
+[16Dec2024 05:20:45.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> si es
+[16Dec2024 05:21:39.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> sng pepeowo #lan
+[16Dec2024 05:21:42.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Mentiras tiene ver a su Seraphine Pepe
+[16Dec2024 05:21:46.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Tremenda
+[16Dec2024 05:22:16.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -413.500000, 85.500000, 1128.500000]
+[16Dec2024 05:22:23.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 lost connection: Timed out
+[16Dec2024 05:22:23.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 left the game
+[16Dec2024 05:23:18.988] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Pepishikita21 is 8a74da1a-e9d6-4df9-b95e-7cdb19e4c545
+[16Dec2024 05:23:42.170] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepishikita21[/127.115.246.240:44189] logged in with entity id 178620 at (-605.7434646863238, -59.0, 1090.5362513458242)
+[16Dec2024 05:23:42.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 joined the game
+[16Dec2024 05:23:42.330] [Server thread/INFO] [Jade/]: Syncing config to Pepishikita21 (8a74da1a-e9d6-4df9-b95e-7cdb19e4c545)
+[16Dec2024 05:23:45.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
