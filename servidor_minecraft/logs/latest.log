@@ -3003,3 +3003,27 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [16Dec2024 01:37:17.392] [Server thread/INFO] [Jade/]: Syncing config to JhynMC (3f2294df-8b7e-46c2-a4b1-0711298c5e35)
 [16Dec2024 01:37:21.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4723ms or 94 ticks behind
 [16Dec2024 01:37:46.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9800ms or 196 ticks behind
+[16Dec2024 01:40:54.325] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Disconnected
+[16Dec2024 01:40:54.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
+[16Dec2024 01:42:38.239] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JhynMC is 3f2294df-8b7e-46c2-a4b1-0711298c5e35
+[16Dec2024 01:42:55.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhynMC[/127.242.210.13:60095] logged in with entity id 1137 at (-409.5, 90.5625, 1116.5)
+[16Dec2024 01:42:55.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC joined the game
+[16Dec2024 01:42:55.559] [Server thread/INFO] [Jade/]: Syncing config to JhynMC (3f2294df-8b7e-46c2-a4b1-0711298c5e35)
+[16Dec2024 01:42:58.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[16Dec2024 01:45:07.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -1763.500000, -22.500000, 1999.500000]
+[16Dec2024 01:45:07.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[16Dec2024 01:45:41.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[16Dec2024 01:46:50.696] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Pepishikita21 is 8a74da1a-e9d6-4df9-b95e-7cdb19e4c545
+[16Dec2024 01:46:50.874] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [polymorph:main] rejected their client side version number
+[16Dec2024 01:46:50.875] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[16Dec2024 01:46:50.922] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@331dd275[id=8a74da1a-e9d6-4df9-b95e-7cdb19e4c545,name=Pepishikita21,properties={textures=[com.mojang.authlib.properties.Property@88e8b0b]},legacy=false] (/127.115.246.240:42135) lost connection: Connection closed - mismatched mod channel list
+[16Dec2024 01:48:49.765] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@531f113d[id=<null>,name=Pepishikita21,properties={},legacy=false] (/127.115.246.240:32807) lost connection: Disconnected
+[16Dec2024 01:48:57.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Wither Howitzer]
+[16Dec2024 01:49:10.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new The Harbinger]
+[16Dec2024 01:49:16.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[16Dec2024 01:49:21.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[16Dec2024 01:49:24.232] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f030224[id=<null>,name=Pepishikita21,properties={},legacy=false] (/127.115.246.240:53809) lost connection: Disconnected
+[16Dec2024 01:49:32.276] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Pepishikita21 is 8a74da1a-e9d6-4df9-b95e-7cdb19e4c545
+[16Dec2024 01:49:32.671] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [polymorph:main] rejected their client side version number
+[16Dec2024 01:49:32.672] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[16Dec2024 01:49:32.715] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@22a031dd[id=8a74da1a-e9d6-4df9-b95e-7cdb19e4c545,name=Pepishikita21,properties={textures=[com.mojang.authlib.properties.Property@fa5c660]},legacy=false] (/127.115.246.240:57201) lost connection: Connection closed - mismatched mod channel list
