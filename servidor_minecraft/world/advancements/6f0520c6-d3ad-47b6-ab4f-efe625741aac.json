@@ -873,6 +873,12 @@
     },
     "done": true
   },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2024-12-16 03:37:10 +0000"
+    },
+    "done": true
+  },
   "twilightforest:root": {
     "criteria": {
       "in_tf": "2024-12-16 03:13:27 +0000"

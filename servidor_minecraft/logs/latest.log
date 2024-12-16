@@ -3187,3 +3187,52 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [16Dec2024 03:31:58.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
 [16Dec2024 03:32:10.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
 [16Dec2024 03:32:11.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[16Dec2024 03:32:31.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4990ms or 99 ticks behind
+[16Dec2024 03:33:14.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -413.500000, 85.500000, 1128.500000]
+[16Dec2024 03:33:28.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[16Dec2024 03:33:54.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Dele al menu de los waypoints > Options > Sub Worlds
+[16Dec2024 03:34:05.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[16Dec2024 03:34:35.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> jhyn ya soy una excavadora jajajajaja
+[16Dec2024 03:34:49.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> JSJSJSJ
+[16Dec2024 03:35:09.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[16Dec2024 03:35:16.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> mira ve
+[16Dec2024 03:35:24.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> bueno voy mejor
+[16Dec2024 03:35:30.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to JhynMC]
+[16Dec2024 03:35:47.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> mira
+[16Dec2024 03:35:53.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ALAAA
+[16Dec2024 03:36:33.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> ya llevo 54 diamantes
+[16Dec2024 03:36:49.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> :o
+[16Dec2024 03:36:53.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ta roto eso
+[16Dec2024 03:36:55.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [I Can See Forever]
+[16Dec2024 03:37:04.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [I Can See Forever]
+[16Dec2024 03:37:08.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> bueno compermiso
+[16Dec2024 03:37:10.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo has made the advancement [I Can See Forever]
+[16Dec2024 03:37:23.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> que es eso
+[16Dec2024 03:37:35.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Un mapa con las dugeons creo
+[16Dec2024 03:37:38.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> aaaaah estamos en le twlight
+[16Dec2024 03:38:00.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> creo que como estan andan bien rotos para esto
+[16Dec2024 03:38:10.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> ya mataron al naga?
+[16Dec2024 03:38:14.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Aún no
+[16Dec2024 03:38:31.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> vengan
+[16Dec2024 03:39:22.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> vene pepi vamos a matar una serpiente
+[16Dec2024 03:39:27.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[16Dec2024 03:40:23.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has reached the goal [Time To Even The Scales]
+[16Dec2024 03:40:23.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has reached the goal [Time To Even The Scales]
+[16Dec2024 03:40:23.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo has reached the goal [Time To Even The Scales]
+[16Dec2024 03:40:29.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> siiiiiiiiiiiu
+[16Dec2024 03:40:54.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> aqui
+[16Dec2024 03:41:00.923] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player junior_mtz_ is cbef8e94-dfdd-4516-9309-ffb4e5452f4a
+[16Dec2024 03:41:01.094] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedstorage:channel] rejected their client side version number
+[16Dec2024 03:41:01.096] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[16Dec2024 03:41:01.125] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6c8252c3[id=cbef8e94-dfdd-4516-9309-ffb4e5452f4a,name=junior_mtz_,properties={textures=[com.mojang.authlib.properties.Property@2a0e66a8]},legacy=false] (/127.143.68.152:56547) lost connection: Connection closed - mismatched mod channel list
+[16Dec2024 03:41:09.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> nambre en apocalipsis minecraft se veía más difícil xD
+[16Dec2024 03:41:11.184] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player junior_mtz_ is cbef8e94-dfdd-4516-9309-ffb4e5452f4a
+[16Dec2024 03:41:11.349] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sophisticatedstorage:channel] rejected their client side version number
+[16Dec2024 03:41:11.350] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[16Dec2024 03:41:11.376] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@53d6bc24[id=cbef8e94-dfdd-4516-9309-ffb4e5452f4a,name=junior_mtz_,properties={textures=[com.mojang.authlib.properties.Property@2eae7201]},legacy=false] (/127.143.68.152:43053) lost connection: Connection closed - mismatched mod channel list
+[16Dec2024 03:41:26.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> es que jhyn tamos mas rotos
+[16Dec2024 03:41:50.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> ocupan eso para las otra sonas
+[16Dec2024 03:42:01.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> quedecelo
+[16Dec2024 03:42:14.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> es que yo me voy a regresar
+[16Dec2024 03:42:36.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> que cuapo
+[16Dec2024 03:42:40.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Sssss
