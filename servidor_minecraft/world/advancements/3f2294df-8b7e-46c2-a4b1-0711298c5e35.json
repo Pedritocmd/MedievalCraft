@@ -1184,6 +1184,13 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_log": "2024-12-16 02:56:10 +0000",
+      "liveroot": "2024-12-16 02:49:04 +0000"
+    },
+    "done": false
+  },
   "twilightforest:root": {
     "criteria": {
       "make_portal": "2024-12-16 02:34:03 +0000"
