@@ -793,5 +793,23 @@
     },
     "done": true
   },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "trophy": "2024-12-16 04:16:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "canopy_planks": "2024-12-16 04:30:45 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2024-12-16 04:16:12 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

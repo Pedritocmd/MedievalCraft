@@ -12278,3 +12278,338 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [16Dec2024 04:03:11.282] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [16Dec2024 04:03:20.215] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [16Dec2024 04:03:24.573] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:03:52.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[16Dec2024 04:04:12.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5470ms or 109 ticks behind
+[16Dec2024 04:04:14.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> andaba yo muy prguntón
+[16Dec2024 04:04:29.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -52.500000, 5.500000, 1555.500000]
+[16Dec2024 04:04:39.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[16Dec2024 04:04:40.260] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:04:42.735] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -525 1061 1061 VisualFallingBlockEntity['Falling Deepslate'/149875, l='ServerLevel[world]', x=-524.50, y=-56.00, z=1061.50]
+[16Dec2024 04:04:42.736] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -522 1064 1064 VisualFallingBlockEntity['Falling Deepslate'/149876, l='ServerLevel[world]', x=-521.50, y=-57.00, z=1064.50]
+[16Dec2024 04:04:51.846] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -526 1067 1067 VisualFallingBlockEntity['Falling Deepslate'/150037, l='ServerLevel[world]', x=-525.50, y=-58.00, z=1067.50]
+[16Dec2024 04:04:53.552] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:04:53.553] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:04:55.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to junior_mtz_]
+[16Dec2024 04:04:56.809] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -522 1074 1074 VisualFallingBlockEntity['Falling Deepslate'/150135, l='ServerLevel[world]', x=-521.50, y=-55.00, z=1074.50]
+[16Dec2024 04:04:58.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3842ms or 76 ticks behind
+[16Dec2024 04:05:10.611] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:tuff} -523 1083 1083 VisualFallingBlockEntity['Falling Tuff'/150399, l='ServerLevel[world]', x=-522.50, y=-57.00, z=1083.50]
+[16Dec2024 04:05:13.623] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:tuff} -523 1088 1088 VisualFallingBlockEntity['Falling Tuff'/150454, l='ServerLevel[world]', x=-522.50, y=-55.00, z=1088.50]
+[16Dec2024 04:05:13.625] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -526 1086 1086 VisualFallingBlockEntity['Falling Deepslate'/150455, l='ServerLevel[world]', x=-525.50, y=-57.00, z=1086.50]
+[16Dec2024 04:05:25.871] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -526 1093 1093 VisualFallingBlockEntity['Falling Deepslate'/150611, l='ServerLevel[world]', x=-525.50, y=-55.00, z=1093.50]
+[16Dec2024 04:05:38.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> que pajo?
+[16Dec2024 04:05:45.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Justamente me ando peleando con un vibora
+[16Dec2024 04:05:56.654] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -518 1044 1044 VisualFallingBlockEntity['Falling Deepslate'/151101, l='ServerLevel[world]', x=-517.50, y=-59.00, z=1044.50]
+[16Dec2024 04:05:56.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> nu me hablo con ella
+[16Dec2024 04:06:39.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Simplemente es amiga de pidi, yo solo le hablo cuando ta pidi
+[16Dec2024 04:06:40.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[16Dec2024 04:06:42.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[16Dec2024 04:06:48.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[16Dec2024 04:07:02.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> toda vibora
+[16Dec2024 04:07:11.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Sí
+[16Dec2024 04:07:12.593] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:07:24.220] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:07:24.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> sabías que no todas las víbora hacen ssss?
+[16Dec2024 04:07:26.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> aber cuente shusme
+[16Dec2024 04:07:28.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Algunas dicen oa
+[16Dec2024 04:07:38.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> JAJAJJAJA
+[16Dec2024 04:07:41.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 04:07:41.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 04:08:04.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> y si
+[16Dec2024 04:08:13.074] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -536 1048 1048 VisualFallingBlockEntity['Falling Deepslate'/152116, l='ServerLevel[world]', x=-535.50, y=-57.00, z=1048.50]
+[16Dec2024 04:08:13.082] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -536 1049 1049 VisualFallingBlockEntity['Falling Deepslate'/152117, l='ServerLevel[world]', x=-535.50, y=-56.00, z=1049.50]
+[16Dec2024 04:08:24.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Pero a ver aclarense entre ustedes xD
+[16Dec2024 04:08:44.372] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:08:44.679] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:08:46.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Junior ta hablando de K y Pepi de Ive no?
+[16Dec2024 04:08:56.678] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -533 1069 1069 VisualFallingBlockEntity['Falling Deepslate'/152290, l='ServerLevel[world]', x=-532.50, y=-57.00, z=1069.50]
+[16Dec2024 04:08:57.022] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:09:05.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> why?
+[16Dec2024 04:09:08.125] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -536 1076 1076 VisualFallingBlockEntity['Falling Deepslate'/152342, l='ServerLevel[world]', x=-535.50, y=-55.00, z=1076.50]
+[16Dec2024 04:09:08.129] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -532 1078 1078 VisualFallingBlockEntity['Falling Deepslate'/152343, l='ServerLevel[world]', x=-531.50, y=-55.00, z=1078.50]
+[16Dec2024 04:09:09.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ai no el chisme me persigue y yo no quiero
+[16Dec2024 04:09:10.423] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -532 1084 1084 VisualFallingBlockEntity['Falling Deepslate'/152372, l='ServerLevel[world]', x=-531.50, y=-55.00, z=1084.50]
+[16Dec2024 04:09:16.475] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -535 1087 1087 VisualFallingBlockEntity['Falling Deepslate'/152398, l='ServerLevel[world]', x=-534.50, y=-59.00, z=1087.50]
+[16Dec2024 04:09:16.479] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -532 1089 1089 VisualFallingBlockEntity['Falling Deepslate'/152399, l='ServerLevel[world]', x=-531.50, y=-59.00, z=1089.50]
+[16Dec2024 04:09:17.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> que paso Juni
+[16Dec2024 04:09:20.501] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -532 1093 1093 VisualFallingBlockEntity['Falling Deepslate'/152415, l='ServerLevel[world]', x=-531.50, y=-56.00, z=1093.50]
+[16Dec2024 04:09:20.504] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -535 1091 1091 VisualFallingBlockEntity['Falling Deepslate'/152416, l='ServerLevel[world]', x=-534.50, y=-59.00, z=1091.50]
+[16Dec2024 04:09:28.993] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:tuff} -533 1099 1099 VisualFallingBlockEntity['Falling Tuff'/152470, l='ServerLevel[world]', x=-532.50, y=-55.00, z=1099.50]
+[16Dec2024 04:09:29.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> aqui tamos de shismosas
+[16Dec2024 04:09:33.976] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -534 1107 1107 VisualFallingBlockEntity['Falling Deepslate'/152516, l='ServerLevel[world]', x=-533.50, y=-55.00, z=1107.50]
+[16Dec2024 04:09:44.779] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -538 1044 1044 VisualFallingBlockEntity['Falling Deepslate'/152576, l='ServerLevel[world]', x=-537.50, y=-59.00, z=1044.50]
+[16Dec2024 04:10:00.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> pereme
+[16Dec2024 04:10:10.238] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -540 1054 1054 VisualFallingBlockEntity['Falling Deepslate'/152718, l='ServerLevel[world]', x=-539.50, y=-56.00, z=1054.50]
+[16Dec2024 04:10:34.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ya te dije que sí
+[16Dec2024 04:10:35.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> XD
+[16Dec2024 04:10:55.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ahh miren la capa
+[16Dec2024 04:11:20.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ya, oi si
+[16Dec2024 04:11:22.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> aber shusme
+[16Dec2024 04:11:24.627] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -539 1072 1072 VisualFallingBlockEntity['Falling Deepslate'/152948, l='ServerLevel[world]', x=-538.50, y=-59.00, z=1072.50]
+[16Dec2024 04:11:28.589] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -540 1079 1079 VisualFallingBlockEntity['Falling Deepslate'/152979, l='ServerLevel[world]', x=-539.50, y=-57.00, z=1079.50]
+[16Dec2024 04:12:08.138] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -537 1096 1096 VisualFallingBlockEntity['Falling Deepslate'/153228, l='ServerLevel[world]', x=-536.50, y=-56.00, z=1096.50]
+[16Dec2024 04:12:11.023] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -539 1104 1104 VisualFallingBlockEntity['Falling Deepslate'/153279, l='ServerLevel[world]', x=-538.50, y=-59.00, z=1104.50]
+[16Dec2024 04:12:11.036] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -538 1102 1102 VisualFallingBlockEntity['Falling Deepslate'/153280, l='ServerLevel[world]', x=-537.50, y=-56.00, z=1102.50]
+[16Dec2024 04:12:19.052] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:12:19.053] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:12:29.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> A
+[16Dec2024 04:12:31.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> JAJAJAJJA
+[16Dec2024 04:12:33.131] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:tuff} -546 1048 1048 VisualFallingBlockEntity['Falling Tuff'/153527, l='ServerLevel[world]', x=-545.50, y=-59.00, z=1048.50]
+[16Dec2024 04:12:38.372] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:12:41.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 04:12:41.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 04:12:47.152] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:12:47.154] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:12:49.925] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -544 1064 1064 VisualFallingBlockEntity['Falling Deepslate'/153592, l='ServerLevel[world]', x=-543.50, y=-59.00, z=1064.50]
+[16Dec2024 04:12:56.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> 2023 finales de Septiembre
+[16Dec2024 04:13:03.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> pasado
+[16Dec2024 04:13:05.221] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:13:05.222] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:13:08.942] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:13:48.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> peremee
+[16Dec2024 04:13:51.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> que estrees
+[16Dec2024 04:14:20.522] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -546 1092 1092 VisualFallingBlockEntity['Falling Deepslate'/153948, l='ServerLevel[world]', x=-545.50, y=-56.00, z=1092.50]
+[16Dec2024 04:14:36.577] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -544 1102 1102 VisualFallingBlockEntity['Falling Deepslate'/154067, l='ServerLevel[world]', x=-543.50, y=-57.00, z=1102.50]
+[16Dec2024 04:14:36.578] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -545 1101 1101 VisualFallingBlockEntity['Falling Deepslate'/154068, l='ServerLevel[world]', x=-544.50, y=-58.00, z=1101.50]
+[16Dec2024 04:14:56.799] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:14:56.799] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:14:56.800] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:15:04.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Si ven ese mensaje de la oscuridad y no sé qué?
+[16Dec2024 04:15:09.473] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:15:13.021] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:15:31.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Va eso es que se borran los items del suelo para quitar el lag
+[16Dec2024 04:15:49.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Así que cuidado con lo que tiran xd
+[16Dec2024 04:16:07.127] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:16:12.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ has reached the goal [Time To Even The Scales]
+[16Dec2024 04:16:16.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> oi si
+[16Dec2024 04:16:25.676] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	Index: 1
+	Listeners:
+		0: HIGH
+		1: ASM: class tschipp.carryon.events.CommonEvents onEntityRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		2: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		3: ASM: team.creative.playerrevive.server.ReviveEventServer@4df0616 playerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		4: NORMAL
+		5: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@4d892af3 onInteractWithEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		6: ASM: class tallestegg.guardvillagers.VillagerToGuard onEntityInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		7: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@4f35152c onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		8: ASM: class net.mcreator.seadwellers.procedures.VillagerTurnIntoMermorphProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		9: ASM: class net.mcreator.seadwellers.procedures.SeashellUseProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		10: ASM: class net.mcreator.seadwellers.procedures.MermorphTipsProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		11: ASM: com.talhanation.smallships.forge.events.PassengerEvents@4dbfa30b onPlayerInteractWithPassenger(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		12: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@41cef991 onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		13: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@32fb3e1e onPlayerRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		14: net.minecraftforge.eventbus.EventBus$$Lambda/0x00007b9088b69758@1a40bcd7
+		15: net.minecraftforge.eventbus.EventBus$$Lambda/0x00007b9088b69758@61402d02
+		16: net.minecraftforge.eventbus.EventBus$$Lambda/0x00007b9088b69758@46121ca0
+		17: net.minecraftforge.eventbus.EventBus$$Lambda/0x00007b9088b69758@2dca4aa3
+		18: ASM: class net.mcreator.endlessbiomes.procedures.ShiftlingRiftiteTeleportProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		19: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@399b8ce8 onEntityInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		20: ASM: com.natamus.villagernames.forge.events.ForgeVillagerEvent@7af0f26a onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		21: ASM: class twilightforest.events.ToolEvents onEntityInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		22: net.minecraftforge.eventbus.EventBus$$Lambda/0x00007b9088b69758@3273fdc9
+		23: net.minecraftforge.eventbus.EventBus$$Lambda/0x00007b9088b69758@52bbfeb8
+		24: net.minecraftforge.eventbus.EventBus$$Lambda/0x00007b9088b69758@49a1f53
+		25: net.minecraftforge.eventbus.EventBus$$Lambda/0x00007b9088b69758@7bfac231
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.0/net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36157_(Player.java:975)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1462)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1474)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1457)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[16Dec2024 04:16:25.681] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@22fbd354, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199) ~[carryon-forge-1.20.1-2.1.2.7.jar%23225!/:2.1.2.7]
+	at tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124) ~[carryon-forge-1.20.1-2.1.2.7.jar%23225!/:2.1.2.7]
+	at tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic) ~[carryon-forge-1.20.1-2.1.2.7.jar%23225!/:2.1.2.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764) ~[forge-1.20.1-47.3.0-universal.jar%23330!/:?]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:975) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1462) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1474) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1457) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[16Dec2024 04:16:37.776] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -550 1043 1043 VisualFallingBlockEntity['Falling Deepslate'/154540, l='ServerLevel[world]', x=-549.50, y=-58.00, z=1043.50]
+[16Dec2024 04:16:37.779] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -547 1043 1043 VisualFallingBlockEntity['Falling Deepslate'/154541, l='ServerLevel[world]', x=-546.50, y=-56.00, z=1043.50]
+[16Dec2024 04:16:51.772] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:tuff} -547 1052 1052 VisualFallingBlockEntity['Falling Tuff'/154588, l='ServerLevel[world]', x=-546.50, y=-57.00, z=1052.50]
+[16Dec2024 04:16:51.779] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:tuff} -550 1052 1052 VisualFallingBlockEntity['Falling Tuff'/154589, l='ServerLevel[world]', x=-549.50, y=-58.00, z=1052.50]
+[16Dec2024 04:16:53.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Viboren
+[16Dec2024 04:16:57.657] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -551 1057 1057 VisualFallingBlockEntity['Falling Deepslate'/154608, l='ServerLevel[world]', x=-550.50, y=-56.00, z=1057.50]
+[16Dec2024 04:17:07.972] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -547 1071 1071 VisualFallingBlockEntity['Falling Deepslate'/154665, l='ServerLevel[world]', x=-546.50, y=-58.00, z=1071.50]
+[16Dec2024 04:17:07.974] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -547 1072 1072 VisualFallingBlockEntity['Falling Deepslate'/154666, l='ServerLevel[world]', x=-546.50, y=-55.00, z=1072.50]
+[16Dec2024 04:17:07.978] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -550 1074 1074 VisualFallingBlockEntity['Falling Deepslate'/154667, l='ServerLevel[world]', x=-549.50, y=-56.00, z=1074.50]
+[16Dec2024 04:17:13.323] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -547 1079 1079 VisualFallingBlockEntity['Falling Deepslate'/154687, l='ServerLevel[world]', x=-546.50, y=-56.00, z=1079.50]
+[16Dec2024 04:17:18.116] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:17:31.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> yo la verdad, me aleje de tuish hace un buens
+[16Dec2024 04:17:32.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[16Dec2024 04:17:37.322] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -547 1087 1087 VisualFallingBlockEntity['Falling Deepslate'/154792, l='ServerLevel[world]', x=-546.50, y=-56.00, z=1087.50]
+[16Dec2024 04:17:41.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 04:17:41.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 04:17:57.269] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -550 1093 1093 VisualFallingBlockEntity['Falling Deepslate'/154862, l='ServerLevel[world]', x=-549.50, y=-56.00, z=1093.50]
+[16Dec2024 04:17:57.271] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -547 1092 1092 VisualFallingBlockEntity['Falling Deepslate'/154863, l='ServerLevel[world]', x=-546.50, y=-56.00, z=1092.50]
+[16Dec2024 04:17:57.276] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -551 1094 1094 VisualFallingBlockEntity['Falling Deepslate'/154864, l='ServerLevel[world]', x=-550.50, y=-55.00, z=1094.50]
+[16Dec2024 04:18:08.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> 1/100?
+[16Dec2024 04:18:10.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> asi?
+[16Dec2024 04:18:11.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[16Dec2024 04:18:23.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[16Dec2024 04:18:32.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> por lo mismo de que no te sentias bien?
+[16Dec2024 04:18:49.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[16Dec2024 04:18:58.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> luego le cuento algos
+[16Dec2024 04:19:06.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <junior_mtz_> ay mis sueg....
+[16Dec2024 04:19:20.322] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:19:20.323] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:19:22.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[16Dec2024 04:19:23.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Claro
+[16Dec2024 04:19:28.870] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:19:28.871] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:19:29.219] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -554 1044 1044 VisualFallingBlockEntity['Falling Deepslate'/155177, l='ServerLevel[world]', x=-553.50, y=-57.00, z=1044.50]
+[16Dec2024 04:19:38.275] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -553 1057 1057 VisualFallingBlockEntity['Falling Deepslate'/155226, l='ServerLevel[world]', x=-552.50, y=-58.00, z=1057.50]
+[16Dec2024 04:19:38.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> tosico
+[16Dec2024 04:19:51.652] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:20:12.824] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -555 1078 1078 VisualFallingBlockEntity['Falling Deepslate'/155345, l='ServerLevel[world]', x=-554.50, y=-59.00, z=1078.50]
+[16Dec2024 04:20:21.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> quien lo viera
+[16Dec2024 04:20:23.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ora pues
+[16Dec2024 04:20:32.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> si, eso me han dicho
+[16Dec2024 04:20:46.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ya qué dile todo xD
+[16Dec2024 04:20:47.223] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:20:52.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> JAJAJAJA
+[16Dec2024 04:20:54.757] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -555 1104 1104 VisualFallingBlockEntity['Falling Deepslate'/155512, l='ServerLevel[world]', x=-554.50, y=-57.00, z=1104.50]
+[16Dec2024 04:20:57.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> todo indigando
+[16Dec2024 04:21:02.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> shisme por shisme
+[16Dec2024 04:21:22.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> nop
+[16Dec2024 04:21:33.787] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:21:34.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Perate me perdí
+[16Dec2024 04:21:37.773] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:21:44.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ahh eso fue como a las 2 semanas
+[16Dec2024 04:21:50.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> alexito o k?
+[16Dec2024 04:21:51.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[16Dec2024 04:22:41.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 04:22:41.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 04:22:42.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! -9.988613141256337,0.0,-0.7768287435374077
+[16Dec2024 04:22:44.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> SIMETRIA JHYN
+[16Dec2024 04:22:48.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> prosiga
+[16Dec2024 04:23:13.071] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -561 1043 1043 VisualFallingBlockEntity['Falling Deepslate'/155815, l='ServerLevel[world]', x=-560.50, y=-56.00, z=1043.50]
+[16Dec2024 04:23:15.374] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -557 1048 1048 VisualFallingBlockEntity['Falling Deepslate'/155838, l='ServerLevel[world]', x=-556.50, y=-55.00, z=1048.50]
+[16Dec2024 04:23:15.376] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -558 1049 1049 VisualFallingBlockEntity['Falling Deepslate'/155839, l='ServerLevel[world]', x=-557.50, y=-59.00, z=1049.50]
+[16Dec2024 04:23:25.320] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -561 1054 1054 VisualFallingBlockEntity['Falling Deepslate'/155881, l='ServerLevel[world]', x=-560.50, y=-59.00, z=1054.50]
+[16Dec2024 04:23:27.533] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -561 1058 1058 VisualFallingBlockEntity['Falling Deepslate'/155894, l='ServerLevel[world]', x=-560.50, y=-55.00, z=1058.50]
+[16Dec2024 04:23:29.755] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -557 1063 1063 VisualFallingBlockEntity['Falling Deepslate'/155907, l='ServerLevel[world]', x=-556.50, y=-57.00, z=1063.50]
+[16Dec2024 04:23:30.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> eso dijo Alexito?
+[16Dec2024 04:23:32.872] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -560 1067 1067 VisualFallingBlockEntity['Falling Deepslate'/155926, l='ServerLevel[world]', x=-559.50, y=-59.00, z=1067.50]
+[16Dec2024 04:23:36.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] 0.0
+[16Dec2024 04:23:45.032] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:gravel} -561 1074 1074 VisualFallingBlockEntity['Falling Gravel'/155955, l='ServerLevel[world]', x=-560.50, y=-55.00, z=1074.50]
+[16Dec2024 04:23:47.964] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:23:49.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> so
+[16Dec2024 04:23:50.471] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -558 1082 1082 VisualFallingBlockEntity['Falling Deepslate'/155999, l='ServerLevel[world]', x=-557.50, y=-58.00, z=1082.50]
+[16Dec2024 04:24:00.224] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -559 1099 1099 VisualFallingBlockEntity['Falling Deepslate'/156085, l='ServerLevel[world]', x=-558.50, y=-56.00, z=1099.50]
+[16Dec2024 04:24:00.226] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -560 1097 1097 VisualFallingBlockEntity['Falling Deepslate'/156086, l='ServerLevel[world]', x=-559.50, y=-59.00, z=1097.50]
+[16Dec2024 04:24:10.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Bueno
+[16Dec2024 04:24:13.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> unpoco sí
+[16Dec2024 04:24:36.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Jhyn tosico
+[16Dec2024 04:24:37.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Yo algún zorra le dije, tampoco nos santifiquemos
+[16Dec2024 04:24:45.573] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -564 1042 1042 VisualFallingBlockEntity['Falling Deepslate'/156399, l='ServerLevel[world]', x=-563.50, y=-59.00, z=1042.50]
+[16Dec2024 04:24:45.577] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -566 1044 1044 VisualFallingBlockEntity['Falling Deepslate'/156400, l='ServerLevel[world]', x=-565.50, y=-59.00, z=1044.50]
+[16Dec2024 04:24:52.608] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -566 1053 1053 VisualFallingBlockEntity['Falling Deepslate'/156496, l='ServerLevel[world]', x=-565.50, y=-59.00, z=1053.50]
+[16Dec2024 04:24:59.871] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -565 1064 1064 VisualFallingBlockEntity['Falling Deepslate'/156529, l='ServerLevel[world]', x=-564.50, y=-57.00, z=1064.50]
+[16Dec2024 04:25:00.624] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:25:03.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Disculpe el frances Pepi xd
+[16Dec2024 04:25:04.970] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -566 1068 1068 VisualFallingBlockEntity['Falling Deepslate'/156550, l='ServerLevel[world]', x=-565.50, y=-57.00, z=1068.50]
+[16Dec2024 04:25:06.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> si, porque tambien con pidixd
+[16Dec2024 04:25:07.525] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:gravel} -562 1074 1074 VisualFallingBlockEntity['Falling Gravel'/156567, l='ServerLevel[world]', x=-561.50, y=-56.00, z=1074.50]
+[16Dec2024 04:25:10.906] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -564 1079 1079 VisualFallingBlockEntity['Falling Deepslate'/156610, l='ServerLevel[world]', x=-563.50, y=-56.00, z=1079.50]
+[16Dec2024 04:25:15.438] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:25:16.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ya le cuento
+[16Dec2024 04:25:31.020] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -566 1094 1094 VisualFallingBlockEntity['Falling Deepslate'/156863, l='ServerLevel[world]', x=-565.50, y=-56.00, z=1094.50]
+[16Dec2024 04:25:34.030] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -562 1098 1098 VisualFallingBlockEntity['Falling Deepslate'/156956, l='ServerLevel[world]', x=-561.50, y=-55.00, z=1098.50]
+[16Dec2024 04:25:36.033] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -565 1104 1104 VisualFallingBlockEntity['Falling Deepslate'/156981, l='ServerLevel[world]', x=-564.50, y=-58.00, z=1104.50]
+[16Dec2024 04:26:02.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Hasta que llegó Kavatti
+[16Dec2024 04:26:09.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> JJAJAJJAAJ
+[16Dec2024 04:26:11.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> JAJAJAJ
+[16Dec2024 04:26:14.171] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -567 1047 1047 VisualFallingBlockEntity['Falling Deepslate'/157165, l='ServerLevel[world]', x=-566.50, y=-58.00, z=1047.50]
+[16Dec2024 04:26:14.181] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -570 1048 1048 VisualFallingBlockEntity['Falling Deepslate'/157166, l='ServerLevel[world]', x=-569.50, y=-57.00, z=1048.50]
+[16Dec2024 04:26:19.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[16Dec2024 04:26:25.923] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -569 1069 1069 VisualFallingBlockEntity['Falling Deepslate'/157254, l='ServerLevel[world]', x=-568.50, y=-59.00, z=1069.50]
+[16Dec2024 04:26:30.376] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -570 1078 1078 VisualFallingBlockEntity['Falling Deepslate'/157281, l='ServerLevel[world]', x=-569.50, y=-56.00, z=1078.50]
+[16Dec2024 04:26:39.638] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -569 1093 1093 VisualFallingBlockEntity['Falling Deepslate'/157493, l='ServerLevel[world]', x=-568.50, y=-56.00, z=1093.50]
+[16Dec2024 04:26:42.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> PEPE
+[16Dec2024 04:26:43.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> JAJJAJA
+[16Dec2024 04:26:45.797] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -570 1099 1099 VisualFallingBlockEntity['Falling Deepslate'/157520, l='ServerLevel[world]', x=-569.50, y=-59.00, z=1099.50]
+[16Dec2024 04:26:48.078] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -567 1102 1102 VisualFallingBlockEntity['Falling Deepslate'/157549, l='ServerLevel[world]', x=-566.50, y=-55.00, z=1102.50]
+[16Dec2024 04:27:18.918] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:27:22.469] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:27:41.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 04:27:41.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 04:27:42.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> eh?
+[16Dec2024 04:27:47.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ahh xD
+[16Dec2024 04:28:00.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Son nobios
+[16Dec2024 04:28:05.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Se besan
+[16Dec2024 04:28:06.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> sison
+[16Dec2024 04:28:08.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> sus bocas
+[16Dec2024 04:28:57.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> k?
+[16Dec2024 04:29:54.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ella no?
+[16Dec2024 04:29:59.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a vava
+[16Dec2024 04:30:21.220] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:30:55.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> siga siga
+[16Dec2024 04:31:05.874] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:31:08.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> JAJJAJA
+[16Dec2024 04:31:10.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> perdon
+[16Dec2024 04:31:11.268] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:31:11.269] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:31:55.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[16Dec2024 04:32:12.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Es que si me acordaba que tenia como 27 o por ahi
+[16Dec2024 04:32:18.815] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:32:26.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Nono
+[16Dec2024 04:32:29.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ella
+[16Dec2024 04:32:32.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Soi
+[16Dec2024 04:32:35.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> JAJAJJA
+[16Dec2024 04:32:41.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 04:32:41.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 04:32:43.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> A mi desde los 15
+[16Dec2024 04:34:00.440] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:34:08.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> el yopu?
+[16Dec2024 04:34:11.966] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 04:34:13.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a ella
+[16Dec2024 04:34:21.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> oteis
