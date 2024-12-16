@@ -202,6 +202,7 @@
       "minecraft:husk": "2024-11-17 07:02:31 +0000",
       "minecraft:cave_spider": "2024-11-16 04:02:05 +0000",
       "minecraft:stray": "2024-11-18 22:49:46 +0000",
+      "minecraft:silverfish": "2024-12-16 03:59:40 +0000",
       "minecraft:vex": "2024-12-09 01:20:13 +0000",
       "minecraft:zombie": "2024-11-16 03:59:36 +0000",
       "minecraft:drowned": "2024-11-19 04:57:52 +0000",
@@ -832,9 +833,11 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "canopy_planks": "2024-12-16 03:54:11 +0000",
       "twilight_oak_log": "2024-12-16 02:39:56 +0000",
       "liveroot": "2024-12-16 03:15:03 +0000",
-      "twilight_oak_sapling": "2024-12-16 02:40:03 +0000"
+      "twilight_oak_sapling": "2024-12-16 02:40:03 +0000",
+      "canopy_log": "2024-12-16 03:54:04 +0000"
     },
     "done": false
   },
