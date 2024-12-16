@@ -3236,3 +3236,63 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [16Dec2024 03:42:14.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> es que yo me voy a regresar
 [16Dec2024 03:42:36.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> que cuapo
 [16Dec2024 03:42:40.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Sssss
+[16Dec2024 03:42:50.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[16Dec2024 03:42:52.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -490.500000, -58.500000, 1003.500000]
+[16Dec2024 03:43:09.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4277ms or 85 ticks behind
+[16Dec2024 03:44:07.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to -382.500000, 84.500000, 1162.500000]
+[16Dec2024 03:44:13.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ptmr
+[16Dec2024 03:44:21.215] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player junior_mtz_ is cbef8e94-dfdd-4516-9309-ffb4e5452f4a
+[16Dec2024 03:44:29.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: junior_mtz_[/127.143.68.152:52943] logged in with entity id 113559 at (-239.5, 81.0, 983.5)
+[16Dec2024 03:44:29.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ joined the game
+[16Dec2024 03:44:29.517] [Server thread/INFO] [Jade/]: Syncing config to junior_mtz_ (cbef8e94-dfdd-4516-9309-ffb4e5452f4a)
+[16Dec2024 03:44:32.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[16Dec2024 03:44:50.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3325ms or 66 ticks behind
+[16Dec2024 03:44:54.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[16Dec2024 03:44:58.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> pepe esta en casa?
+[16Dec2024 03:44:58.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ola Junio
+[16Dec2024 03:45:04.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> oaa juniors
+[16Dec2024 03:45:08.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2601ms or 52 ticks behind
+[16Dec2024 03:45:17.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <junior_mtz_> PEPIIIIIIIIIIII
+[16Dec2024 03:45:25.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <junior_mtz_> JHYYYYYYYYYYYYYYYYNCIROU
+[16Dec2024 03:45:28.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <junior_mtz_> PEPEEEEEEEEEEEEEEEE
+[16Dec2024 03:45:40.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> juni, esta en casa?
+[16Dec2024 03:45:42.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[16Dec2024 03:45:48.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <junior_mtz_> CHI
+[16Dec2024 03:45:53.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <junior_mtz_> uy las mayus
+[16Dec2024 03:46:00.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to junior_mtz_]
+[16Dec2024 03:46:14.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> grafias
+[16Dec2024 03:46:48.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[16Dec2024 03:46:51.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> tamos en disc
+[16Dec2024 03:46:57.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> JASJKJAKSj perdón Pepi
+[16Dec2024 03:47:06.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3292ms or 65 ticks behind
+[16Dec2024 03:47:25.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3243ms or 64 ticks behind
+[16Dec2024 03:47:41.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Teleported junior_mtz_ to 1034.000000, 64.000000, 336.000000]
+[16Dec2024 03:47:41.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved too quickly! -3.4174390120714975,0.0,9.417106120705512
+[16Dec2024 03:47:45.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Set own game mode to Spectator Mode]
+[16Dec2024 03:47:49.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9257ms or 185 ticks behind
+[16Dec2024 03:47:54.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: junior_mtz_ moved too quickly! 0.0,11.318369729048328,0.0
+[16Dec2024 03:47:59.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Set own game mode to Survival Mode]
+[16Dec2024 03:48:05.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved too quickly! -3.4066719273856734,-1.233632006042484,9.559207551464397
+[16Dec2024 03:48:25.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -327.500000, 85.500000, 1072.500000]
+[16Dec2024 03:48:27.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23223ms or 464 ticks behind
+[16Dec2024 03:48:37.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Vamos a seguir aquí Pepi o ya?
+[16Dec2024 03:48:49.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! -4.759534947299699,0.935860279454662,9.005059305882924
+[16Dec2024 03:48:56.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14344ms or 286 ticks behind
+[16Dec2024 03:49:07.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! -2.4363837784179623,3.4831521175547797,9.261229214470177
+[16Dec2024 03:49:08.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo has made the advancement [Limit Breaker]
+[16Dec2024 03:49:18.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[16Dec2024 03:49:24.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12458ms or 249 ticks behind
+[16Dec2024 03:49:41.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Veo 2 lichs
+[16Dec2024 03:49:41.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[16Dec2024 03:49:44.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -490.500000, -58.500000, 1003.500000]
+[16Dec2024 03:49:58.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Pero no entiendo
+[16Dec2024 03:50:01.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4498ms or 89 ticks behind
+[16Dec2024 03:50:16.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Qué hacemos aquí en sí?
+[16Dec2024 03:50:18.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16Dec2024 03:50:36.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Buscamos algo o nomás vino?
+[16Dec2024 03:50:36.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2537ms or 50 ticks behind
+[16Dec2024 03:50:55.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4344ms or 86 ticks behind
+[16Dec2024 03:51:14.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3458ms or 69 ticks behind
+[16Dec2024 03:51:34.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5255ms or 105 ticks behind
+[16Dec2024 03:52:21.961] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[16Dec2024 03:52:46.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9640ms or 192 ticks behind

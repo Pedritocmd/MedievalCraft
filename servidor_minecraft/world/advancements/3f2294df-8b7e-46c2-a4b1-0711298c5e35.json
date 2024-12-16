@@ -1178,6 +1178,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "was_in_fight": "2024-12-16 03:40:23 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "skeleton_druid": "2024-12-16 02:35:45 +0000"
@@ -1214,6 +1220,12 @@
       "redcap": "2024-12-16 03:02:34 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2024-12-16 03:40:23 +0000"
+    },
+    "done": false
   },
   "twilightforest:hedge": {
     "criteria": {

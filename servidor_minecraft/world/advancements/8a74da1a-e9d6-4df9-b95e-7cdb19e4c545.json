@@ -168,6 +168,7 @@
       "minecraft:frozen_peaks": "2024-11-17 06:37:03 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-17 06:23:16 +0000",
       "minecraft:meadow": "2024-11-17 06:42:07 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-12-16 03:46:00 +0000",
       "minecraft:savanna": "2024-11-21 18:57:07 +0000",
       "minecraft:plains": "2024-11-21 05:15:35 +0000"
     },
@@ -811,6 +812,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2024-12-16 03:40:23 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "skeleton_druid": "2024-12-16 02:40:45 +0000"
@@ -860,6 +867,12 @@
       "redcap": "2024-12-16 03:03:10 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2024-12-16 03:40:23 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
