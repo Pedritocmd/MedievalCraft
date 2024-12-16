@@ -11060,3 +11060,90 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [16Dec2024 02:30:42.378] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [16Dec2024 02:30:42.379] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [16Dec2024 02:30:48.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> 5
+[16Dec2024 02:31:22.326] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:31:31.725] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:31:31.725] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:31:33.072] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:31:34.075] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:31:34.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> depende de lo que tenga da efectos
+[16Dec2024 02:31:35.083] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:31:36.149] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:31:37.203] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:31:38.487] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:31:41.571] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:31:49.404] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:31:49.405] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:32:06.823] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:32:15.578] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:32:24.118] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:32:47.377] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:33:04.206] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:33:13.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> onde hacemoselportal?
+[16Dec2024 02:33:30.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 02:33:30.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 02:33:41.695] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:33:41.696] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:33:50.195] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:33:50.197] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:33:56.481] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:34:07.523] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:34:12.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> tenga el honor
+[16Dec2024 02:34:17.948] [Server thread/DEBUG] [twilightforest/]: Did not find existing portal, making a new one.
+[16Dec2024 02:34:17.958] [Server thread/DEBUG] [twilightforest/]: Portal destination looks unsafe, rerouting!
+[16Dec2024 02:34:17.966] [Server thread/DEBUG] [twilightforest/]: Safely rerouted!
+[16Dec2024 02:34:18.151] [Worker-Main-64/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[16Dec2024 02:34:18.156] [Worker-Main-64/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[16Dec2024 02:34:18.157] [Worker-Main-64/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[16Dec2024 02:34:18.158] [Worker-Main-64/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[16Dec2024 02:34:18.167] [Worker-Main-64/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[16Dec2024 02:34:18.210] [Worker-Main-64/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[16Dec2024 02:34:18.210] [Worker-Main-64/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[16Dec2024 02:34:18.210] [Worker-Main-64/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[16Dec2024 02:34:18.210] [Worker-Main-64/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[16Dec2024 02:34:18.210] [Worker-Main-64/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[16Dec2024 02:34:18.548] [Worker-Main-64/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[16Dec2024 02:34:18.560] [Worker-Main-64/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[16Dec2024 02:34:18.560] [Worker-Main-64/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[16Dec2024 02:34:24.425] [Server thread/DEBUG] [twilightforest/]: Found ideal portal spot for Pepishikita21 at BlockPos{x=-3591, y=4, z=9494}
+[16Dec2024 02:34:24.738] [Server thread/DEBUG] [twilightforest/]: Caching Dest Portal Blocks to BlockPos{x=-437, y=79, z=1200}
+[16Dec2024 02:34:24.767] [Server thread/DEBUG] [twilightforest/]: Caching Src Portal Blocks to BlockPos{x=-3591, y=4, z=9495}
+[16Dec2024 02:34:24.768] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-437, y=79, z=1201}
+[16Dec2024 02:34:24.768] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-436, y=79, z=1200}
+[16Dec2024 02:34:24.768] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-437, y=79, z=1200}
+[16Dec2024 02:34:24.768] [Server thread/DEBUG] [twilightforest/]: Caching BlockPos{x=-436, y=79, z=1201}
+[16Dec2024 02:34:28.994] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-3591, y=4, z=9495}
+[16Dec2024 02:34:29.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11166ms or 223 ticks behind
+[16Dec2024 02:34:29.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! -3152.9267078376392,-74.92159999847412,8292.647314975198
+[16Dec2024 02:34:35.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> UYYYY
+[16Dec2024 02:35:45.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [The Silence of the Forest]
+[16Dec2024 02:36:09.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> no sé si da algo bueno
+[16Dec2024 02:36:55.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Otro mod pa estudiar
+[16Dec2024 02:37:18.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Porque lo que recuerdo es bien poquito de cuando Vegetta y illy lo jugaban xD
+[16Dec2024 02:38:03.218] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-437, y=79, z=1200}
+[16Dec2024 02:38:09.637] [Worker-Main-76/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[16Dec2024 02:38:14.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11307ms or 226 ticks behind
+[16Dec2024 02:38:15.479] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:38:19.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -572.500000, 200.500000, 1336.500000]
+[16Dec2024 02:38:36.118] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:38:45.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -572.500000, 200.500000, 1336.500000]
+[16Dec2024 02:38:52.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 02:38:52.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 02:38:59.208] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:39:42.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[16Dec2024 02:39:52.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> xD
+[16Dec2024 02:40:05.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Y de aquí busca algo en particular?
+[16Dec2024 02:40:32.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Pero digo usted
+[16Dec2024 02:40:45.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [The Silence of the Forest]
+[16Dec2024 02:41:12.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> MIREEE XD
+[16Dec2024 02:42:14.309] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 02:42:16.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ñada
+[16Dec2024 02:42:42.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> había un barril con poco loot bueno
+[16Dec2024 02:43:52.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 02:43:52.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 02:44:04.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[16Dec2024 02:44:09.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> estas particulas dan hambre
+[16Dec2024 02:44:45.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> De quién es el video?
+[16Dec2024 02:46:12.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Perejl le sabe
+[16Dec2024 02:46:18.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Luego le veo
+[16Dec2024 02:48:52.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 02:48:52.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
