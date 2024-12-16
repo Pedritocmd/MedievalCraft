@@ -13156,3 +13156,114 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [16Dec2024 05:23:45.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
 [16Dec2024 05:23:58.381] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [16Dec2024 05:24:11.311] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:25:12.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[16Dec2024 05:25:38.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10665ms or 213 ticks behind
+[16Dec2024 05:25:51.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to -382.500000, 84.500000, 1162.500000]
+[16Dec2024 05:25:51.937] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:25:53.290] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:26:01.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16Dec2024 05:26:12.148] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:26:12.150] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:26:24.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[16Dec2024 05:26:28.900] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:26:46.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> hmmm
+[16Dec2024 05:26:54.610] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:26:57.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Se veía bien feo xD
+[16Dec2024 05:26:58.448] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:27:26.719] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:basalt}[axis=y] -97 57 57 VisualFallingBlockEntity['Falling Basalt'/180682, l='ServerLevel[world]', x=-96.50, y=22.00, z=57.50]
+[16Dec2024 05:27:26.724] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:basalt}[axis=y] -97 60 60 VisualFallingBlockEntity['Falling Basalt'/180683, l='ServerLevel[world]', x=-96.50, y=25.00, z=60.50]
+[16Dec2024 05:27:45.448] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:basalt}[axis=y] -93 62 62 VisualFallingBlockEntity['Falling Basalt'/180872, l='ServerLevel[world]', x=-92.50, y=23.00, z=62.50]
+[16Dec2024 05:27:45.449] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:basalt}[axis=y] -92 60 60 VisualFallingBlockEntity['Falling Basalt'/180873, l='ServerLevel[world]', x=-91.50, y=20.00, z=60.50]
+[16Dec2024 05:28:07.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 05:28:07.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 05:28:07.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2499ms or 49 ticks behind
+[16Dec2024 05:28:08.471] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:basalt}[axis=y] -98 61 61 VisualFallingBlockEntity['Falling Basalt'/181035, l='ServerLevel[world]', x=-97.50, y=14.00, z=61.50]
+[16Dec2024 05:28:08.477] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:basalt}[axis=y] -95 60 60 VisualFallingBlockEntity['Falling Basalt'/181036, l='ServerLevel[world]', x=-94.50, y=17.00, z=60.50]
+[16Dec2024 05:28:16.854] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -102 63 63 VisualFallingBlockEntity['Falling Netherrack'/181155, l='ServerLevel[world]', x=-101.50, y=10.00, z=63.50]
+[16Dec2024 05:28:21.029] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -108 64 64 VisualFallingBlockEntity['Falling Netherrack'/181204, l='ServerLevel[world]', x=-107.50, y=10.00, z=64.50]
+[16Dec2024 05:28:21.033] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:basalt}[axis=y] -106 60 60 VisualFallingBlockEntity['Falling Basalt'/181205, l='ServerLevel[world]', x=-105.50, y=6.00, z=60.50]
+[16Dec2024 05:28:26.314] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:28:42.217] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:28:46.438] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:28:47.333] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:28:48.294] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:28:51.511] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:basalt}[axis=y] -107 73 73 VisualFallingBlockEntity['Falling Basalt'/181481, l='ServerLevel[world]', x=-106.50, y=5.00, z=73.50]
+[16Dec2024 05:28:56.429] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:28:57.206] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:29:01.578] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:29:17.668] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:29:21.691] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:29:22.546] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -109 94 94 VisualFallingBlockEntity['Falling Netherrack'/181796, l='ServerLevel[world]', x=-108.50, y=9.00, z=94.50]
+[16Dec2024 05:29:24.940] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -108 99 99 VisualFallingBlockEntity['Falling Netherrack'/181862, l='ServerLevel[world]', x=-107.50, y=8.00, z=99.50]
+[16Dec2024 05:29:24.942] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:blackstone} -107 98 98 VisualFallingBlockEntity['Falling Blackstone'/181863, l='ServerLevel[world]', x=-106.50, y=8.00, z=98.50]
+[16Dec2024 05:29:33.783] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:29:41.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> 16
+[16Dec2024 05:29:46.907] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:29:57.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ente la 15 y 16 es pefecta pa la netherite
+[16Dec2024 05:30:04.004] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:30:09.058] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:30:17.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> sabe a purpura
+[16Dec2024 05:30:17.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:basalt}[axis=y] -110 105 105 VisualFallingBlockEntity['Falling Basalt'/182317, l='ServerLevel[world]', x=-109.50, y=15.00, z=105.50]
+[16Dec2024 05:30:27.522] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:30:28.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:30:28.912] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:30:29.318] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:30:29.731] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:30:29.732] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:30:32.040] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:basalt}[axis=y] -110 122 122 VisualFallingBlockEntity['Falling Basalt'/182536, l='ServerLevel[world]', x=-109.50, y=18.00, z=122.50]
+[16Dec2024 05:30:34.587] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:basalt}[axis=y] -107 125 125 VisualFallingBlockEntity['Falling Basalt'/182561, l='ServerLevel[world]', x=-106.50, y=19.00, z=125.50]
+[16Dec2024 05:30:40.079] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:basalt}[axis=y] -109 137 137 VisualFallingBlockEntity['Falling Basalt'/182618, l='ServerLevel[world]', x=-108.50, y=19.00, z=137.50]
+[16Dec2024 05:30:41.924] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:basalt}[axis=y] -107 142 142 VisualFallingBlockEntity['Falling Basalt'/182639, l='ServerLevel[world]', x=-106.50, y=17.00, z=142.50]
+[16Dec2024 05:30:42.862] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:30:42.864] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:30:42.864] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:30:43.831] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -106 147 147 VisualFallingBlockEntity['Falling Netherrack'/182676, l='ServerLevel[world]', x=-105.50, y=15.00, z=147.50]
+[16Dec2024 05:30:46.346] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:basalt}[axis=y] -106 151 151 VisualFallingBlockEntity['Falling Basalt'/182699, l='ServerLevel[world]', x=-105.50, y=16.00, z=151.50]
+[16Dec2024 05:30:48.680] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:basalt}[axis=y] -109 156 156 VisualFallingBlockEntity['Falling Basalt'/182719, l='ServerLevel[world]', x=-108.50, y=17.00, z=156.50]
+[16Dec2024 05:31:13.446] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:31:13.447] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:31:19.861] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -123 104 104 VisualFallingBlockEntity['Falling Netherrack'/183043, l='ServerLevel[world]', x=-122.50, y=15.00, z=104.50]
+[16Dec2024 05:31:22.047] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -126 107 107 VisualFallingBlockEntity['Falling Netherrack'/183082, l='ServerLevel[world]', x=-125.50, y=19.00, z=107.50]
+[16Dec2024 05:31:24.591] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -132 103 103 VisualFallingBlockEntity['Falling Netherrack'/183113, l='ServerLevel[world]', x=-131.50, y=16.00, z=103.50]
+[16Dec2024 05:31:25.779] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:31:45.526] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:31:46.300] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:31:47.148] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:31:49.145] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -110 98 98 VisualFallingBlockEntity['Falling Netherrack'/183393, l='ServerLevel[world]', x=-109.50, y=16.00, z=98.50]
+[16Dec2024 05:31:52.866] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:31:55.388] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:blackstone} -113 88 88 VisualFallingBlockEntity['Falling Blackstone'/183457, l='ServerLevel[world]', x=-112.50, y=15.00, z=88.50]
+[16Dec2024 05:31:59.650] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:32:00.764] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:32:02.959] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:32:02.959] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:32:04.530] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -111 74 74 VisualFallingBlockEntity['Falling Netherrack'/183634, l='ServerLevel[world]', x=-110.50, y=18.00, z=74.50]
+[16Dec2024 05:32:06.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[16Dec2024 05:32:16.634] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:32:17.580] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:basalt}[axis=y] -110 58 58 VisualFallingBlockEntity['Falling Basalt'/183815, l='ServerLevel[world]', x=-109.50, y=16.00, z=58.50]
+[16Dec2024 05:32:21.167] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -114 54 54 VisualFallingBlockEntity['Falling Netherrack'/183856, l='ServerLevel[world]', x=-113.50, y=19.00, z=54.50]
+[16Dec2024 05:32:23.979] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -111 52 52 VisualFallingBlockEntity['Falling Netherrack'/183891, l='ServerLevel[world]', x=-110.50, y=15.00, z=52.50]
+[16Dec2024 05:32:24.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[16Dec2024 05:32:28.752] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -110 38 38 VisualFallingBlockEntity['Falling Netherrack'/183938, l='ServerLevel[world]', x=-109.50, y=15.00, z=38.50]
+[16Dec2024 05:32:28.754] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -110 38 38 VisualFallingBlockEntity['Falling Netherrack'/183939, l='ServerLevel[world]', x=-109.50, y=16.00, z=38.50]
+[16Dec2024 05:32:30.977] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -113 33 33 VisualFallingBlockEntity['Falling Netherrack'/183964, l='ServerLevel[world]', x=-112.50, y=15.00, z=33.50]
+[16Dec2024 05:32:30.978] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -110 34 34 VisualFallingBlockEntity['Falling Netherrack'/183965, l='ServerLevel[world]', x=-109.50, y=18.00, z=34.50]
+[16Dec2024 05:32:30.981] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -112 36 36 VisualFallingBlockEntity['Falling Netherrack'/183966, l='ServerLevel[world]', x=-111.50, y=16.00, z=36.50]
+[16Dec2024 05:32:32.051] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:32:43.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4042ms or 80 ticks behind
+[16Dec2024 05:33:03.138] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4539ms or 90 ticks behind
+[16Dec2024 05:33:07.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Adioos Pepiii
+[16Dec2024 05:33:18.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 lost connection: Disconnected
+[16Dec2024 05:33:18.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 left the game
+[16Dec2024 05:33:23.653] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:33:24.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6109ms or 122 ticks behind
+[16Dec2024 05:33:26.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 05:33:27.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 05:33:35.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[16Dec2024 05:33:41.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2528ms or 50 ticks behind
+[16Dec2024 05:33:48.665] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:33:50.027] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[16Dec2024 05:33:58.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[16Dec2024 05:34:05.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to JhynMC]
+[16Dec2024 05:34:10.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> AY
+[16Dec2024 05:34:42.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Sii quiro matas mas jefes de estos
+[16Dec2024 05:34:48.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -327.500000, 85.500000, 1072.500000]

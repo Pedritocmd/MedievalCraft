@@ -813,21 +813,9 @@
     },
     "done": true
   },
-  "twilightforest:progress_naga": {
+  "twilightforest:root": {
     "criteria": {
-      "naga": "2024-12-16 03:40:23 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:twilight_hunter": {
-    "criteria": {
-      "skeleton_druid": "2024-12-16 02:40:45 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:magic_map": {
-    "criteria": {
-      "magic_map": "2024-12-16 03:37:04 +0000"
+      "in_tf": "2024-12-16 02:34:29 +0000"
     },
     "done": true
   },
@@ -841,9 +829,9 @@
     },
     "done": false
   },
-  "twilightforest:root": {
+  "twilightforest:twilight_hunter": {
     "criteria": {
-      "in_tf": "2024-12-16 02:34:29 +0000"
+      "skeleton_druid": "2024-12-16 02:40:45 +0000"
     },
     "done": true
   },
@@ -853,9 +841,9 @@
     },
     "done": true
   },
-  "twilightforest:magic_map_focus": {
+  "twilightforest:hill1": {
     "criteria": {
-      "focus": "2024-12-16 03:28:21 +0000"
+      "redcap": "2024-12-16 03:03:10 +0000"
     },
     "done": true
   },
@@ -865,9 +853,21 @@
     },
     "done": true
   },
-  "twilightforest:hill1": {
+  "twilightforest:magic_map_focus": {
     "criteria": {
-      "redcap": "2024-12-16 03:03:10 +0000"
+      "focus": "2024-12-16 03:28:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2024-12-16 03:37:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2024-12-16 03:40:23 +0000"
     },
     "done": true
   },
