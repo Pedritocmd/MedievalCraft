@@ -2997,3 +2997,10 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [16Dec2024 21:13:24.505] [Server thread/INFO] [Jade/]: Syncing config to junior_mtz_ (cbef8e94-dfdd-4516-9309-ffb4e5452f4a)
 [16Dec2024 21:13:28.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4516ms or 90 ticks behind
 [16Dec2024 21:13:51.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8412ms or 168 ticks behind
+[16Dec2024 21:26:24.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Teleported junior_mtz_ to -573.000000, -58.000000, 1340.000000]
+[16Dec2024 21:26:29.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Set own game mode to Spectator Mode]
+[16Dec2024 21:26:55.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Set own game mode to Survival Mode]
+[16Dec2024 21:28:16.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ has made the advancement [Chest Slayer]
+[16Dec2024 21:28:47.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Teleported junior_mtz_ to -242.000000, 81.000000, 990.000000]
+[16Dec2024 21:28:53.955] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[16Dec2024 21:30:28.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ahh perro isando espectador ehhhh
