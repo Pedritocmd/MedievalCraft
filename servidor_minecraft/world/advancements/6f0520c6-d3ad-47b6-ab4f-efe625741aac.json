@@ -909,33 +909,9 @@
     },
     "done": true
   },
-  "seadwellers:adv_break_sea_lantern": {
-    "criteria": {
-      "adv_break_sea_lantern": "2024-12-17 00:34:53 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:elder_guardian_treasure_bag": {
-    "criteria": {
-      "bag_opened": "2024-12-17 01:23:45 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2024-12-16 23:45:57 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_sea_serpent": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-17 00:08:12 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/orcas_might": {
-    "criteria": {
-      "all_effects": "2024-12-17 00:34:11 +0000"
     },
     "done": true
   },
@@ -945,15 +921,15 @@
     },
     "done": true
   },
-  "awesomedungeonocean:ocean_temple_quad/find_normal": {
+  "quark:pathfinder_map_center": {
     "criteria": {
-      "requirement": "2024-12-17 00:42:01 +0000"
+      "pathfinder_map_center": "2024-12-17 00:06:08 +0000"
     },
     "done": true
   },
-  "seadwellers:adv_barter_aquamarine": {
+  "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
-      "adv_barter_aquamarine": "2024-12-17 00:40:59 +0000"
+      "killed_fire_dragon": "2024-12-17 00:08:12 +0000"
     },
     "done": true
   },
@@ -963,15 +939,45 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-12-17 00:34:11 +0000"
+    },
+    "done": true
+  },
+  "seadwellers:adv_break_sea_lantern": {
+    "criteria": {
+      "adv_break_sea_lantern": "2024-12-17 00:34:53 +0000"
+    },
+    "done": true
+  },
+  "seadwellers:adv_barter_aquamarine": {
+    "criteria": {
+      "adv_barter_aquamarine": "2024-12-17 00:40:59 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_temple_quad/find_normal": {
+    "criteria": {
+      "requirement": "2024-12-17 00:42:01 +0000"
+    },
+    "done": true
+  },
   "awesomedungeonocean:root": {
     "criteria": {
       "awesomedungeonocean:ocean_temple_quad": "2024-12-17 00:42:01 +0000"
     },
     "done": true
   },
-  "quark:pathfinder_map_center": {
+  "majruszsdifficulty:elder_guardian_treasure_bag": {
     "criteria": {
-      "pathfinder_map_center": "2024-12-17 00:06:08 +0000"
+      "bag_opened": "2024-12-17 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2024-12-17 03:26:31 +0000"
     },
     "done": true
   },

@@ -877,5 +877,17 @@
     },
     "done": false
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-17 03:43:10 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2024-12-17 03:35:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
