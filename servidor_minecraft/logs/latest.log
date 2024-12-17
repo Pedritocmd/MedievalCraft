@@ -3209,3 +3209,7 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [17Dec2024 05:07:40.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved wrongly!
 [17Dec2024 05:08:59.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Estoy ordenando mis cosas y creo que me salgo
 [17Dec2024 05:14:47.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to -382.500000, 84.500000, 1162.500000]
+[17Dec2024 05:25:10.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Bueno Pepi, ya me retiro feli noche
+[17Dec2024 05:25:17.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> wuena noshe jhyncito
+[17Dec2024 05:25:19.522] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Disconnected
+[17Dec2024 05:25:19.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
