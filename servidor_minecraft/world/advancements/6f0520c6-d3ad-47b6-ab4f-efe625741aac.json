@@ -74,6 +74,7 @@
       "bog": "2024-11-16 04:34:55 +0000",
       "coniferous_forest": "2024-11-16 07:39:05 +0000",
       "spider_nest": "2024-11-16 04:21:36 +0000",
+      "old_growth_dead_forest": "2024-12-17 00:01:09 +0000",
       "redwood_forest": "2024-12-02 00:38:44 +0000",
       "seasonal_orchard": "2024-12-02 00:11:40 +0000",
       "dune_beach": "2024-12-02 04:14:00 +0000",
@@ -143,9 +144,11 @@
       "minecraft:pillager": "2024-12-02 00:22:15 +0000",
       "minecraft:blaze": "2024-12-02 06:20:10 +0000",
       "minecraft:skeleton": "2024-11-16 03:38:47 +0000",
+      "minecraft:elder_guardian": "2024-12-17 01:00:54 +0000",
       "minecraft:ravager": "2024-12-09 01:00:09 +0000",
       "minecraft:ghast": "2024-12-09 03:54:07 +0000",
       "minecraft:hoglin": "2024-12-02 06:27:51 +0000",
+      "minecraft:guardian": "2024-12-17 00:50:05 +0000",
       "minecraft:vindicator": "2024-12-02 00:25:38 +0000",
       "minecraft:magma_cube": "2024-12-02 06:21:35 +0000",
       "minecraft:spider": "2024-11-16 03:58:19 +0000",
@@ -164,6 +167,7 @@
       "minecraft:enderman": "2024-12-02 00:36:00 +0000",
       "minecraft:vex": "2024-12-09 01:24:14 +0000",
       "minecraft:zombie": "2024-11-16 03:39:36 +0000",
+      "minecraft:drowned": "2024-12-17 00:22:43 +0000",
       "minecraft:zombie_villager": "2024-11-16 05:23:17 +0000"
     },
     "done": false
@@ -244,6 +248,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mushroom_fields": "2024-12-17 00:06:39 +0000",
       "minecraft:taiga": "2024-11-16 06:48:48 +0000",
       "minecraft:eroded_badlands": "2024-11-20 03:24:56 +0000",
       "minecraft:frozen_river": "2024-11-16 06:45:24 +0000",
@@ -268,6 +273,7 @@
       "minecraft:lush_caves": "2024-12-14 04:59:01 +0000",
       "minecraft:frozen_ocean": "2024-12-01 20:34:58 +0000",
       "minecraft:windswept_forest": "2024-12-01 20:42:14 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-17 00:02:35 +0000",
       "minecraft:snowy_beach": "2024-11-16 04:15:13 +0000",
       "minecraft:flower_forest": "2024-12-09 00:39:09 +0000",
       "minecraft:frozen_peaks": "2024-12-10 05:27:17 +0000",
@@ -900,6 +906,72 @@
   "quark:overlevel_enchant": {
     "criteria": {
       "overlevel_enchant": "2024-12-16 03:49:08 +0000"
+    },
+    "done": true
+  },
+  "seadwellers:adv_break_sea_lantern": {
+    "criteria": {
+      "adv_break_sea_lantern": "2024-12-17 00:34:53 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:elder_guardian_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-12-17 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2024-12-16 23:45:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-17 00:08:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-12-17 00:34:11 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2024-12-16 23:46:56 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_temple_quad/find_normal": {
+    "criteria": {
+      "requirement": "2024-12-17 00:42:01 +0000"
+    },
+    "done": true
+  },
+  "seadwellers:adv_barter_aquamarine": {
+    "criteria": {
+      "adv_barter_aquamarine": "2024-12-17 00:40:59 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rainbow_jelly": {
+    "criteria": {
+      "gustmaker": "2024-12-17 00:20:15 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:root": {
+    "criteria": {
+      "awesomedungeonocean:ocean_temple_quad": "2024-12-17 00:42:01 +0000"
+    },
+    "done": true
+  },
+  "quark:pathfinder_map_center": {
+    "criteria": {
+      "pathfinder_map_center": "2024-12-17 00:06:08 +0000"
     },
     "done": true
   },
