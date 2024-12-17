@@ -891,8 +891,16 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-17 04:16:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-17 04:15:09 +0000",
+      "minecraft:nether_wastes": "2024-12-17 04:13:32 +0000",
       "minecraft:soul_sand_valley": "2024-12-17 04:02:36 +0000"
     },
     "done": false
@@ -912,6 +920,12 @@
   "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
     "criteria": {
       "arcane_anvil": "2024-12-17 03:35:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-17 04:17:16 +0000"
     },
     "done": true
   },
