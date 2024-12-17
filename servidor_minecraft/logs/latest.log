@@ -3205,3 +3205,7 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [17Dec2024 05:01:12.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> busque carbón
 [17Dec2024 05:01:28.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> carbón
 [17Dec2024 05:03:09.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [Playing With Fire]
+[17Dec2024 05:07:13.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has reached the goal [New Age Librarian]
+[17Dec2024 05:07:40.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved wrongly!
+[17Dec2024 05:08:59.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Estoy ordenando mis cosas y creo que me salgo
+[17Dec2024 05:14:47.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to -382.500000, 84.500000, 1162.500000]
