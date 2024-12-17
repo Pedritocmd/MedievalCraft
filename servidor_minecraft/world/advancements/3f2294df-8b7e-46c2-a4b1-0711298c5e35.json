@@ -1247,5 +1247,11 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:gauntlet": "2024-12-17 04:48:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
