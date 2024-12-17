@@ -62,6 +62,7 @@
       "wetland": "2024-11-16 02:51:37 +0000",
       "cold_desert": "2024-11-16 01:37:20 +0000",
       "maple_woods": "2024-11-16 03:00:22 +0000",
+      "crystalline_chasm": "2024-12-17 04:02:59 +0000",
       "field": "2024-11-24 00:10:22 +0000",
       "orchard": "2024-12-09 01:56:17 +0000",
       "lavender_forest": "2024-11-17 05:55:39 +0000",
@@ -201,6 +202,7 @@
       "minecraft:wither_skeleton": "2024-12-02 06:08:58 +0000",
       "minecraft:husk": "2024-11-17 07:02:31 +0000",
       "minecraft:cave_spider": "2024-11-16 04:02:05 +0000",
+      "quark:wraith": "2024-12-17 04:04:17 +0000",
       "minecraft:stray": "2024-11-18 22:49:46 +0000",
       "minecraft:silverfish": "2024-12-16 03:59:40 +0000",
       "minecraft:vex": "2024-12-09 01:20:13 +0000",
@@ -877,9 +879,33 @@
     },
     "done": false
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-17 04:08:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2024-12-17 03:43:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2024-12-17 04:02:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-17 04:02:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-17 04:02:36 +0000"
     },
     "done": true
   },

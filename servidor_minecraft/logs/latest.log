@@ -3110,3 +3110,35 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [17Dec2024 04:02:36.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
 [17Dec2024 04:03:00.005] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
 [17Dec2024 04:04:47.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> toi buscando esas cenizas y ob llorosa
+[17Dec2024 04:06:10.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -377.500000, 62.500000, 170.500000]
+[17Dec2024 04:06:11.755] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[17Dec2024 04:06:22.369] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:ancient_battleground took 0 ms
+[17Dec2024 04:06:25.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -431.500000, 63.000000, 144.500000]
+[17Dec2024 04:07:30.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> mande tp
+[17Dec2024 04:07:37.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[17Dec2024 04:08:02.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [Who is Cutting Onions?]
+[17Dec2024 04:08:08.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -426.500000, 68.500000, 5.500000]
+[17Dec2024 04:08:16.569] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:ancient_battleground took 0 ms
+[17Dec2024 04:08:19.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -431.500000, 68.000000, 144.500000]
+[17Dec2024 04:09:13.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -238.500000, 53.500000, 253.500000]
+[17Dec2024 04:09:33.904] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[17Dec2024 04:10:03.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Hay que buscar otra estructura como esa en la que está, esa ya la había looteado con Pepe así que no hay esencia
+[17Dec2024 04:10:09.118] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:ancient_battleground took 0 ms
+[17Dec2024 04:10:23.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> y como son?
+[17Dec2024 04:10:28.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[17Dec2024 04:10:44.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[17Dec2024 04:10:56.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Todo esto es la estruturaa
+[17Dec2024 04:11:02.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[17Dec2024 04:11:02.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Hay que buscar otra igual
+[17Dec2024 04:11:17.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -238.500000, 53.500000, 253.500000]
+[17Dec2024 04:13:03.611] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:ancient_battleground took 0 ms
+[17Dec2024 04:13:07.454] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[17Dec2024 04:13:24.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Si quiere venga zona sin explorar
+[17Dec2024 04:13:26.673] [Worker-Main-2/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -30 0 591
+[17Dec2024 04:13:31.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[17Dec2024 04:13:46.986] [Worker-Main-34/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -25 0 717
+[17Dec2024 04:13:51.935] [Worker-Main-3/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -35 0 747
+[17Dec2024 04:14:04.824] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:ancient_battleground took 0 ms
+[17Dec2024 04:14:38.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[17Dec2024 04:14:47.185] [Worker-Main-2/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 223 0 497
+[17Dec2024 04:14:47.533] [Worker-Main-34/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 211 0 795
