@@ -881,33 +881,15 @@
     },
     "done": false
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
     "criteria": {
-      "crying_obsidian": "2024-12-17 04:08:02 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
-    "criteria": {
-      "scroll_forge": "2024-12-17 05:07:13 +0000"
-    },
-    "done": true
-  },
-  "quark:tame_foxhound": {
-    "criteria": {
-      "tame_foxhound": "2024-12-17 05:03:09 +0000"
+      "arcane_anvil": "2024-12-17 03:35:52 +0000"
     },
     "done": true
   },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2024-12-17 03:43:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2024-12-17 04:16:30 +0000"
     },
     "done": true
   },
@@ -931,15 +913,33 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "arcane_anvil": "2024-12-17 03:35:52 +0000"
+      "crying_obsidian": "2024-12-17 04:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-17 04:16:30 +0000"
     },
     "done": true
   },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2024-12-17 04:17:16 +0000"
+    },
+    "done": true
+  },
+  "quark:tame_foxhound": {
+    "criteria": {
+      "tame_foxhound": "2024-12-17 05:03:09 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2024-12-17 05:07:13 +0000"
     },
     "done": true
   },
