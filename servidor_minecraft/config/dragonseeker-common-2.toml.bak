@@ -24,7 +24,7 @@
 	"Basic: minVol" = 0.05
 	#Maximum volume of a ping, for when you're inside the ping cap radius. Default: .05
 	#Range: 0.0 ~ 1.0
-	"Basic: maxVol" = 0.05
+	"Basic: maxVol" = 0.4
 	#Pitch of a negative result, i.e. no dragon detected. Default: .5
 	#Range: 0.0 ~ 1.0
 	"Basic: minPitch" = 0.5
