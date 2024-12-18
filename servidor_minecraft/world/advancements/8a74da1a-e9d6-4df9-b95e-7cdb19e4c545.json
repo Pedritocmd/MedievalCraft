@@ -946,15 +946,15 @@
     },
     "done": true
   },
-  "dungeons_arise:find_infested_temple": {
-    "criteria": {
-      "location0": "2024-12-18 05:38:08 +0000"
-    },
-    "done": true
-  },
   "cataclysm:find_ancient_factory": {
     "criteria": {
       "factory": "2024-12-18 05:30:57 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2024-12-18 05:38:08 +0000"
     },
     "done": true
   },
