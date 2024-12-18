@@ -3108,3 +3108,37 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [18Dec2024 04:18:14.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
 [18Dec2024 04:18:31.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1536, y=-12, z=-502} BlockPos{x=-499, y=76, z=1029}
 [18Dec2024 04:18:35.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6171ms or 123 ticks behind
+[18Dec2024 04:18:55.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5167ms or 103 ticks behind
+[18Dec2024 04:19:16.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[18Dec2024 04:19:23.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12497ms or 249 ticks behind
+[18Dec2024 04:20:00.082] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3361ms or 67 ticks behind
+[18Dec2024 04:20:00.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 moved too quickly! -9.724412427067591,1.2491870787446828,6.575792519980041
+[18Dec2024 04:20:00.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved too quickly! -1.2550785340513357,1.0,9.91023189490079
+[18Dec2024 04:20:27.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-648, y=42, z=1443} BlockPos{x=-648, y=41, z=1443}
+[18Dec2024 04:20:31.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] sisi ya estoy pero me dio error y debo reiniciar mi mine xD
+[18Dec2024 04:21:28.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[18Dec2024 04:22:41.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to -396.500000, 84.500000, 1154.500000]
+[18Dec2024 04:22:45.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[18Dec2024 04:23:05.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5286ms or 105 ticks behind
+[18Dec2024 04:23:37.598] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 04:23:55.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[18Dec2024 04:24:18.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-640, y=-1, z=1445} BlockPos{x=-586, y=70, z=1665}
+[18Dec2024 04:24:18.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-640, y=-1, z=1445} BlockPos{x=-586, y=69, z=1665}
+[18Dec2024 04:24:21.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[18Dec2024 04:25:03.259] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JhynMC is 3f2294df-8b7e-46c2-a4b1-0711298c5e35
+[18Dec2024 04:25:25.758] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhynMC[/127.242.210.13:51097] logged in with entity id 10114 at (-412.1465530314159, 95.0, 1116.03855826888)
+[18Dec2024 04:25:25.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC joined the game
+[18Dec2024 04:25:25.955] [Server thread/INFO] [Jade/]: Syncing config to JhynMC (3f2294df-8b7e-46c2-a4b1-0711298c5e35)
+[18Dec2024 04:25:28.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2573ms or 51 ticks behind
+[18Dec2024 04:25:55.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12478ms or 249 ticks behind
+[18Dec2024 04:26:16.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ya voy
+[18Dec2024 04:26:17.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6949ms or 138 ticks behind
+[18Dec2024 04:26:36.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4507ms or 90 ticks behind
+[18Dec2024 04:26:42.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[18Dec2024 04:26:55.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3907ms or 78 ticks behind
+[18Dec2024 04:27:13.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2486ms or 49 ticks behind
+[18Dec2024 04:27:24.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[18Dec2024 04:28:01.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[18Dec2024 04:29:05.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 was slain by Gondar_80 using [Velkhana]
+[18Dec2024 04:29:13.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ekis de
+[18Dec2024 04:29:21.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
