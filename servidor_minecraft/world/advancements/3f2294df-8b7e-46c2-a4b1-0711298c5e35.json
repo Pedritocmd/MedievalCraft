@@ -1254,5 +1254,11 @@
     },
     "done": true
   },
+  "quark:get_bottled_cloud": {
+    "criteria": {
+      "get_bottled_cloud": "2024-12-18 05:26:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
