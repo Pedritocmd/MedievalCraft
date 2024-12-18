@@ -3142,3 +3142,18 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [18Dec2024 04:29:05.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 was slain by Gondar_80 using [Velkhana]
 [18Dec2024 04:29:13.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ekis de
 [18Dec2024 04:29:21.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[18Dec2024 04:29:29.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[18Dec2024 04:29:39.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Y lo peor es que explotó el diamante
+[18Dec2024 04:29:42.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5504ms or 110 ticks behind
+[18Dec2024 04:31:14.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to -584.500000, 61.500000, 1666.500000]
+[18Dec2024 04:31:17.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[18Dec2024 04:31:20.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[18Dec2024 04:31:22.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> XD
+[18Dec2024 04:31:51.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Perame
+[18Dec2024 04:32:05.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> pa la info
+[18Dec2024 04:32:30.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[18Dec2024 04:34:23.106] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Pepishikita21'/13907, l='ServerLevel[world]', x=-490.38, y=-0.95, z=1693.64] died: Pepishikita21 was killed by [Velkhana] trying to hurt Gondar_80
+[18Dec2024 04:38:02.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to -488.500000, 76.500000, 1692.500000]
+[18Dec2024 04:38:05.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[18Dec2024 04:39:10.111] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.34 seconds (should be max 0.05)
+[18Dec2024 04:39:10.113] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
