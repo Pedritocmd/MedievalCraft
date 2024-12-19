@@ -1232,9 +1232,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
+      "kill_lich": "2024-12-19 05:48:03 +0000",
       "kill_naga": "2024-12-16 03:40:23 +0000"
     },
-    "done": false
+    "done": true
   },
   "cataclysm:find_sunken_city": {
     "criteria": {
@@ -1259,6 +1260,24 @@
       "get_bottled_cloud": "2024-12-18 05:26:50 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2024-12-19 05:48:03 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2024-12-19 05:48:03 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2024-12-19 05:48:03 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
