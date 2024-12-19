@@ -3244,3 +3244,10 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [19Dec2024 06:27:14.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 lost connection: Disconnected
 [19Dec2024 06:27:14.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 left the game
 [19Dec2024 06:27:59.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[19Dec2024 06:33:44.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[19Dec2024 06:34:26.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Zombie]
+[19Dec2024 06:34:41.804] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['JhynMC'/65797, l='ServerLevel[world]', x=-570.83, y=200.00, z=1331.80] died: JhynMC was slain by JhynMC using [Andúril]
+[19Dec2024 06:35:29.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Gave 2 [Enchanted Golden Apple] to JhynMC]
+[19Dec2024 06:35:47.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Gave 10 [Golden Apple] to JhynMC]
+[19Dec2024 06:36:02.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[19Dec2024 06:36:09.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
