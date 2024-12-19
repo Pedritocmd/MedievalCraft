@@ -3202,3 +3202,15 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [19Dec2024 05:57:33.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -3588.500000, 5.500000, 9494.500000]
 [19Dec2024 05:57:51.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ahora sigue el minotauro no?
 [19Dec2024 05:59:01.724] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element twilightforest:hedge_maze took 10 ms
+[19Dec2024 05:59:29.507] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element twilightforest:labyrinth took 2 ms
+[19Dec2024 06:01:36.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ya estoy en el laberinto
+[19Dec2024 06:01:43.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[19Dec2024 06:02:57.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[19Dec2024 06:03:02.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> shi
+[19Dec2024 06:03:32.438] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[19Dec2024 06:07:17.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[19Dec2024 06:08:15.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Disconnected
+[19Dec2024 06:08:15.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
+[19Dec2024 06:08:15.446] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 06:08:31.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] xD
+[19Dec2024 06:08:39.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]

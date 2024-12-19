@@ -989,6 +989,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "cooked_meef": "2024-12-19 06:05:10 +0000"
+    },
+    "done": false
+  },
   "twilightforest:progress_yeti": {
     "criteria": {
       "previous_progression": "2024-12-19 05:49:50 +0000"
