@@ -3118,3 +3118,28 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [19Dec2024 05:05:24.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -413.500000, 85.500000, 1128.500000]
 [19Dec2024 05:06:27.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Timed out
 [19Dec2024 05:06:27.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
+[19Dec2024 05:08:35.537] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Pepishikita21'/17508, l='ServerLevel[world]', x=-584.90, y=217.00, z=1329.11] died: Pepishikita21 was slain by Pepishikita21 using [Elián]
+[19Dec2024 05:08:49.546] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JhynMC is 3f2294df-8b7e-46c2-a4b1-0711298c5e35
+[19Dec2024 05:09:18.890] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@74593280[id=3f2294df-8b7e-46c2-a4b1-0711298c5e35,name=JhynMC,properties={textures=[com.mojang.authlib.properties.Property@3f6d205d]},legacy=false] (/127.242.210.13:40223): Took too long to log in
+[19Dec2024 05:09:18.892] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@74593280[id=3f2294df-8b7e-46c2-a4b1-0711298c5e35,name=JhynMC,properties={textures=[com.mojang.authlib.properties.Property@3f6d205d]},legacy=false] (/127.242.210.13:40223) lost connection: Took too long to log in
+[19Dec2024 05:09:18.931] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 05:09:44.208] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JhynMC is 3f2294df-8b7e-46c2-a4b1-0711298c5e35
+[19Dec2024 05:10:13.439] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1e178d78[id=3f2294df-8b7e-46c2-a4b1-0711298c5e35,name=JhynMC,properties={textures=[com.mojang.authlib.properties.Property@1d83cb94]},legacy=false] (/127.242.210.13:38149): Took too long to log in
+[19Dec2024 05:10:13.440] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e178d78[id=3f2294df-8b7e-46c2-a4b1-0711298c5e35,name=JhynMC,properties={textures=[com.mojang.authlib.properties.Property@1d83cb94]},legacy=false] (/127.242.210.13:38149) lost connection: Took too long to log in
+[19Dec2024 05:10:13.484] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 05:10:26.526] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JhynMC is 3f2294df-8b7e-46c2-a4b1-0711298c5e35
+[19Dec2024 05:10:54.530] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhynMC[/127.242.210.13:48353] logged in with entity id 19242 at (-413.31980258462374, 95.0, 1114.308483378327)
+[19Dec2024 05:10:54.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC joined the game
+[19Dec2024 05:10:54.610] [Server thread/INFO] [Jade/]: Syncing config to JhynMC (3f2294df-8b7e-46c2-a4b1-0711298c5e35)
+[19Dec2024 05:10:57.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[19Dec2024 05:12:34.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 lost connection: Timed out
+[19Dec2024 05:12:34.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 left the game
+[19Dec2024 05:13:21.276] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Pepishikita21 is 8a74da1a-e9d6-4df9-b95e-7cdb19e4c545
+[19Dec2024 05:13:32.584] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepishikita21[/127.135.37.162:41243] logged in with entity id 21256 at (-585.321973115361, 217.0, 1328.794255549502)
+[19Dec2024 05:13:32.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 joined the game
+[19Dec2024 05:13:32.729] [Server thread/INFO] [Jade/]: Syncing config to Pepishikita21 (8a74da1a-e9d6-4df9-b95e-7cdb19e4c545)
+[19Dec2024 05:15:44.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> tiene que ser al tope
+[19Dec2024 05:15:53.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> No puedes pasar de filo 2 a 5
+[19Dec2024 05:15:55.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> 6
+[19Dec2024 05:17:34.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Made JhynMC no longer a server operator]
+[19Dec2024 05:17:55.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Luego dicen que hago trampas
