@@ -979,7 +979,20 @@
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
+      "meef": "2024-12-19 06:19:20 +0000",
       "kill_lich": "2024-12-19 05:49:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2024-12-19 06:19:20 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "meef_stroganoff": "2024-12-19 06:19:20 +0000"
     },
     "done": false
   },

@@ -3214,3 +3214,33 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [19Dec2024 06:08:15.446] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [19Dec2024 06:08:31.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] xD
 [19Dec2024 06:08:39.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[19Dec2024 06:11:54.435] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JhynMC is 3f2294df-8b7e-46c2-a4b1-0711298c5e35
+[19Dec2024 06:12:16.187] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhynMC[/127.242.210.13:60957] logged in with entity id 57553 at (-3815.776595769616, -13.0, 9502.31704733475)
+[19Dec2024 06:12:16.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC joined the game
+[19Dec2024 06:12:16.309] [Server thread/INFO] [Jade/]: Syncing config to JhynMC (3f2294df-8b7e-46c2-a4b1-0711298c5e35)
+[19Dec2024 06:13:02.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has reached the goal [And Now, to Find the Exit]
+[19Dec2024 06:13:03.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[19Dec2024 06:14:23.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[19Dec2024 06:18:04.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[19Dec2024 06:18:21.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Gondar_80]
+[19Dec2024 06:18:45.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> xD
+[19Dec2024 06:19:20.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has reached the goal [Mighty Stroganoff]
+[19Dec2024 06:19:25.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Nos deja ir por el bioma de fuego
+[19Dec2024 06:19:36.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> No se vio la review?
+[19Dec2024 06:21:54.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[19Dec2024 06:22:45.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Si pero no sé si vale la pena
+[19Dec2024 06:22:51.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> sola da carne y cositos
+[19Dec2024 06:23:01.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[19Dec2024 06:24:40.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3825, y=-23, z=9504} BlockPos{x=-3825, y=-22, z=9505}
+[19Dec2024 06:24:41.136] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3825, y=-23, z=9505} BlockPos{x=-3824, y=-22, z=9505}
+[19Dec2024 06:24:42.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3824, y=-23, z=9505} BlockPos{x=-3823, y=-22, z=9505}
+[19Dec2024 06:25:33.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 lost connection: Disconnected
+[19Dec2024 06:25:33.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 left the game
+[19Dec2024 06:25:41.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -572.500000, 200.500000, 1336.500000]
+[19Dec2024 06:25:51.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 moved too quickly! 4.722021789520113,-1.0,8.939603771421389
+[19Dec2024 06:25:51.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10139ms or 202 ticks behind
+[19Dec2024 06:26:25.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -572.500000, 200.500000, 1336.500000]
+[19Dec2024 06:27:08.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> byee
+[19Dec2024 06:27:14.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 lost connection: Disconnected
+[19Dec2024 06:27:14.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 left the game
+[19Dec2024 06:27:59.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
