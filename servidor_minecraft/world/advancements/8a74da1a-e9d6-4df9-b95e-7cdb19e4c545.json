@@ -880,9 +880,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
+      "lifedrain_scepter": "2024-12-19 05:49:04 +0000",
       "kill_naga": "2024-12-16 03:40:23 +0000"
     },
-    "done": false
+    "done": true
   },
   "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
     "criteria": {
@@ -969,6 +970,24 @@
       "bred": "2024-12-18 17:24:45 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2024-12-19 05:49:04 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2024-12-19 05:49:04 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2024-12-19 05:49:04 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

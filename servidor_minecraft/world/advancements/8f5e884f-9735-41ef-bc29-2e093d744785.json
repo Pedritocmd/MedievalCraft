@@ -959,11 +959,23 @@
     },
     "done": true
   },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2024-12-19 05:49:50 +0000"
+    },
+    "done": false
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "naga": "2024-12-19 05:30:53 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2024-12-19 05:49:50 +0000"
+    },
+    "done": false
   },
   "twilightforest:arborist": {
     "criteria": {
@@ -977,11 +989,24 @@
     },
     "done": true
   },
-  "twilightforest:progress_lich": {
+  "twilightforest:progress_yeti": {
     "criteria": {
-      "kill_naga": "2024-12-19 05:30:53 +0000"
+      "previous_progression": "2024-12-19 05:49:50 +0000"
     },
     "done": false
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "lifedrain_scepter": "2024-12-19 05:49:50 +0000",
+      "kill_naga": "2024-12-19 05:30:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hill2": {
+    "criteria": {
+      "redcap": "2024-12-19 05:52:56 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -12719,3 +12719,33 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [19Dec2024 05:48:04.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Dec2024 05:48:04.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Dec2024 05:48:06.628] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[19Dec2024 05:49:04.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has reached the goal [Bring Out Your Dead]
+[19Dec2024 05:49:50.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has reached the goal [Bring Out Your Dead]
+[19Dec2024 05:51:28.493] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[19Dec2024 05:51:43.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Con el escudo había que devolverle el ataque
+[19Dec2024 05:51:49.742] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[19Dec2024 05:51:50.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[19Dec2024 05:51:50.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ya luego si se le pegaba normal
+[19Dec2024 05:52:03.300] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[19Dec2024 05:52:07.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> tiene 2 fases
+[19Dec2024 05:52:19.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4119, y=12, z=9017} BlockPos{x=-4120, y=18, z=9258}
+[19Dec2024 05:52:19.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4119, y=12, z=9017} BlockPos{x=-4120, y=18, z=9258}
+[19Dec2024 05:52:56.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has made the advancement [What Was That Noise?]
+[19Dec2024 05:53:04.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 05:53:04.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 05:53:18.342] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:diamond" - querying recipes to get these
+[19Dec2024 05:53:26.440] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
+[19Dec2024 05:53:26.592] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:emerald" - querying recipes to get these
+[19Dec2024 05:54:11.993] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[19Dec2024 05:54:38.942] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[19Dec2024 05:54:50.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] e
+[19Dec2024 05:55:10.345] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:redstone" - querying recipes to get these
+[19Dec2024 05:55:32.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[19Dec2024 05:57:30.445] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[19Dec2024 05:57:30.447] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[19Dec2024 05:57:33.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -3588.500000, 5.500000, 9494.500000]
+[19Dec2024 05:57:51.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ahora sigue el minotauro no?
+[19Dec2024 05:58:05.017] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 05:58:05.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 05:58:23.135] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[19Dec2024 05:59:01.724] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element twilightforest:hedge_maze took 10 ms
