@@ -3086,3 +3086,35 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [19Dec2024 04:44:29.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] :b
 [19Dec2024 04:45:35.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Sigilo solo es en la ciduad del warden
 [19Dec2024 04:45:59.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Botín = Saqueo
+[19Dec2024 04:47:29.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[19Dec2024 04:47:52.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> tomate
+[19Dec2024 04:49:29.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[19Dec2024 04:49:59.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[19Dec2024 04:50:17.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2642ms or 52 ticks behind
+[19Dec2024 04:50:34.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[19Dec2024 04:50:52.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
+[19Dec2024 04:51:09.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2716ms or 54 ticks behind
+[19Dec2024 04:51:27.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3236ms or 64 ticks behind
+[19Dec2024 04:51:51.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to -574.500000, 200.500000, 1336.500000]
+[19Dec2024 04:51:52.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[19Dec2024 04:52:13.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6050ms or 121 ticks behind
+[19Dec2024 04:53:54.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2527ms or 50 ticks behind
+[19Dec2024 04:55:19.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to -396.500000, 84.500000, 1154.500000]
+[19Dec2024 04:55:23.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[19Dec2024 04:55:45.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6312ms or 126 ticks behind
+[19Dec2024 04:56:02.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2303ms or 46 ticks behind
+[19Dec2024 04:56:23.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[19Dec2024 04:57:15.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[19Dec2024 04:57:15.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19Dec2024 04:57:33.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] eh?
+[19Dec2024 04:57:55.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a que se le puede poner proteccion ignifuga
+[19Dec2024 04:59:16.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> A toda la armadura, pero no lo reocmiendo
+[19Dec2024 04:59:35.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Cada cuanto te quemas?
+[19Dec2024 05:01:35.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ese era del corail
+[19Dec2024 05:01:53.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> exacto
+[19Dec2024 05:02:03.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Hay un encamineto del end
+[19Dec2024 05:02:21.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a 2
+[19Dec2024 05:02:47.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Vwooping y shared pain
+[19Dec2024 05:05:24.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -413.500000, 85.500000, 1128.500000]
+[19Dec2024 05:06:27.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Timed out
+[19Dec2024 05:06:27.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
