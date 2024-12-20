@@ -3216,3 +3216,22 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [20Dec2024 05:29:06.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ASJKAJSKASLAJKSA
 [20Dec2024 05:29:21.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
 [20Dec2024 05:29:26.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[20Dec2024 05:32:07.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has made the advancement [Mystery Meat?]
+[20Dec2024 05:32:11.217] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element twilightforest:highlands took 17 ms
+[20Dec2024 05:32:29.029] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 lost connection: Disconnected
+[20Dec2024 05:32:29.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 left the game
+[20Dec2024 05:32:42.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Pooos
+[20Dec2024 05:32:53.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Es una llave xD
+[20Dec2024 05:33:01.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> No sé de qué torre
+[20Dec2024 05:33:23.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> debería descansar
+[20Dec2024 05:33:39.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -471.500000, 29.000000, 565.500000]
+[20Dec2024 05:33:41.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 lost connection: Disconnected
+[20Dec2024 05:33:41.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 left the game
+[20Dec2024 05:34:40.951] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element twilightforest:spooky_forest took 4 ms
+[20Dec2024 05:34:44.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -95.500000, 17.000000, 704.500000]
+[20Dec2024 05:35:17.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[20Dec2024 05:35:38.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Adventure Mode]
+[20Dec2024 05:35:50.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[20Dec2024 05:37:17.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Adventure Mode]
+[20Dec2024 05:37:18.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[20Dec2024 05:37:24.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
