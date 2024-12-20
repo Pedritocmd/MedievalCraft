@@ -953,17 +953,17 @@
     },
     "done": true
   },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2024-12-19 05:28:52 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_naga": {
     "criteria": {
       "naga": "2024-12-19 05:30:53 +0000"
     },
     "done": true
-  },
-  "twilightforest:progress_trophy_pedestal": {
-    "criteria": {
-      "kill_lich": "2024-12-19 05:49:50 +0000"
-    },
-    "done": false
   },
   "twilightforest:twilight_hunter": {
     "criteria": {
@@ -971,11 +971,12 @@
     },
     "done": true
   },
-  "twilightforest:progress_labyrinth": {
+  "twilightforest:progress_lich": {
     "criteria": {
-      "kill_lich": "2024-12-19 05:49:50 +0000"
+      "lifedrain_scepter": "2024-12-19 05:49:50 +0000",
+      "kill_naga": "2024-12-19 05:30:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:arborist": {
     "criteria": {
@@ -983,21 +984,15 @@
     },
     "done": false
   },
-  "twilightforest:maze_map": {
+  "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "maze_map": "2024-12-19 06:13:02 +0000"
+      "kill_lich": "2024-12-19 05:49:50 +0000"
     },
-    "done": true
+    "done": false
   },
-  "twilightforest:root": {
+  "twilightforest:progress_labyrinth": {
     "criteria": {
-      "in_tf": "2024-12-19 05:28:52 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:twilight_dinner": {
-    "criteria": {
-      "cooked_meef": "2024-12-19 06:05:10 +0000"
+      "kill_lich": "2024-12-19 05:49:50 +0000"
     },
     "done": false
   },
@@ -1007,16 +1002,21 @@
     },
     "done": false
   },
-  "twilightforest:progress_lich": {
-    "criteria": {
-      "lifedrain_scepter": "2024-12-19 05:49:50 +0000",
-      "kill_naga": "2024-12-19 05:30:53 +0000"
-    },
-    "done": true
-  },
   "twilightforest:hill2": {
     "criteria": {
       "redcap": "2024-12-19 05:52:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "cooked_meef": "2024-12-19 06:05:10 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:maze_map": {
+    "criteria": {
+      "maze_map": "2024-12-19 06:13:02 +0000"
     },
     "done": true
   },

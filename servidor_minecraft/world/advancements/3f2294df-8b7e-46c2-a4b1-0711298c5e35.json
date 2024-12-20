@@ -1281,5 +1281,11 @@
     },
     "done": false
   },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "cooked_meef": "2024-12-20 03:52:50 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

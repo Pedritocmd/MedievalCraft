@@ -984,6 +984,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2024-12-19 05:49:04 +0000"
+    },
+    "done": false
+  },
   "twilightforest:progress_hydra": {
     "criteria": {
       "stroganoff": "2024-12-19 06:19:20 +0000"
@@ -992,13 +998,8 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
+      "raw_meef": "2024-12-20 03:51:23 +0000",
       "meef_stroganoff": "2024-12-19 06:19:20 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:progress_yeti": {
-    "criteria": {
-      "previous_progression": "2024-12-19 05:49:04 +0000"
     },
     "done": false
   },
