@@ -1025,13 +1025,15 @@
   },
   "twilightforest:progress_glacier": {
     "criteria": {
-      "previous_progression": "2024-12-20 04:35:22 +0000"
+      "previous_progression": "2024-12-20 04:35:22 +0000",
+      "was_in_fight": "2024-12-20 04:48:50 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_merge": {
     "criteria": {
-      "hydra": "2024-12-20 04:18:18 +0000"
+      "hydra": "2024-12-20 04:18:18 +0000",
+      "snow_queen": "2024-12-20 04:48:50 +0000"
     },
     "done": false
   },
