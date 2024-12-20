@@ -11022,3 +11022,22 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [20Dec2024 04:37:53.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
 [20Dec2024 04:38:04.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
 [20Dec2024 04:38:28.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ci
+[20Dec2024 04:39:50.890] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[20Dec2024 04:40:02.425] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[20Dec2024 04:40:44.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> creo que podemos ir por aquí
+[20Dec2024 04:42:19.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 04:42:19.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 04:42:44.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[20Dec2024 04:43:23.592] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[20Dec2024 04:44:43.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> por acá
+[20Dec2024 04:45:18.478] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[20Dec2024 04:45:36.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[20Dec2024 04:45:55.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> vengan
+[20Dec2024 04:47:19.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 04:47:19.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 04:47:34.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[20Dec2024 04:48:03.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[20Dec2024 04:48:46.125] [Server thread/DEBUG] [twilightforest/]: Found no spots, giving up
+[20Dec2024 04:48:50.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has reached the goal [Clear Skies]
+[20Dec2024 04:48:50.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has reached the goal [Clear Skies]
+[20Dec2024 04:48:50.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has reached the goal [Clear Skies]
