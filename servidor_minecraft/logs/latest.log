@@ -3271,3 +3271,17 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [20Dec2024 06:30:23.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
 [20Dec2024 06:30:30.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
 [20Dec2024 06:30:38.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[20Dec2024 06:31:18.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Gave 400 [Paper] to JhynMC]
+[20Dec2024 06:32:43.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Gave 400 [Paper] to JhynMC]
+[20Dec2024 06:35:47.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Gave 400 [Paper] to JhynMC]
+[20Dec2024 06:38:21.790] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element quark:glimmering_weald took 3947 ms
+[20Dec2024 06:38:21.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3921ms or 78 ticks behind
+[20Dec2024 06:38:28.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to 1315.500000, -47.000000, 316.500000]
+[20Dec2024 06:38:30.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[20Dec2024 06:38:40.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3557ms or 71 ticks behind
+[20Dec2024 06:39:51.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -413.500000, 85.500000, 1128.500000]
+[20Dec2024 06:39:55.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[20Dec2024 06:40:00.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[20Dec2024 06:40:23.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[20Dec2024 06:40:49.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[20Dec2024 06:40:59.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
