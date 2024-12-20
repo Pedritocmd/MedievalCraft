@@ -986,20 +986,23 @@
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2024-12-19 05:49:04 +0000"
+      "previous_progression": "2024-12-19 05:49:04 +0000",
+      "yeti": "2024-12-20 04:35:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_hydra": {
     "criteria": {
-      "stroganoff": "2024-12-19 06:19:20 +0000"
+      "stroganoff": "2024-12-19 06:19:20 +0000",
+      "was_in_fight": "2024-12-20 04:18:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
       "raw_meef": "2024-12-20 03:51:23 +0000",
       "meef_stroganoff": "2024-12-19 06:19:20 +0000",
+      "maze_wafer": "2024-12-20 04:10:46 +0000",
       "cooked_meef": "2024-12-20 04:02:30 +0000"
     },
     "done": false
@@ -1007,6 +1010,24 @@
   "majruszsdifficulty:bleeding_healed_other": {
     "criteria": {
       "bleeding_healed": "2024-12-20 04:02:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2024-12-20 04:35:22 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "hydra": "2024-12-20 04:18:18 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:mazebreaker": {
+    "criteria": {
+      "pick": "2024-12-20 04:09:02 +0000"
     },
     "done": true
   },

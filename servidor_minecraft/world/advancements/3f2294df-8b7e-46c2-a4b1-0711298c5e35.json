@@ -1271,18 +1271,46 @@
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
+      "meef": "2024-12-20 04:15:21 +0000",
       "kill_lich": "2024-12-19 05:48:03 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2024-12-19 05:48:03 +0000"
+      "previous_progression": "2024-12-19 05:48:03 +0000",
+      "was_in_fight": "2024-12-20 04:35:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2024-12-20 04:35:22 +0000"
     },
     "done": false
   },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "hydra": "2024-12-20 04:24:39 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "kill_hydra": "2024-12-20 04:24:39 +0000",
+      "stroganoff": "2024-12-20 04:15:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:mazebreaker": {
+    "criteria": {
+      "pick": "2024-12-20 04:09:25 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_dinner": {
     "criteria": {
+      "meef_stroganoff": "2024-12-20 04:15:21 +0000",
       "cooked_meef": "2024-12-20 03:52:50 +0000"
     },
     "done": false

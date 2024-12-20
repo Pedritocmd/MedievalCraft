@@ -10944,3 +10944,81 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [20Dec2024 04:05:07.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
 [20Dec2024 04:07:16.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Dec2024 04:07:16.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 04:09:02.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has completed the challenge [Breaking the Maze]
+[20Dec2024 04:09:25.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has completed the challenge [Breaking the Maze]
+[20Dec2024 04:09:34.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has completed the challenge [Breaking the Maze]
+[20Dec2024 04:10:53.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[20Dec2024 04:10:56.027] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
+[20Dec2024 04:11:50.630] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[20Dec2024 04:11:50.631] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[20Dec2024 04:12:16.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 04:12:16.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 04:13:03.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Gondar_80]
+[20Dec2024 04:14:41.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> la Hydra
+[20Dec2024 04:15:21.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has reached the goal [Mighty Stroganoff]
+[20Dec2024 04:15:34.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> coman la sopa del laberito
+[20Dec2024 04:15:54.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[20Dec2024 04:16:08.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has reached the goal [Mighty Stroganoff]
+[20Dec2024 04:16:13.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2255ms or 45 ticks behind
+[20Dec2024 04:16:13.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> vengan
+[20Dec2024 04:16:15.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[20Dec2024 04:16:19.294] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[20Dec2024 04:16:23.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[20Dec2024 04:17:19.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 04:17:19.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 04:18:18.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has reached the goal [Hydra Slayer]
+[20Dec2024 04:18:18.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has reached the goal [Hydra Slayer]
+[20Dec2024 04:18:40.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> no
+[20Dec2024 04:18:48.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> No vio que apenas me dio el logro de la sopa?
+[20Dec2024 04:19:42.682] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[20Dec2024 04:19:45.878] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[20Dec2024 04:19:45.879] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[20Dec2024 04:20:54.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> phantom
+[20Dec2024 04:21:23.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Con matar una sirve
+[20Dec2024 04:22:10.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> si se muere no llores
+[20Dec2024 04:22:12.526] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[20Dec2024 04:22:19.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 04:22:19.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 04:22:37.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Gondar_80]
+[20Dec2024 04:23:06.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[20Dec2024 04:24:39.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has reached the goal [Hydra Slayer]
+[20Dec2024 04:25:20.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> pero
+[20Dec2024 04:25:23.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> no es necesario
+[20Dec2024 04:25:24.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to -4592.500000, -12.500000, 9252.500000]
+[20Dec2024 04:25:38.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[20Dec2024 04:25:48.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[20Dec2024 04:26:38.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> bajada
+[20Dec2024 04:26:43.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[20Dec2024 04:26:46.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[20Dec2024 04:27:19.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 04:27:19.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 04:29:18.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[20Dec2024 04:29:29.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Gondar_80]
+[20Dec2024 04:29:31.177] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
+[20Dec2024 04:31:15.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Le paso los cofres
+[20Dec2024 04:31:49.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> o no
+[20Dec2024 04:32:05.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Pero paque el pico?
+[20Dec2024 04:32:09.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to -4597.500000, -12.500000, 9259.500000]
+[20Dec2024 04:32:19.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 04:32:19.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 04:32:31.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[20Dec2024 04:32:32.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Pero en general es peor que el de dragón
+[20Dec2024 04:32:59.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[20Dec2024 04:33:02.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 moved wrongly!
+[20Dec2024 04:33:33.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> vamos por la reina de hiuelo ta más cerca
+[20Dec2024 04:33:44.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> sip
+[20Dec2024 04:34:05.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[20Dec2024 04:34:10.031] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[20Dec2024 04:34:54.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] :b
+[20Dec2024 04:34:56.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.3894756811005209
+[20Dec2024 04:34:56.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.8998242595771444
+[20Dec2024 04:34:56.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.3499517057935009
+[20Dec2024 04:35:22.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has reached the goal [Alpha Fur]
+[20Dec2024 04:35:22.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has reached the goal [Alpha Fur]
+[20Dec2024 04:35:22.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has reached the goal [Alpha Fur]
+[20Dec2024 04:37:19.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 04:37:19.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 04:37:42.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[20Dec2024 04:37:53.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[20Dec2024 04:38:04.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[20Dec2024 04:38:28.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ci
