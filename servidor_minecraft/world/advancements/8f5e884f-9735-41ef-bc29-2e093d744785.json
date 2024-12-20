@@ -986,9 +986,10 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2024-12-19 05:49:50 +0000"
+      "kill_lich": "2024-12-19 05:49:50 +0000",
+      "trophy_pedestal": "2024-12-20 05:03:44 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
@@ -1037,12 +1038,25 @@
     },
     "done": false
   },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2024-12-20 05:03:45 +0000",
+      "was_in_fight": "2024-12-20 05:07:07 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_hydra": {
     "criteria": {
       "kill_hydra": "2024-12-20 04:18:18 +0000",
       "stroganoff": "2024-12-20 04:16:08 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2024-12-20 05:07:07 +0000"
+    },
+    "done": false
   },
   "twilightforest:mazebreaker": {
     "criteria": {

@@ -3144,3 +3144,43 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [20Dec2024 04:58:25.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
 [20Dec2024 04:58:46.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
 [20Dec2024 04:58:53.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20Dec2024 04:59:02.297] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element twilightforest:dark_forest took 41 ms
+[20Dec2024 04:59:05.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -224.500000, 7.000000, 1168.500000]
+[20Dec2024 04:59:18.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9841ms or 196 ticks behind
+[20Dec2024 04:59:21.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> vengan
+[20Dec2024 04:59:25.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[20Dec2024 04:59:39.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5798ms or 115 ticks behind
+[20Dec2024 04:59:59.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20Dec2024 05:00:17.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[20Dec2024 05:00:34.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[20Dec2024 05:00:39.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[20Dec2024 05:01:19.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> buscamos un laberinto
+[20Dec2024 05:01:44.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 moved wrongly!
+[20Dec2024 05:01:51.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 moved wrongly!
+[20Dec2024 05:02:09.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! 5.93695431381758,0.0,-8.522310944380706
+[20Dec2024 05:02:27.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> we aca es xD
+[20Dec2024 05:02:38.792] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=211, y=4, z=1319} BlockPos{x=263, y=5, z=1349}
+[20Dec2024 05:02:38.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=211, y=4, z=1319} BlockPos{x=263, y=5, z=1349}
+[20Dec2024 05:02:47.189] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=263, y=5, z=1349} BlockPos{x=277, y=4, z=1342}
+[20Dec2024 05:02:47.270] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=263, y=5, z=1349} BlockPos{x=277, y=4, z=1342}
+[20Dec2024 05:02:47.353] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=263, y=5, z=1349} BlockPos{x=277, y=4, z=1342}
+[20Dec2024 05:02:47.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=263, y=5, z=1349} BlockPos{x=277, y=4, z=1342}
+[20Dec2024 05:02:47.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=263, y=5, z=1349} BlockPos{x=277, y=4, z=1342}
+[20Dec2024 05:02:47.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=263, y=5, z=1349} BlockPos{x=277, y=4, z=1342}
+[20Dec2024 05:02:57.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[20Dec2024 05:03:01.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[20Dec2024 05:03:25.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> estaban en el siguente boss a este xD
+[20Dec2024 05:03:44.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has reached the goal [Trophied Champion]
+[20Dec2024 05:03:44.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has reached the goal [Trophied Champion]
+[20Dec2024 05:03:44.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has reached the goal [Trophied Champion]
+[20Dec2024 05:05:49.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[20Dec2024 05:05:53.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Lo encontré
+[20Dec2024 05:06:19.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[20Dec2024 05:06:23.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[20Dec2024 05:07:07.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has reached the goal [Carminite Acclimation]
+[20Dec2024 05:07:07.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has reached the goal [Carminite Acclimation]
+[20Dec2024 05:07:07.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has reached the goal [Carminite Acclimation]
+[20Dec2024 05:08:09.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> guardando waypoint del otro?
+[20Dec2024 05:08:16.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Guardaron*
+[20Dec2024 05:09:14.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to 251.500000, 29.500000, 1290.500000]
+[20Dec2024 05:09:20.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
