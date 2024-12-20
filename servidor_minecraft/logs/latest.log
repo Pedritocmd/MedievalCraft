@@ -3235,3 +3235,15 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [20Dec2024 05:37:17.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Adventure Mode]
 [20Dec2024 05:37:18.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
 [20Dec2024 05:37:24.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[20Dec2024 05:40:32.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[20Dec2024 05:40:35.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[20Dec2024 05:40:40.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[20Dec2024 05:41:07.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[20Dec2024 05:41:19.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[20Dec2024 05:42:10.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[20Dec2024 05:45:40.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[20Dec2024 05:46:35.057] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element twilightforest:final_castle took 22 ms
+[20Dec2024 05:46:39.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -774.500000, 73.477367, 536.500000]
+[20Dec2024 05:47:20.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! -1.0349103448871801,3.3750001341104507,9.564516824056454
+[20Dec2024 05:47:39.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! 8.600329996953292,-3.1909013491950162,5.97931028068615
+[20Dec2024 05:49:11.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
