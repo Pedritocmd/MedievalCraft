@@ -828,7 +828,9 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_planks": "2024-12-20 05:20:07 +0000",
       "canopy_planks": "2024-12-16 03:54:11 +0000",
+      "towerwood": "2024-12-20 05:13:49 +0000",
       "twilight_oak_log": "2024-12-16 02:39:56 +0000",
       "liveroot": "2024-12-16 03:15:03 +0000",
       "twilight_oak_sapling": "2024-12-16 02:40:03 +0000",
@@ -1004,7 +1006,8 @@
       "raw_meef": "2024-12-20 03:51:23 +0000",
       "meef_stroganoff": "2024-12-19 06:19:20 +0000",
       "maze_wafer": "2024-12-20 04:10:46 +0000",
-      "cooked_meef": "2024-12-20 04:02:30 +0000"
+      "cooked_meef": "2024-12-20 04:02:30 +0000",
+      "experiment_115": "2024-12-20 05:23:06 +0000"
     },
     "done": false
   },
@@ -1021,12 +1024,19 @@
     },
     "done": true
   },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2024-12-20 05:27:51 +0000"
+    },
+    "done": false
+  },
   "twilightforest:progress_merge": {
     "criteria": {
       "hydra": "2024-12-20 04:18:18 +0000",
-      "snow_queen": "2024-12-20 04:48:50 +0000"
+      "snow_queen": "2024-12-20 04:48:50 +0000",
+      "ur_ghast": "2024-12-20 05:27:51 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_knights": {
     "criteria": {
@@ -1035,11 +1045,18 @@
     },
     "done": true
   },
+  "twilightforest:experiment_115": {
+    "criteria": {
+      "eat_experiment_115": "2024-12-20 05:23:06 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
-      "previous_progression": "2024-12-20 05:07:07 +0000"
+      "previous_progression": "2024-12-20 05:07:07 +0000",
+      "ghast": "2024-12-20 05:27:51 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:mazebreaker": {
     "criteria": {

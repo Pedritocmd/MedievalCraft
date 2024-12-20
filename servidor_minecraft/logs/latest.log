@@ -3184,3 +3184,35 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [20Dec2024 05:08:16.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Guardaron*
 [20Dec2024 05:09:14.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to 251.500000, 29.500000, 1290.500000]
 [20Dec2024 05:09:20.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[20Dec2024 05:10:09.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[20Dec2024 05:10:36.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> En teoría, es el penultimo
+[20Dec2024 05:15:52.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[20Dec2024 05:16:09.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> JAJAJAJJA
+[20Dec2024 05:16:14.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> va
+[20Dec2024 05:16:27.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[20Dec2024 05:18:15.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> tenemos granja de hierro xD
+[20Dec2024 05:18:38.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[20Dec2024 05:19:07.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -572.500000, 200.500000, 1336.500000]
+[20Dec2024 05:19:39.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -572.500000, 200.500000, 1336.500000]
+[20Dec2024 05:20:33.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to 280.500000, 93.500000, 1322.500000]
+[20Dec2024 05:20:39.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=241, y=107, z=1306} BlockPos{x=242, y=109, z=1308}
+[20Dec2024 05:21:38.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to 280.500000, 93.500000, 1322.500000]
+[20Dec2024 05:22:56.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[20Dec2024 05:23:06.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [Mystery Meat?]
+[20Dec2024 05:23:45.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[20Dec2024 05:24:53.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[20Dec2024 05:26:21.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[20Dec2024 05:26:24.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Gondar_80]
+[20Dec2024 05:27:08.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Something Strange in Towerwood]
+[20Dec2024 05:27:51.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has reached the goal [Tears of Fire]
+[20Dec2024 05:27:51.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has reached the goal [Tears of Fire]
+[20Dec2024 05:27:51.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has reached the goal [Ultimate Showdown]
+[20Dec2024 05:27:51.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has reached the goal [Ultimate Showdown]
+[20Dec2024 05:27:57.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[20Dec2024 05:28:19.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> yo con flechas
+[20Dec2024 05:28:35.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved wrongly!
+[20Dec2024 05:28:43.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> JAJAJSKAJSKAJSKA
+[20Dec2024 05:29:00.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved wrongly!
+[20Dec2024 05:29:06.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ASJKAJSKASLAJKSA
+[20Dec2024 05:29:21.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[20Dec2024 05:29:26.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]

@@ -1196,6 +1196,8 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "encased_towerwood": "2024-12-20 05:22:48 +0000",
+      "towerwood": "2024-12-20 05:18:18 +0000",
       "twilight_oak_log": "2024-12-16 02:56:10 +0000",
       "dark_log": "2024-12-20 05:00:05 +0000",
       "liveroot": "2024-12-16 02:49:04 +0000",
@@ -1285,6 +1287,12 @@
     },
     "done": true
   },
+  "twilightforest:ghast_trap": {
+    "criteria": {
+      "activate_ghast_trap": "2024-12-20 05:27:08 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_glacier": {
     "criteria": {
       "previous_progression": "2024-12-20 04:35:22 +0000",
@@ -1292,12 +1300,19 @@
     },
     "done": true
   },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2024-12-20 05:27:51 +0000"
+    },
+    "done": false
+  },
   "twilightforest:progress_merge": {
     "criteria": {
       "hydra": "2024-12-20 04:24:39 +0000",
-      "snow_queen": "2024-12-20 04:48:50 +0000"
+      "snow_queen": "2024-12-20 04:48:50 +0000",
+      "ur_ghast": "2024-12-20 05:27:51 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_knights": {
     "criteria": {
@@ -1315,9 +1330,10 @@
   },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
-      "previous_progression": "2024-12-20 05:07:07 +0000"
+      "previous_progression": "2024-12-20 05:07:07 +0000",
+      "was_in_fight": "2024-12-20 05:27:51 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:mazebreaker": {
     "criteria": {
