@@ -1362,5 +1362,11 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/divine": {
+    "criteria": {
+      "has_item": "2024-12-21 22:06:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
