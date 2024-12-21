@@ -10248,3 +10248,59 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [21Dec2024 21:56:22.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Skin changed]
 [21Dec2024 21:57:27.903] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [21Dec2024 21:57:27.906] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Dec2024 21:58:08.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[21Dec2024 21:58:17.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[21Dec2024 21:58:20.997] [Server thread/DEBUG] [mixin/]: Mixing PortalShapeMixin from quad.mixins.json into net.minecraft.world.level.portal.PortalShape
+[21Dec2024 21:58:20.998] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$PortalShape$0(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)Z to mdcab42f$lambda$PortalShape$0$0 in quad.mixins.json:PortalShapeMixin
+[21Dec2024 21:58:22.808] [Server thread/DEBUG] [mixin/]: Mixing cached_hashcode.BlockNeighborGroupMixin from lithium.mixins.json into net.minecraft.world.level.block.Block$BlockStatePairKey
+[21Dec2024 21:58:22.809] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:cached_hashcode.BlockNeighborGroupMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[21Dec2024 21:58:29.877] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Dec2024 21:58:29.881] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Dec2024 21:58:29.884] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Dec2024 21:58:33.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9894ms or 197 ticks behind
+[21Dec2024 21:58:52.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4900ms or 98 ticks behind
+[21Dec2024 21:59:15.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[21Dec2024 21:59:16.624] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Dec2024 21:59:36.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Dec2024 21:59:36.748] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Dec2024 21:59:58.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Config for dragonseeker of type SERVER not found]
+[21Dec2024 22:00:02.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Config for dragonseeker of type CLIENT not found]
+[21Dec2024 22:00:06.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Config for dragonseeker of type COMMON found at dragonseeker-common.toml]
+[21Dec2024 22:00:50.295] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Dec2024 22:00:53.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[21Dec2024 22:01:35.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 22:01:35.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 22:01:53.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[21Dec2024 22:01:57.586] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Dec2024 22:01:58.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied 5.0 damage to JhynMC]
+[21Dec2024 22:02:18.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: The default game mode is now Adventure Mode]
+[21Dec2024 22:02:23.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: The default game mode is now Survival Mode]
+[21Dec2024 22:02:39.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[21Dec2024 22:03:18.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[21Dec2024 22:03:18.387] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Dec2024 22:03:30.113] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[21Dec2024 22:03:30.118] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from quad.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[21Dec2024 22:03:37.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Made JhynMC no longer a server operator]
+[21Dec2024 22:04:37.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Jhyn a server operator
+[21Dec2024 22:04:39.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Dec2024 22:04:41.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made JhynMC a server operator
+[21Dec2024 22:04:46.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Made Jhyn no longer a server operator]
+[21Dec2024 22:04:52.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to 227.500000, 82.500000, 211.500000]
+[21Dec2024 22:04:53.133] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Dec2024 22:04:53.561] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Dec2024 22:05:23.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Made JhynMC no longer a server operator]
+[21Dec2024 22:05:29.785] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Dec2024 22:05:37.983] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Dec2024 22:05:55.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made JhynMC a server operator
+[21Dec2024 22:05:59.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[21Dec2024 22:06:18.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[21Dec2024 22:06:30.032] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Dec2024 22:06:35.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 22:06:35.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 22:07:21.281] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Dec2024 22:07:32.548] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Dec2024 22:07:43.079] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Dec2024 22:08:15.983] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Dec2024 22:08:17.383] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Dec2024 22:08:17.383] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[21Dec2024 22:08:23.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
