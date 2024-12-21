@@ -1289,37 +1289,16 @@
     },
     "done": true
   },
-  "twilightforest:ghast_trap": {
+  "twilightforest:twilight_dinner": {
     "criteria": {
-      "activate_ghast_trap": "2024-12-20 05:27:08 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_glacier": {
-    "criteria": {
-      "previous_progression": "2024-12-20 04:35:22 +0000",
-      "was_in_fight": "2024-12-20 04:48:50 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_troll": {
-    "criteria": {
-      "previous_progression": "2024-12-20 05:27:51 +0000"
+      "meef_stroganoff": "2024-12-20 04:15:21 +0000",
+      "cooked_meef": "2024-12-20 03:52:50 +0000"
     },
     "done": false
   },
-  "twilightforest:progress_merge": {
+  "twilightforest:mazebreaker": {
     "criteria": {
-      "hydra": "2024-12-20 04:24:39 +0000",
-      "snow_queen": "2024-12-20 04:48:50 +0000",
-      "ur_ghast": "2024-12-20 05:27:51 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_knights": {
-    "criteria": {
-      "all_knights": "2024-12-20 05:07:07 +0000",
-      "previous_progression": "2024-12-20 05:03:45 +0000"
+      "pick": "2024-12-20 04:09:25 +0000"
     },
     "done": true
   },
@@ -1330,11 +1309,27 @@
     },
     "done": true
   },
-  "twilightforest:progression_end": {
+  "twilightforest:progress_merge": {
     "criteria": {
-      "plateau": "2024-12-20 05:46:40 +0000"
+      "hydra": "2024-12-20 04:24:39 +0000",
+      "snow_queen": "2024-12-20 04:48:50 +0000",
+      "ur_ghast": "2024-12-20 05:27:51 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2024-12-20 04:35:22 +0000",
+      "was_in_fight": "2024-12-20 04:48:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "all_knights": "2024-12-20 05:07:07 +0000",
+      "previous_progression": "2024-12-20 05:03:45 +0000"
+    },
+    "done": true
   },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
@@ -1343,18 +1338,29 @@
     },
     "done": true
   },
-  "twilightforest:mazebreaker": {
+  "twilightforest:ghast_trap": {
     "criteria": {
-      "pick": "2024-12-20 04:09:25 +0000"
+      "activate_ghast_trap": "2024-12-20 05:27:08 +0000"
     },
     "done": true
   },
-  "twilightforest:twilight_dinner": {
+  "twilightforest:progress_troll": {
     "criteria": {
-      "meef_stroganoff": "2024-12-20 04:15:21 +0000",
-      "cooked_meef": "2024-12-20 03:52:50 +0000"
+      "previous_progression": "2024-12-20 05:27:51 +0000"
     },
     "done": false
+  },
+  "twilightforest:progression_end": {
+    "criteria": {
+      "plateau": "2024-12-20 05:46:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-20 06:50:36 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
