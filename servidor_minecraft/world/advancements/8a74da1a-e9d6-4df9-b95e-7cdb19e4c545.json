@@ -1018,24 +1018,24 @@
     },
     "done": true
   },
-  "twilightforest:progress_glacier": {
+  "twilightforest:mazebreaker": {
     "criteria": {
-      "previous_progression": "2024-12-20 04:35:22 +0000",
-      "queen": "2024-12-20 04:48:50 +0000"
+      "pick": "2024-12-20 04:09:02 +0000"
     },
     "done": true
-  },
-  "twilightforest:progress_troll": {
-    "criteria": {
-      "previous_progression": "2024-12-20 05:27:51 +0000"
-    },
-    "done": false
   },
   "twilightforest:progress_merge": {
     "criteria": {
       "hydra": "2024-12-20 04:18:18 +0000",
       "snow_queen": "2024-12-20 04:48:50 +0000",
       "ur_ghast": "2024-12-20 05:27:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2024-12-20 04:35:22 +0000",
+      "queen": "2024-12-20 04:48:50 +0000"
     },
     "done": true
   },
@@ -1046,12 +1046,6 @@
     },
     "done": true
   },
-  "twilightforest:experiment_115": {
-    "criteria": {
-      "eat_experiment_115": "2024-12-20 05:23:06 +0000"
-    },
-    "done": true
-  },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
       "previous_progression": "2024-12-20 05:07:07 +0000",
@@ -1059,11 +1053,17 @@
     },
     "done": true
   },
-  "twilightforest:mazebreaker": {
+  "twilightforest:experiment_115": {
     "criteria": {
-      "pick": "2024-12-20 04:09:02 +0000"
+      "eat_experiment_115": "2024-12-20 05:23:06 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2024-12-20 05:27:51 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
