@@ -3044,3 +3044,43 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [25Dec2024 21:11:31.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> oa
 [25Dec2024 21:11:35.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> oa
 [25Dec2024 21:12:25.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Gondar_80]
+[25Dec2024 21:12:47.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> mancoi
+[25Dec2024 21:12:48.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> a
+[25Dec2024 21:12:50.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[25Dec2024 21:12:50.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> por escribir
+[25Dec2024 21:12:51.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> KJALKSDJLASD
+[25Dec2024 21:13:04.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 was shot by Pepishikita21 using [Eira II]
+[25Dec2024 21:13:16.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[25Dec2024 21:13:26.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[25Dec2024 21:13:55.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Eh
+[25Dec2024 21:14:01.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> no jui yo, fue chettos
+[25Dec2024 21:14:30.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> me encanta su pijama
+[25Dec2024 21:14:38.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Vio los papatos?
+[25Dec2024 21:14:44.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> SIII
+[25Dec2024 21:14:56.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> vamos a disc?
+[25Dec2024 21:14:58.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> v
+[25Dec2024 21:15:20.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> aló
+[25Dec2024 21:16:18.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Y no sabes si la dejaste en algun cofre o mochila?
+[25Dec2024 21:16:35.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> O se te pudo romper?
+[25Dec2024 21:18:19.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=538, y=4, z=1295}
+[25Dec2024 21:18:19.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=538, y=4, z=1295}
+[25Dec2024 21:18:19.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=538, y=4, z=1295}
+[25Dec2024 21:18:19.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=538, y=4, z=1295}
+[25Dec2024 21:18:21.621] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=543, y=2, z=1295} BlockPos{x=545, y=3, z=1295}
+[25Dec2024 21:18:21.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=543, y=2, z=1295} BlockPos{x=544, y=4, z=1295}
+[25Dec2024 21:18:22.770] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=546, y=3, z=1295} BlockPos{x=547, y=4, z=1295}
+[25Dec2024 21:18:22.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=546, y=3, z=1295} BlockPos{x=547, y=4, z=1295}
+[25Dec2024 21:18:26.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=549, y=3, z=1295} BlockPos{x=542, y=5, z=1295}
+[25Dec2024 21:18:26.120] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=549, y=3, z=1295} BlockPos{x=542, y=5, z=1295}
+[25Dec2024 21:18:26.175] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=549, y=3, z=1295} BlockPos{x=542, y=5, z=1295}
+[25Dec2024 21:19:07.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> pue mire, no queda de otra le haho la armadura io
+[25Dec2024 21:19:12.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> era de fuego no?
+[25Dec2024 21:19:17.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[25Dec2024 21:20:18.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Unbreaking III to JhynMC's item]
+[25Dec2024 21:20:25.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Respiration III to JhynMC's item]
+[25Dec2024 21:20:34.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Mending to JhynMC's item]
+[25Dec2024 21:20:50.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> qué protección tenías?
+[25Dec2024 21:21:28.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> qué protección tenías?
+[25Dec2024 21:22:00.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Protection IV to JhynMC's item]
+[25Dec2024 21:22:07.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Aqua Affinity to JhynMC's item]
+[25Dec2024 21:22:32.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> espinas?
