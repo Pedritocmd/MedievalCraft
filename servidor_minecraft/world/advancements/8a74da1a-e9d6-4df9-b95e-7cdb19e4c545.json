@@ -1008,6 +1008,7 @@
       "raw_meef": "2024-12-20 03:51:23 +0000",
       "meef_stroganoff": "2024-12-19 06:19:20 +0000",
       "maze_wafer": "2024-12-20 04:10:46 +0000",
+      "hydra_chop": "2024-12-25 22:51:14 +0000",
       "cooked_meef": "2024-12-20 04:02:30 +0000",
       "experiment_115": "2024-12-20 05:23:06 +0000"
     },
@@ -1099,10 +1100,25 @@
     },
     "done": true
   },
+  "twilightforest:quest_ram": {
+    "criteria": {
+      "quest_ram_complete": "2024-12-25 22:40:22 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progression_end": {
     "criteria": {
       "previous_progression": "2024-12-25 21:58:29 +0000",
       "plateau": "2024-12-25 22:04:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arctic_armor_dyed": {
+    "criteria": {
+      "chestplate": "2024-12-25 22:50:34 +0000",
+      "helmet": "2024-12-25 22:52:14 +0000",
+      "boots": "2024-12-25 22:50:32 +0000",
+      "leggings": "2024-12-25 22:50:32 +0000"
     },
     "done": true
   },

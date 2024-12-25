@@ -1084,6 +1084,12 @@
     },
     "done": true
   },
+  "twilightforest:quest_ram": {
+    "criteria": {
+      "quest_ram_complete": "2024-12-25 22:40:22 +0000"
+    },
+    "done": true
+  },
   "twilightforest:ghast_trap": {
     "criteria": {
       "activate_ghast_trap": "2024-12-25 21:38:34 +0000"
@@ -1114,6 +1120,15 @@
     "criteria": {
       "previous_progression": "2024-12-25 22:07:26 +0000",
       "plateau": "2024-12-25 22:02:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arctic_armor_dyed": {
+    "criteria": {
+      "chestplate": "2024-12-25 22:46:38 +0000",
+      "helmet": "2024-12-25 22:46:39 +0000",
+      "boots": "2024-12-25 22:46:34 +0000",
+      "leggings": "2024-12-25 22:46:36 +0000"
     },
     "done": true
   },

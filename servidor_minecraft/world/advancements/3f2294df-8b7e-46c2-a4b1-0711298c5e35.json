@@ -1389,5 +1389,20 @@
     },
     "done": true
   },
+  "twilightforest:quest_ram": {
+    "criteria": {
+      "quest_ram_complete": "2024-12-25 22:40:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arctic_armor_dyed": {
+    "criteria": {
+      "chestplate": "2024-12-25 22:45:03 +0000",
+      "helmet": "2024-12-25 22:45:08 +0000",
+      "boots": "2024-12-25 22:45:00 +0000",
+      "leggings": "2024-12-25 22:45:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
