@@ -982,6 +982,7 @@
     "criteria": {
       "mossy_towerwood": "2024-12-20 05:30:45 +0000",
       "towerwood": "2024-12-20 05:30:27 +0000",
+      "twilight_oak_log": "2024-12-25 21:34:26 +0000",
       "twilight_oak_sapling": "2024-12-19 05:31:54 +0000"
     },
     "done": false
@@ -1043,9 +1044,10 @@
   "twilightforest:progress_merge": {
     "criteria": {
       "hydra": "2024-12-20 04:18:18 +0000",
-      "snow_queen": "2024-12-20 04:48:50 +0000"
+      "snow_queen": "2024-12-20 04:48:50 +0000",
+      "ur_ghast": "2024-12-25 21:39:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_glacier": {
     "criteria": {
@@ -1063,15 +1065,28 @@
   },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
-      "previous_progression": "2024-12-20 05:07:07 +0000"
+      "previous_progression": "2024-12-20 05:07:07 +0000",
+      "was_in_fight": "2024-12-25 21:39:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:experiment_115": {
     "criteria": {
       "eat_experiment_115": "2024-12-20 05:32:07 +0000"
     },
     "done": true
+  },
+  "twilightforest:ghast_trap": {
+    "criteria": {
+      "activate_ghast_trap": "2024-12-25 21:38:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2024-12-25 21:39:24 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

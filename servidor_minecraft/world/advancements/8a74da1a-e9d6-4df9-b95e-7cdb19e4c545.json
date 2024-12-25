@@ -1065,5 +1065,11 @@
     },
     "done": false
   },
+  "twilightforest:ghast_trap": {
+    "criteria": {
+      "activate_ghast_trap": "2024-12-25 21:38:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
