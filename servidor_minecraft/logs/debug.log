@@ -11398,3 +11398,14 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [25Dec2024 22:13:06.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Encontré el centro
 [25Dec2024 22:13:15.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
 [25Dec2024 22:13:17.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[25Dec2024 22:16:03.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 22:16:03.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 22:18:50.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Yo no quiero todas las cabezas la verdad
+[25Dec2024 22:19:11.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ya tengo muchas xD
+[25Dec2024 22:20:07.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> qué?
+[25Dec2024 22:20:26.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Pues puede ir
+[25Dec2024 22:21:03.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 22:21:03.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 22:23:36.351] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element twilightforest:enchanted_forest took 80 ms
+[25Dec2024 22:23:39.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to 590.500000, 162.000000, 991.500000]
+[25Dec2024 22:23:56.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> toi ben
