@@ -1062,20 +1062,27 @@
   },
   "twilightforest:progress_troll": {
     "criteria": {
-      "previous_progression": "2024-12-20 05:27:51 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:beanstalk": {
-    "criteria": {
-      "beans": "2024-12-25 21:44:52 +0000",
-      "use_beans": "2024-12-25 21:44:57 +0000"
+      "previous_progression": "2024-12-20 05:27:51 +0000",
+      "lamp": "2024-12-25 21:58:29 +0000"
     },
     "done": true
   },
   "twilightforest:ghast_trap": {
     "criteria": {
       "activate_ghast_trap": "2024-12-25 21:38:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:troll": {
+    "criteria": {
+      "troll": "2024-12-25 21:43:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2024-12-25 21:44:52 +0000",
+      "use_beans": "2024-12-25 21:44:57 +0000"
     },
     "done": true
   },
@@ -1086,11 +1093,11 @@
     },
     "done": true
   },
-  "twilightforest:troll": {
+  "twilightforest:progression_end": {
     "criteria": {
-      "troll": "2024-12-25 21:43:47 +0000"
+      "previous_progression": "2024-12-25 21:58:29 +0000"
     },
-    "done": true
+    "done": false
   },
   "DataVersion": 3465
 }

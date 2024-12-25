@@ -11345,3 +11345,27 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [25Dec2024 21:53:10.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> %s
 [25Dec2024 21:53:19.623] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [25Dec2024 21:53:19.627] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[25Dec2024 21:54:09.559] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[25Dec2024 21:55:09.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! -6.825414438664325,1.0086051276747128,7.7188127804588476
+[25Dec2024 21:55:22.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[25Dec2024 21:55:29.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Gondar_80]
+[25Dec2024 21:55:39.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[25Dec2024 21:55:47.359] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:redstone" - querying recipes to get these
+[25Dec2024 21:55:50.809] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[25Dec2024 21:55:51.320] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:bone" - querying recipes to get these
+[25Dec2024 21:56:03.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 21:56:03.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 21:57:20.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> XD
+[25Dec2024 21:58:21.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has reached the goal [I'm on Cloud Nine]
+[25Dec2024 21:58:29.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has reached the goal [I Wish For More Burning]
+[25Dec2024 21:58:31.460] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:emerald" - querying recipes to get these
+[25Dec2024 21:58:54.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> va
+[25Dec2024 21:58:59.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -701.500000, 25.500000, 796.500000]
+[25Dec2024 21:59:10.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[25Dec2024 21:59:13.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[25Dec2024 21:59:27.894] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-721, y=23, z=781} BlockPos{x=-722, y=23, z=783}
+[25Dec2024 21:59:33.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[25Dec2024 21:59:41.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has reached the goal [Jack and the Beanstalk]
+[25Dec2024 22:00:37.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[25Dec2024 22:01:03.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 22:01:03.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

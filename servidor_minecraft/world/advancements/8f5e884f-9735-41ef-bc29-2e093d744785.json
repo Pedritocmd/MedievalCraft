@@ -1077,6 +1077,13 @@
     },
     "done": true
   },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2024-12-25 21:58:21 +0000",
+      "use_beans": "2024-12-25 21:59:41 +0000"
+    },
+    "done": true
+  },
   "twilightforest:ghast_trap": {
     "criteria": {
       "activate_ghast_trap": "2024-12-25 21:38:34 +0000"
@@ -1085,9 +1092,10 @@
   },
   "twilightforest:giants": {
     "criteria": {
+      "pickaxe": "2024-12-25 21:58:21 +0000",
       "giant": "2024-12-25 21:47:05 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_troll": {
     "criteria": {
