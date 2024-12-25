@@ -1112,6 +1112,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "sword": "2024-12-25 23:12:26 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/prismarine": {
     "criteria": {
       "has_item": "2024-12-25 23:05:09 +0000"
