@@ -268,7 +268,9 @@
     "criteria": {
       "minecraft:pillager": "2024-11-30 03:04:16 +0000",
       "minecraft:skeleton": "2024-11-16 03:35:26 +0000",
+      "minecraft:elder_guardian": "2024-12-25 23:23:32 +0000",
       "minecraft:ravager": "2024-11-30 03:12:13 +0000",
+      "minecraft:guardian": "2024-12-25 23:24:13 +0000",
       "minecraft:vindicator": "2024-11-30 03:03:47 +0000",
       "minecraft:spider": "2024-11-16 03:25:11 +0000",
       "minecraft:creeper": "2024-11-16 04:05:55 +0000",
@@ -1113,6 +1115,12 @@
     "criteria": {
       "previous_progression": "2024-12-25 21:39:24 +0000",
       "lamp": "2024-12-25 22:07:26 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:elder_guardian_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-12-25 23:27:56 +0000"
     },
     "done": true
   },

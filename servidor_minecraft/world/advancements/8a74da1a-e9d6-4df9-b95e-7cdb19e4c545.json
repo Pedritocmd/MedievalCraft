@@ -1124,6 +1124,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-12-25 23:26:06 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progression_end": {
     "criteria": {
       "previous_progression": "2024-12-25 21:58:29 +0000",
