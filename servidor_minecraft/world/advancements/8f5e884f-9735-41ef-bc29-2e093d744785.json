@@ -1099,13 +1099,21 @@
   },
   "twilightforest:progress_troll": {
     "criteria": {
-      "previous_progression": "2024-12-25 21:39:24 +0000"
+      "previous_progression": "2024-12-25 21:39:24 +0000",
+      "lamp": "2024-12-25 22:07:26 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:troll": {
     "criteria": {
       "troll": "2024-12-25 21:43:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progression_end": {
+    "criteria": {
+      "previous_progression": "2024-12-25 22:07:26 +0000",
+      "plateau": "2024-12-25 22:02:17 +0000"
     },
     "done": true
   },
