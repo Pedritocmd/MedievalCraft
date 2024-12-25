@@ -983,6 +983,7 @@
       "mossy_towerwood": "2024-12-20 05:30:45 +0000",
       "towerwood": "2024-12-20 05:30:27 +0000",
       "twilight_oak_log": "2024-12-25 21:34:26 +0000",
+      "huge_stalk": "2024-12-25 21:45:27 +0000",
       "twilight_oak_sapling": "2024-12-19 05:31:54 +0000"
     },
     "done": false
@@ -1082,11 +1083,23 @@
     },
     "done": true
   },
+  "twilightforest:giants": {
+    "criteria": {
+      "giant": "2024-12-25 21:47:05 +0000"
+    },
+    "done": false
+  },
   "twilightforest:progress_troll": {
     "criteria": {
       "previous_progression": "2024-12-25 21:39:24 +0000"
     },
     "done": false
+  },
+  "twilightforest:troll": {
+    "criteria": {
+      "troll": "2024-12-25 21:43:37 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

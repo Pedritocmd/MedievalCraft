@@ -3210,3 +3210,41 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [25Dec2024 21:42:51.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1772, y=194, z=1555} BlockPos{x=-771, y=24, z=803}
 [25Dec2024 21:42:51.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1772, y=194, z=1555} BlockPos{x=-771, y=23, z=803}
 [25Dec2024 21:43:01.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[25Dec2024 21:43:15.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [We Do a Little Trolling]
+[25Dec2024 21:43:20.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to -770.500000, 12.500000, 803.500000]
+[25Dec2024 21:43:22.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[25Dec2024 21:43:37.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has made the advancement [We Do a Little Trolling]
+[25Dec2024 21:43:47.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [We Do a Little Trolling]
+[25Dec2024 21:44:07.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[25Dec2024 21:44:14.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[25Dec2024 21:44:26.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> vamos arriba
+[25Dec2024 21:44:30.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -701.500000, 25.500000, 796.500000]
+[25Dec2024 21:44:44.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[25Dec2024 21:44:44.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[25Dec2024 21:44:57.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has reached the goal [Jack and the Beanstalk]
+[25Dec2024 21:46:26.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> toy
+[25Dec2024 21:47:11.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> yo los veo como yo xD
+[25Dec2024 21:47:48.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has reached the goal [I'm on Cloud Nine]
+[25Dec2024 21:48:23.757] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Pepishikita21'/29366, l='ServerLevel[world]', x=-697.08, y=166.88, z=814.93] died: Pepishikita21 was slain by Gondar_80 using [Teostra]
+[25Dec2024 21:48:23.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> XDD
+[25Dec2024 21:48:26.757] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Pepishikita21'/29425, l='ServerLevel[world]', x=-694.76, y=166.88, z=814.22] died: Pepishikita21 was slain by Gondar_80 using [Teostra]
+[25Dec2024 21:48:40.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has reached the goal [I'm on Cloud Nine]
+[25Dec2024 21:49:12.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ahora usted?
+[25Dec2024 21:49:32.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> aver las desvivo
+[25Dec2024 21:49:39.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 was slain by JhynMC using [Andúril]
+[25Dec2024 21:49:45.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[25Dec2024 21:49:55.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> la llama del oeste
+[25Dec2024 21:50:06.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6194ms or 123 ticks behind
+[25Dec2024 21:50:10.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[25Dec2024 21:50:31.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> sañga y entre
+[25Dec2024 21:50:42.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 lost connection: Disconnected
+[25Dec2024 21:50:42.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 left the game
+[25Dec2024 21:51:05.462] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Pepishikita21 is 8a74da1a-e9d6-4df9-b95e-7cdb19e4c545
+[25Dec2024 21:51:16.736] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepishikita21[/127.135.37.162:53279] logged in with entity id 30936 at (-716.8339641540447, 166.875, 830.6759655990815)
+[25Dec2024 21:51:16.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 joined the game
+[25Dec2024 21:51:16.907] [Server thread/INFO] [Jade/]: Syncing config to Pepishikita21 (8a74da1a-e9d6-4df9-b95e-7cdb19e4c545)
+[25Dec2024 21:51:22.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> yo lo hice con arco
+[25Dec2024 21:52:45.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> supongo que sí
+[25Dec2024 21:52:54.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> en teoría esto es el final
+[25Dec2024 21:53:06.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> el castillo ese
+[25Dec2024 21:53:10.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> %s

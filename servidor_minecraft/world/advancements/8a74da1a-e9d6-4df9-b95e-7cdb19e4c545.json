@@ -833,6 +833,7 @@
       "canopy_planks": "2024-12-16 03:54:11 +0000",
       "towerwood": "2024-12-20 05:13:49 +0000",
       "twilight_oak_log": "2024-12-16 02:39:56 +0000",
+      "huge_stalk": "2024-12-25 21:45:43 +0000",
       "liveroot": "2024-12-16 03:15:03 +0000",
       "twilight_oak_sapling": "2024-12-16 02:40:03 +0000",
       "canopy_log": "2024-12-16 03:54:04 +0000"
@@ -1065,9 +1066,29 @@
     },
     "done": false
   },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2024-12-25 21:44:52 +0000",
+      "use_beans": "2024-12-25 21:44:57 +0000"
+    },
+    "done": true
+  },
   "twilightforest:ghast_trap": {
     "criteria": {
       "activate_ghast_trap": "2024-12-25 21:38:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2024-12-25 21:44:52 +0000",
+      "giant": "2024-12-25 21:48:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:troll": {
+    "criteria": {
+      "troll": "2024-12-25 21:43:47 +0000"
     },
     "done": true
   },

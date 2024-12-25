@@ -1368,5 +1368,24 @@
     },
     "done": true
   },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2024-12-25 21:44:06 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2024-12-25 21:44:06 +0000",
+      "giant": "2024-12-25 21:47:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:troll": {
+    "criteria": {
+      "troll": "2024-12-25 21:43:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
