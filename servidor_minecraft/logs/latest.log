@@ -3696,3 +3696,23 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [25Dec2024 23:47:33.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! 9.984435783664082,1.7967356006687112,1.0478363631075354
 [25Dec2024 23:47:39.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10419ms or 208 ticks behind
 [25Dec2024 23:48:05.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Gondar_80]
+[25Dec2024 23:49:27.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ejem ejem
+[25Dec2024 23:49:42.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> que pajo?
+[25Dec2024 23:50:50.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has completed the challenge [A Multidimensional Predator]
+[25Dec2024 23:50:54.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[25Dec2024 23:51:09.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ayudaa
+[25Dec2024 23:53:41.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 moved too quickly! 10.034289744192847,0.0,-0.9343315264916328
+[25Dec2024 23:53:41.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> me tengo que ir}
+[25Dec2024 23:53:43.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Disconnected
+[25Dec2024 23:53:43.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
+[25Dec2024 23:53:59.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 moved too quickly! -2.2761980791187852,-19.0,-2.291328363394541
+[25Dec2024 23:54:00.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[25Dec2024 23:54:46.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 moved wrongly!
+[25Dec2024 23:55:42.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> nos vamos a ver net?
+[25Dec2024 23:58:44.567] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JhynMC is 3f2294df-8b7e-46c2-a4b1-0711298c5e35
+[25Dec2024 23:58:59.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[25Dec2024 23:58:59.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saý sí<--[HERE]
+[25Dec2024 23:59:03.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] sí
+[25Dec2024 23:59:13.383] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@43c0854[id=3f2294df-8b7e-46c2-a4b1-0711298c5e35,name=JhynMC,properties={textures=[com.mojang.authlib.properties.Property@3bcea052]},legacy=false] (/127.242.210.13:37357): Took too long to log in
+[25Dec2024 23:59:13.394] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@43c0854[id=3f2294df-8b7e-46c2-a4b1-0711298c5e35,name=JhynMC,properties={textures=[com.mojang.authlib.properties.Property@3bcea052]},legacy=false] (/127.242.210.13:37357) lost connection: Took too long to log in
+[25Dec2024 23:59:13.418] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
