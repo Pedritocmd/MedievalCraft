@@ -3623,3 +3623,76 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [25Dec2024 23:36:58.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has completed the challenge [Find: Ocean quad]
 [25Dec2024 23:37:11.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
 [25Dec2024 23:37:20.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved wrongly!
+[25Dec2024 23:37:40.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[25Dec2024 23:38:11.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15311ms or 306 ticks behind
+[25Dec2024 23:38:18.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has made the advancement [We Just Want our Hat Back]
+[25Dec2024 23:38:22.665] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/88275, l='ServerLevel[world]', x=106.50, y=7.00, z=-660.50]
+[25Dec2024 23:38:26.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [We Just Want our Hat Back]
+[25Dec2024 23:38:40.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has made the advancement [A Bone to Pick]
+[25Dec2024 23:38:43.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16815ms or 336 ticks behind
+[25Dec2024 23:38:45.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has made the advancement [Smitty WerbenJagerManJensen]
+[25Dec2024 23:39:03.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5655ms or 113 ticks behind
+[25Dec2024 23:39:15.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved wrongly!
+[25Dec2024 23:39:15.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved wrongly!
+[25Dec2024 23:39:20.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved wrongly!
+[25Dec2024 23:39:20.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved wrongly!
+[25Dec2024 23:39:21.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved wrongly!
+[25Dec2024 23:39:22.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved wrongly!
+[25Dec2024 23:39:22.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved wrongly!
+[25Dec2024 23:39:30.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved wrongly!
+[25Dec2024 23:39:35.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved wrongly!
+[25Dec2024 23:39:35.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved wrongly!
+[25Dec2024 23:39:36.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[25Dec2024 23:39:36.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved wrongly!
+[25Dec2024 23:39:36.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved wrongly!
+[25Dec2024 23:39:37.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved wrongly!
+[25Dec2024 23:39:38.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved wrongly!
+[25Dec2024 23:39:38.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved wrongly!
+[25Dec2024 23:39:39.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[25Dec2024 23:39:40.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved too quickly! 56.02779903775293,-3.563717739806197,-3.4124100368827612
+[25Dec2024 23:39:58.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6792ms or 135 ticks behind
+[25Dec2024 23:40:08.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -429.500000, 62.500000, 702.500000]
+[25Dec2024 23:40:28.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15104ms or 302 ticks behind
+[25Dec2024 23:40:37.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! 7.941975498112299,4.697902069745183,-4.999234679902543
+[25Dec2024 23:40:42.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! 10.32521400024774,1.7136017120394627,-0.9115998716379181
+[25Dec2024 23:40:44.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! 9.722773482389357,3.4208743201302667,4.42233270291581E-4
+[25Dec2024 23:40:53.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! 7.334909137209394,-2.623793983667838,-6.519599898958177
+[25Dec2024 23:40:57.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! 7.94938478364179,1.5061351021062137,-6.191061606849075
+[25Dec2024 23:40:58.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15090ms or 301 ticks behind
+[25Dec2024 23:41:15.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! -0.5246292634905672,-0.9663680416412319,-10.05386482789163
+[25Dec2024 23:41:21.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! -3.3701796789246714,-1.252203340253729,-9.591106753824988
+[25Dec2024 23:41:24.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11047ms or 220 ticks behind
+[25Dec2024 23:41:43.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4565ms or 91 ticks behind
+[25Dec2024 23:41:50.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to -382.500000, 84.500000, 1162.500000]
+[25Dec2024 23:41:53.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 moved too quickly! -8.193072654878975,2.0754156878761414,-5.5485497789903775
+[25Dec2024 23:41:57.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved too quickly! 4.6379970913800435,-1.0,-8.971594850060683
+[25Dec2024 23:42:18.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19613ms or 392 ticks behind
+[25Dec2024 23:42:30.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> lo tengo
+[25Dec2024 23:42:39.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6517ms or 130 ticks behind
+[25Dec2024 23:42:52.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -2984.500000, 68.500000, -1570.500000]
+[25Dec2024 23:43:07.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! -3.381979896271332,2.2799556701105814,9.353386058260412
+[25Dec2024 23:43:16.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21202ms or 424 ticks behind
+[25Dec2024 23:43:19.187] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=9, z=-699} BlockPos{x=-143, y=8, z=-701}
+[25Dec2024 23:43:23.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 moved too quickly! 7.42220402869097,6.7504512985108125,-0.525124273957772
+[25Dec2024 23:43:26.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> si
+[25Dec2024 23:43:28.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[25Dec2024 23:43:33.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[25Dec2024 23:43:36.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[25Dec2024 23:43:48.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17284ms or 345 ticks behind
+[25Dec2024 23:43:50.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! 0.1534356689944616,-11.325473866385636,0.07390500154156143
+[25Dec2024 23:43:51.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! 0.0,-11.141611616128841,0.0
+[25Dec2024 23:43:53.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! -0.015916822196686553,-10.408991223757717,0.011435901894856215
+[25Dec2024 23:44:45.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> tienen una espada qu se llama ataheme o algo así?
+[25Dec2024 23:45:02.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ven pues
+[25Dec2024 23:45:09.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[25Dec2024 23:45:15.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[25Dec2024 23:45:36.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> pasala pues xD
+[25Dec2024 23:46:36.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -513.500000, 77.500000, 1039.500000]
+[25Dec2024 23:46:43.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[25Dec2024 23:46:57.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! 8.828935749651066,5.377112274798165,1.4724236399396204
+[25Dec2024 23:47:03.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! 9.254082671497088,1.6315475913551012,4.149071117109315
+[25Dec2024 23:47:14.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15517ms or 310 ticks behind
+[25Dec2024 23:47:30.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! 9.659973379782173,0.0,5.05959273691019
+[25Dec2024 23:47:33.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! 9.984435783664082,1.7967356006687112,1.0478363631075354
+[25Dec2024 23:47:39.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10419ms or 208 ticks behind
+[25Dec2024 23:48:05.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Gondar_80]

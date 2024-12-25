@@ -165,6 +165,7 @@
       "minecraft:lush_caves": "2024-11-21 17:57:41 +0000",
       "minecraft:desert": "2024-11-21 16:37:52 +0000",
       "minecraft:windswept_forest": "2024-11-21 04:58:10 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-25 23:36:58 +0000",
       "minecraft:ocean": "2024-11-17 06:07:41 +0000",
       "minecraft:snowy_beach": "2024-11-16 02:50:48 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-11-19 05:12:49 +0000",
@@ -1115,6 +1116,18 @@
   "iceandfire:iceandfire/dragonsteel_weapon": {
     "criteria": {
       "sword": "2024-12-25 23:12:26 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_quad/find_normal": {
+    "criteria": {
+      "requirement": "2024-12-25 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2024-12-25 23:38:26 +0000"
     },
     "done": true
   },

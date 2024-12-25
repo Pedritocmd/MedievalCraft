@@ -1098,9 +1098,21 @@
     },
     "done": true
   },
+  "awesomedungeonocean:ocean_quad/find_normal": {
+    "criteria": {
+      "requirement": "2024-12-25 23:36:00 +0000"
+    },
+    "done": true
+  },
   "twilightforest:ghast_trap": {
     "criteria": {
       "activate_ghast_trap": "2024-12-25 21:38:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/fish_bones": {
+    "criteria": {
+      "sopa_de_macaco": "2024-12-25 23:38:40 +0000"
     },
     "done": true
   },
@@ -1124,6 +1136,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2024-12-25 23:38:18 +0000"
+    },
+    "done": true
+  },
   "twilightforest:troll": {
     "criteria": {
       "troll": "2024-12-25 21:43:37 +0000"
@@ -1143,6 +1161,12 @@
       "helmet": "2024-12-25 22:46:39 +0000",
       "boots": "2024-12-25 22:46:34 +0000",
       "leggings": "2024-12-25 22:46:36 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag_skull": {
+    "criteria": {
+      "skull": "2024-12-25 23:38:45 +0000"
     },
     "done": true
   },
