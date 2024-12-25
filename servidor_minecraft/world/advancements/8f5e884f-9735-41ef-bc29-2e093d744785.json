@@ -1077,6 +1077,12 @@
     },
     "done": true
   },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2024-12-25 23:04:23 +0000"
+    },
+    "done": true
+  },
   "twilightforest:beanstalk": {
     "criteria": {
       "beans": "2024-12-25 21:58:21 +0000",
