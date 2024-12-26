@@ -12829,3 +12829,96 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [26Dec2024 00:09:14.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Para el últime jefe ocupamos 2 fragmentos de netherite
 [26Dec2024 00:09:18.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
 [26Dec2024 00:09:32.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> tienen o busco rápido?
+[26Dec2024 00:09:55.888] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:09:55.889] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:10:01.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[26Dec2024 00:10:08.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to -396.500000, 84.500000, 1154.500000]
+[26Dec2024 00:10:09.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> amor tienes brocha?
+[26Dec2024 00:10:10.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> de este mod son 6 jefes llevamos 4
+[26Dec2024 00:10:14.910] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:10:16.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[26Dec2024 00:10:20.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4096ms or 81 ticks behind
+[26Dec2024 00:10:21.829] [Worker-Main-144/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-55, z=18}
+[26Dec2024 00:10:28.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> no te muevas tons
+[26Dec2024 00:10:31.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> falta el del nether y el end, pero el del end es bien menso
+[26Dec2024 00:10:35.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to -382.500000, 84.500000, 1162.500000]
+[26Dec2024 00:10:37.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2493ms or 49 ticks behind
+[26Dec2024 00:10:42.970] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:11:06.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13795ms or 275 ticks behind
+[26Dec2024 00:11:16.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -409.500000, 90.500000, 1109.500000]
+[26Dec2024 00:11:18.862] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:11:18.864] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:11:24.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[26Dec2024 00:11:24.817] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:11:27.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5788ms or 115 ticks behind
+[26Dec2024 00:11:44.967] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[26Dec2024 00:11:47.370] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:11:49.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[26Dec2024 00:12:04.937] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:12:04.938] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:12:15.421] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[26Dec2024 00:12:15.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4976ms or 99 ticks behind
+[26Dec2024 00:12:18.726] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:12:33.401] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:12:37.167] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[26Dec2024 00:12:42.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! 8.428778854669304,4.511258564332778,-3.544459172793495
+[26Dec2024 00:12:55.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> vrg
+[26Dec2024 00:12:58.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5968ms or 119 ticks behind
+[26Dec2024 00:13:00.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> me ayudan?
+[26Dec2024 00:13:10.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[26Dec2024 00:13:20.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 00:13:20.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 00:13:37.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -409.500000, 90.500000, 1109.500000]
+[26Dec2024 00:13:39.826] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:13:41.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
+[26Dec2024 00:14:02.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[26Dec2024 00:14:06.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10039ms or 200 ticks behind
+[26Dec2024 00:14:26.551] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:14:37.416] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:14:52.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -409.500000, 90.500000, 1109.500000]
+[26Dec2024 00:14:58.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[26Dec2024 00:14:59.252] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:14:59.253] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:15:02.918] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:15:27.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14139ms or 282 ticks behind
+[26Dec2024 00:15:32.200] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:15:45.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[26Dec2024 00:16:03.355] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:16:09.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to -396.500000, 84.500000, 1154.500000]
+[26Dec2024 00:16:10.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[26Dec2024 00:16:29.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4038ms or 80 ticks behind
+[26Dec2024 00:16:30.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[26Dec2024 00:16:49.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[26Dec2024 00:17:29.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[26Dec2024 00:17:47.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2453ms or 49 ticks behind
+[26Dec2024 00:17:51.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ya hice el ojo
+[26Dec2024 00:17:54.538] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:18:17.153] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:18:18.306] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:18:19.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[26Dec2024 00:18:27.111] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:18:36.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> jhyn?
+[26Dec2024 00:18:36.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[26Dec2024 00:18:43.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> qué?
+[26Dec2024 00:18:46.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> so
+[26Dec2024 00:18:54.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Killed Pepishikita21]
+[26Dec2024 00:18:55.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[26Dec2024 00:18:56.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[26Dec2024 00:18:56.859] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:18:56.859] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:18:59.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> jsjsjsj
+[26Dec2024 00:19:03.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> es que iba a darle algo
+[26Dec2024 00:19:06.584] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:19:06.586] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:19:10.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 00:19:10.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 00:19:16.391] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[26Dec2024 00:19:24.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Que ya hice el ojo xD
+[26Dec2024 00:19:28.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[26Dec2024 00:19:34.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> vengan pues
+[26Dec2024 00:19:37.429] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[26Dec2024 00:19:37.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
+[26Dec2024 00:19:42.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> nonono, ta bien
+[26Dec2024 00:19:43.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[26Dec2024 00:19:52.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[26Dec2024 00:20:00.087] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
