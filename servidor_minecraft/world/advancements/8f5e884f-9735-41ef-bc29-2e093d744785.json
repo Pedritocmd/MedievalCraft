@@ -268,11 +268,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-11-30 03:04:16 +0000",
+      "minecraft:blaze": "2024-12-26 00:36:40 +0000",
       "minecraft:skeleton": "2024-11-16 03:35:26 +0000",
       "minecraft:elder_guardian": "2024-12-25 23:23:32 +0000",
       "minecraft:ravager": "2024-11-30 03:12:13 +0000",
       "minecraft:guardian": "2024-12-25 23:24:13 +0000",
       "minecraft:vindicator": "2024-11-30 03:03:47 +0000",
+      "minecraft:magma_cube": "2024-12-26 00:38:07 +0000",
       "minecraft:spider": "2024-11-16 03:25:11 +0000",
       "minecraft:creeper": "2024-11-16 04:05:55 +0000",
       "minecraft:slime": "2024-11-20 04:30:19 +0000",
@@ -1117,6 +1119,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-12-26 00:35:57 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/fish_bones": {
     "criteria": {
       "sopa_de_macaco": "2024-12-25 23:38:40 +0000"
@@ -1127,6 +1135,12 @@
     "criteria": {
       "pickaxe": "2024-12-25 21:58:21 +0000",
       "giant": "2024-12-25 21:47:05 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2024-12-26 00:38:20 +0000"
     },
     "done": true
   },
@@ -1151,6 +1165,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-26 00:33:20 +0000",
       "minecraft:nether_wastes": "2024-12-26 00:26:42 +0000",
       "minecraft:basalt_deltas": "2024-12-26 00:25:50 +0000",
       "minecraft:warped_forest": "2024-12-26 00:24:08 +0000"
@@ -1160,6 +1175,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-26 00:24:06 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2024-12-26 00:38:49 +0000"
     },
     "done": true
   },

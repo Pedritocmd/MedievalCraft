@@ -121,3 +121,50 @@
 [26Dec2024 00:29:14.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> aqui, tire el ojo y ya no lo vixd
 [26Dec2024 00:29:58.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Set own game mode to Spectator Mode]
 [26Dec2024 00:30:04.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Set own game mode to Spectator Mode]
+[26Dec2024 00:31:07.162] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:burning_arena took 0 ms
+[26Dec2024 00:31:25.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[26Dec2024 00:31:37.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set Gondar_80's game mode to Survival Mode]
+[26Dec2024 00:31:37.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set Pepishikita21's game mode to Survival Mode]
+[26Dec2024 00:31:37.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[26Dec2024 00:31:40.981] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-64, y=93, z=164} BlockPos{x=-65, y=103, z=182}
+[26Dec2024 00:31:41.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-64, y=93, z=164} BlockPos{x=-65, y=102, z=182}
+[26Dec2024 00:32:13.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Gave 1 [Eye of Flame] to Pepishikita21]
+[26Dec2024 00:32:15.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> YA
+[26Dec2024 00:32:16.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> BASTA
+[26Dec2024 00:32:41.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to -396.500000, 71.500000, -228.500000]
+[26Dec2024 00:33:08.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.2859902251050812
+[26Dec2024 00:33:08.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.0231832710569506
+[26Dec2024 00:33:08.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.7675729111485907
+[26Dec2024 00:33:08.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 2.0
+[26Dec2024 00:33:08.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 2.0
+[26Dec2024 00:33:08.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 2.0
+[26Dec2024 00:33:13.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[26Dec2024 00:33:25.216] [Worker-Main-144/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -408 0 -602
+[26Dec2024 00:33:30.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2361ms or 47 ticks behind
+[26Dec2024 00:33:34.217] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -224 0 -611
+[26Dec2024 00:33:34.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Gondar_80]
+[26Dec2024 00:34:22.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> lo veo
+[26Dec2024 00:34:57.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Nightmare Fuel]
+[26Dec2024 00:35:14.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> es esto we
+[26Dec2024 00:35:15.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> XD
+[26Dec2024 00:35:57.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has made the advancement [Nightmare Fuel]
+[26Dec2024 00:36:25.834] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -665 0 -345
+[26Dec2024 00:36:28.242] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -683 0 -364
+[26Dec2024 00:37:15.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [The Soul Forge]
+[26Dec2024 00:38:16.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> vengan
+[26Dec2024 00:38:20.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[26Dec2024 00:38:20.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has made the advancement [The Soul Forge]
+[26Dec2024 00:38:23.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> lo peor es que acá no hay nada
+[26Dec2024 00:38:26.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[26Dec2024 00:38:26.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [The Soul Forge]
+[26Dec2024 00:38:49.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has completed the challenge [The broken Nether's warmachine]
+[26Dec2024 00:39:11.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> no era ese no?
+[26Dec2024 00:39:22.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> nop
+[26Dec2024 00:39:35.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Buscamos a un Ignis, ta fuetote
+[26Dec2024 00:39:49.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Es un coliseo así de fuego buien locochón
+[26Dec2024 00:39:57.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to -396.500000, 71.500000, -228.500000]
+[26Dec2024 00:40:00.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2313ms or 46 ticks behind
+[26Dec2024 00:40:14.300] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[26Dec2024 00:40:14.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ajá tiene mucha magama la estructura
+[26Dec2024 00:40:16.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-397, y=65, z=-285} BlockPos{x=-398, y=65, z=-285}
+[26Dec2024 00:40:35.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Eso es una estructura sin más
