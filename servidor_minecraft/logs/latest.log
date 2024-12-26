@@ -168,3 +168,353 @@
 [26Dec2024 00:40:14.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ajá tiene mucha magama la estructura
 [26Dec2024 00:40:16.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-397, y=65, z=-285} BlockPos{x=-398, y=65, z=-285}
 [26Dec2024 00:40:35.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Eso es una estructura sin más
+[26Dec2024 00:41:13.497] [Worker-Main-144/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -478 0 -635
+[26Dec2024 00:41:26.157] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -647 0 -682
+[26Dec2024 00:41:29.686] [Worker-Main-144/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -490 0 -692
+[26Dec2024 00:41:30.322] [Worker-Main-144/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -628 0 -700
+[26Dec2024 00:42:02.196] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -557 0 -748
+[26Dec2024 00:42:22.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=42, z=-555} BlockPos{x=-470, y=39, z=-568}
+[26Dec2024 00:42:22.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=42, z=-555} BlockPos{x=-469, y=39, z=-568}
+[26Dec2024 00:42:23.052] [Worker-Main-144/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -275 0 -770
+[26Dec2024 00:42:39.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-492, y=46, z=-574} BlockPos{x=-492, y=45, z=-575}
+[26Dec2024 00:42:49.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-492, y=41, z=-588} BlockPos{x=-492, y=43, z=-588}
+[26Dec2024 00:42:50.245] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-492, y=41, z=-588} BlockPos{x=-492, y=43, z=-587}
+[26Dec2024 00:42:56.270] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-496, y=35, z=-586} BlockPos{x=-495, y=37, z=-586}
+[26Dec2024 00:42:56.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-496, y=35, z=-586} BlockPos{x=-495, y=37, z=-586}
+[26Dec2024 00:42:56.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-496, y=35, z=-586} BlockPos{x=-495, y=37, z=-586}
+[26Dec2024 00:42:56.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-496, y=35, z=-586} BlockPos{x=-495, y=37, z=-586}
+[26Dec2024 00:42:56.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-496, y=35, z=-586} BlockPos{x=-498, y=37, z=-586}
+[26Dec2024 00:42:56.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-496, y=35, z=-586} BlockPos{x=-498, y=37, z=-586}
+[26Dec2024 00:42:56.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-497, y=37, z=-587} BlockPos{x=-498, y=37, z=-586}
+[26Dec2024 00:42:56.969] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-497, y=37, z=-587} BlockPos{x=-498, y=37, z=-587}
+[26Dec2024 00:42:57.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-498, y=37, z=-587} BlockPos{x=-496, y=38, z=-587}
+[26Dec2024 00:42:57.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-498, y=37, z=-587} BlockPos{x=-498, y=39, z=-587}
+[26Dec2024 00:42:57.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-498, y=37, z=-587} BlockPos{x=-498, y=40, z=-587}
+[26Dec2024 00:42:57.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-498, y=37, z=-587} BlockPos{x=-498, y=40, z=-587}
+[26Dec2024 00:42:57.869] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-498, y=37, z=-587} BlockPos{x=-498, y=40, z=-587}
+[26Dec2024 00:43:01.457] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-498, y=37, z=-587} BlockPos{x=-501, y=36, z=-581}
+[26Dec2024 00:43:01.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-498, y=37, z=-587} BlockPos{x=-501, y=37, z=-581}
+[26Dec2024 00:43:01.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-498, y=37, z=-587} BlockPos{x=-500, y=36, z=-582}
+[26Dec2024 00:43:31.000] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[26Dec2024 00:43:35.761] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -596 0 -813
+[26Dec2024 00:43:37.053] [Worker-Main-12/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -736 0 -555
+[26Dec2024 00:43:39.987] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[26Dec2024 00:43:45.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.30240986234366574
+[26Dec2024 00:43:45.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.8493074506837957
+[26Dec2024 00:43:45.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.47469734671562946
+[26Dec2024 00:43:45.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.2591405028723557
+[26Dec2024 00:43:45.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 2.128689887342034
+[26Dec2024 00:43:48.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> he
+[26Dec2024 00:43:55.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> como me puedo ir a la jaus?
+[26Dec2024 00:43:59.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[26Dec2024 00:44:12.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> nop
+[26Dec2024 00:44:29.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[26Dec2024 00:44:32.706] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -844 0 -672
+[26Dec2024 00:44:34.273] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -838 0 -575
+[26Dec2024 00:44:36.462] [Worker-Main-12/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -821 0 -501
+[26Dec2024 00:44:39.125] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -859 0 -573
+[26Dec2024 00:44:48.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3799ms or 75 ticks behind
+[26Dec2024 00:44:48.805] [Worker-Main-12/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -885 0 -503
+[26Dec2024 00:44:53.519] [Worker-Main-12/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -926 0 -787
+[26Dec2024 00:44:55.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -2.0718783638862988,0.07385230517571983,-10.562492170943983
+[26Dec2024 00:44:55.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -2.295661576861221,0.08004008637502125,-12.155028455925503
+[26Dec2024 00:44:55.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -2.4589282388836864,0.0854977093927971,-13.765736147683242
+[26Dec2024 00:44:55.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -2.6029294347875975,0.09031133289447268,-15.186380331813552
+[26Dec2024 00:44:55.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -2.7299384895748062,0.09455694882295518,-16.439388502216502
+[26Dec2024 00:44:55.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -2.8419604758971673,0.09830158207188333,-17.54454170851193
+[26Dec2024 00:44:55.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -2.940763867833425,0.10160434859743361,-18.519286836464403
+[26Dec2024 00:44:55.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -3.0279084595212,0.10160434859743361,-19.379012039318468
+[26Dec2024 00:44:55.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -3.1047699893898653,0.10160434859743361,-20.13728966823578
+[26Dec2024 00:44:55.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -3.172561858733957,0.10160434859743361,-20.806090536940815
+[26Dec2024 00:44:55.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -1.446181287220952,0.034767668364224846,-12.404405108769765
+[26Dec2024 00:44:55.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -1.4989182093886484,0.034767668364224846,-12.92468135575632
+[26Dec2024 00:44:55.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -1.5454321747405402,0.034767668364224846,-13.383565005598484
+[26Dec2024 00:44:55.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -1.586457492180898,-0.1741267334244867,-13.788300384759282
+[26Dec2024 00:44:59.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -409.500000, 90.500000, 1109.500000]
+[26Dec2024 00:45:07.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -6.621533231241642,1.7384922093173572,-7.622009346056416
+[26Dec2024 00:45:07.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -7.114552970272598,1.7384922093173572,-8.190861609863191
+[26Dec2024 00:45:07.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -7.607592132410105,1.7384922093173572,-8.75970488264079
+[26Dec2024 00:45:07.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -8.100641687464758,1.7384922093173572,-9.32854334449803
+[26Dec2024 00:45:07.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -8.593696803562011,1.6616602078219955,-9.897379232127719
+[26Dec2024 00:45:07.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -8.880444178680705,1.5110387506543503,-10.228198151044808
+[26Dec2024 00:45:07.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -9.15908890813489,1.2895498988797556,-10.549668648248144
+[26Dec2024 00:45:07.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -9.430522905376847,1.0,-10.862789032550268
+[26Dec2024 00:45:07.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -9.69552637144659,0.6450842702082582,-11.168462785952556
+[26Dec2024 00:45:07.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -9.954795089651611,0.2273911951868115,-11.467495633726912
+[26Dec2024 00:45:07.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -10.208949559563507,-0.25059324336668,-11.76060612169158
+[26Dec2024 00:45:07.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -10.436427191628582,-0.7864815085833072,-12.067627333755922
+[26Dec2024 00:45:07.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -10.640114419016186,-1.3779806100095442,-12.38705412992988
+[26Dec2024 00:45:07.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -10.822585362900895,-2.0228883595709704,-12.717544226331597
+[26Dec2024 00:45:07.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -10.98613562461253,-2.719089775799759,-13.05790057416084
+[26Dec2024 00:45:07.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -11.132812421475933,-3.4645536304546596,-13.407055645266723
+[26Dec2024 00:45:07.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -11.24150284160089,-4.2573291318948066,-13.73762443138287
+[26Dec2024 00:45:07.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -11.316317009974227,-5.095542739791853,-14.05161796806749
+[26Dec2024 00:45:07.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -11.383036287252366,-5.97739510597944,-14.331637412152872
+[26Dec2024 00:45:07.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -11.442536540443825,-6.901158136444963,-14.581358759585214
+[26Dec2024 00:45:07.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -11.495598867769218,-7.865172169666408,-14.804060263643578
+[26Dec2024 00:45:07.858] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[26Dec2024 00:45:07.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -5.414370060991359,-10.606335476004368,-7.949525191584257
+[26Dec2024 00:45:08.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! -5.4565709165169665,-11.0,-8.126641320329668
+[26Dec2024 00:45:14.213] [Worker-Main-12/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -694 0 -968
+[26Dec2024 00:45:17.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.35230235490189443
+[26Dec2024 00:45:17.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ya Pepi
+[26Dec2024 00:45:17.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.8177106938723
+[26Dec2024 00:45:17.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.0
+[26Dec2024 00:45:17.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.0
+[26Dec2024 00:45:19.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.40918958805605143
+[26Dec2024 00:45:19.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.078109714815355
+[26Dec2024 00:45:19.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.7853099119195122
+[26Dec2024 00:45:19.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 2.512958445378331
+[26Dec2024 00:45:19.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 3.251488272145366
+[26Dec2024 00:45:19.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 3.9958152832311953
+[26Dec2024 00:45:19.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.5598730492564528
+[26Dec2024 00:45:19.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.30911023529245085
+[26Dec2024 00:45:19.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.0591549423309061
+[26Dec2024 00:45:19.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.31347868887075947
+[26Dec2024 00:45:20.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.31425422883921783
+[26Dec2024 00:45:20.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.31372292188609663
+[26Dec2024 00:45:20.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.0647130816441859
+[26Dec2024 00:45:20.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.81569576997083
+[26Dec2024 00:45:20.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.31420270085163793
+[26Dec2024 00:45:20.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.0652519932318683
+[26Dec2024 00:45:20.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.3137331279389173
+[26Dec2024 00:45:20.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.31371441973863057
+[26Dec2024 00:45:20.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.0652581563329022
+[26Dec2024 00:45:20.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.3145756476117185
+[26Dec2024 00:45:20.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.3138949066627674
+[26Dec2024 00:45:20.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.0657309952277956
+[26Dec2024 00:45:20.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.31415412689034383
+[26Dec2024 00:45:20.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.066158040470782
+[26Dec2024 00:45:20.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.31499782989203595
+[26Dec2024 00:45:20.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.0674531921271182
+[26Dec2024 00:45:20.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.3144854878842125
+[26Dec2024 00:45:20.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.31490001716690585
+[26Dec2024 00:45:21.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.3150927020811878
+[26Dec2024 00:45:21.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.0675988285330504
+[26Dec2024 00:45:21.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.31451265080454505
+[26Dec2024 00:45:21.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.31491455150398906
+[26Dec2024 00:45:21.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.31510047911513084
+[26Dec2024 00:45:21.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.067610766902817
+[26Dec2024 00:45:21.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.3152979020743487
+[26Dec2024 00:45:21.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.067913826951326
+[26Dec2024 00:45:21.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.31532530493461763
+[26Dec2024 00:45:21.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.0679558925357924
+[26Dec2024 00:45:21.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.3153622721059719
+[26Dec2024 00:45:21.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.3153691669226646
+[26Dec2024 00:45:21.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.31534373476165456
+[26Dec2024 00:45:21.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.0679841837958293
+[26Dec2024 00:45:21.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.8206329336328508
+[26Dec2024 00:45:21.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.3153428689162183
+[26Dec2024 00:45:21.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.067982854653792
+[26Dec2024 00:45:21.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.3153673008613396
+[26Dec2024 00:45:21.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.0680203596456295
+[26Dec2024 00:45:22.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.8206758567084762
+[26Dec2024 00:45:22.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.31537560066226433
+[26Dec2024 00:45:22.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.0680331005045218
+[26Dec2024 00:45:22.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.3153766723096396
+[26Dec2024 00:45:22.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.0680347455689798
+[26Dec2024 00:45:22.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.8206929257775073
+[26Dec2024 00:45:22.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.3153770363600188
+[26Dec2024 00:45:22.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.0680353044155027
+[26Dec2024 00:45:22.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.3153770833652061
+[26Dec2024 00:45:22.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.0680353765721975
+[26Dec2024 00:45:22.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.31537709682322657
+[26Dec2024 00:45:22.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.31537709933331826
+[26Dec2024 00:45:22.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.0680354010845576
+[26Dec2024 00:45:22.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.4707678519640695
+[26Dec2024 00:45:23.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19502ms or 390 ticks behind
+[26Dec2024 00:45:29.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[26Dec2024 00:45:35.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> gracias
+[26Dec2024 00:45:36.921] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -609 0 -1023
+[26Dec2024 00:45:45.398] [Worker-Main-12/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -919 0 -1064
+[26Dec2024 00:45:46.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -138.500000, 88.500000, -39.500000]
+[26Dec2024 00:45:53.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 7.474019077661296,0.0,-6.6613433423004835
+[26Dec2024 00:45:53.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 8.445429412268936,0.0,-7.406807023168653
+[26Dec2024 00:45:53.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 9.453901986825258,0.0,-8.207928493968666
+[26Dec2024 00:45:53.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 10.495063457016272,0.0,-9.05814013548843
+[26Dec2024 00:45:53.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 11.56505653315719,0.0,-9.951649307583125
+[26Dec2024 00:45:53.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 12.66047908574592,0.0,-10.883346901644813
+[26Dec2024 00:45:53.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 13.778330436561532,0.0,-11.848726683881523
+[26Dec2024 00:45:53.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 14.915963987413306,0.0,-12.843814156088456
+[26Dec2024 00:45:53.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 16.070755966385036,0.0,-13.86540891185075
+[26Dec2024 00:45:53.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 17.24046071668522,0.0,-14.910615167126139
+[26Dec2024 00:45:53.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 18.423318531297127,0.0,-15.976646764972088
+[26Dec2024 00:45:53.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 19.61777734863199,0.0,-16.19052030070452
+[26Dec2024 00:45:53.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 20.822689212641762,0.09799999999999898,-16.334447905980255
+[26Dec2024 00:45:53.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 21.61179676524216,0.18443600000000515,-16.55446941902278
+[26Dec2024 00:45:53.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 22.459257795464623,0.2606725520000026,-16.892383414830192
+[26Dec2024 00:45:53.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 23.358186592949778,0.3279131908640096,-17.334278580436376
+[26Dec2024 00:45:53.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 24.30250996116058,0.3872194343420574,-17.867885137805047
+[26Dec2024 00:45:53.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 25.286871340751418,0.4395275410897028,-18.482381142708164
+[26Dec2024 00:45:53.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 26.306546246379412,0.4856632912411243,-19.168221640336697
+[26Dec2024 00:45:53.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 27.357367681972278,0.5263550228746681,-19.916987980549038
+[26Dec2024 00:45:53.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 28.43566035699405,0.5622451301754552,-20.721254913920347
+[26Dec2024 00:45:53.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 29.53804467518603,0.5939002048147586,-21.574618522216497
+[26Dec2024 00:45:53.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 30.661677822654042,0.6218199806466203,-22.471285397796464
+[26Dec2024 00:45:53.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 31.804052437543646,0.6464452229303248,-23.406145755120633
+[26Dec2024 00:45:53.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 32.96295702669897,0.6681646866245501,-24.374692763343205
+[26Dec2024 00:45:53.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 34.13644105315677,0.6873212536028603,-25.3729513976582
+[26Dec2024 00:45:53.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 28.712110239484105,0.7042173456777192,-20.460537138739824
+[26Dec2024 00:45:53.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 29.78549931140617,0.7191196988877522,-21.58735677095433
+[26Dec2024 00:45:53.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 30.817514171100697,0.7322635744189938,-22.76731704383303
+[26Dec2024 00:45:53.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 31.812840656742537,0.7438564726375603,-23.994237193308777
+[26Dec2024 00:45:53.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 32.775522279243546,0.7540814088663268,-25.26270625969198
+[26Dec2024 00:45:53.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 33.633920665797405,0.7630998026201041,-26.59018266726332
+[26Dec2024 00:45:53.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 34.39958088686865,0.771054025910928,-27.96973609959946
+[26Dec2024 00:45:53.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 35.08174487057113,0.778069650853439,-29.39528423222282
+[26Dec2024 00:45:53.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 35.68856354086017,0.7842574320527405,-30.86144859386343
+[26Dec2024 00:45:53.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 36.22570371340055,0.7897150550705163,-32.36349108375737
+[26Dec2024 00:45:53.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 36.69573992177652,0.7945286785721919,-33.89715381717997
+[26Dec2024 00:45:53.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 37.10284668185636,0.7987742945006744,-35.458605315427576
+[26Dec2024 00:45:53.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 37.45494131336659,0.6588483854455518,-36.987288259981824
+[26Dec2024 00:45:53.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 37.75649719490718,0.39176319135488313,-38.48696296446451
+[26Dec2024 00:45:53.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 38.01031625220128,0.012523507862852057,-39.96083142210364
+[26Dec2024 00:45:53.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 38.21925121762399,-0.46563643528116927,-41.41168946066375
+[26Dec2024 00:45:53.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 38.38813550733039,-1.0310440474382432,-42.84220578176269
+[26Dec2024 00:45:53.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 38.51588237427654,-1.5297335613607856,-44.311736106433386
+[26Dec2024 00:45:53.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 38.606907754836016,-1.969577712640472,-45.81563158981089
+[26Dec2024 00:45:53.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 38.651897063140154,-2.3575202540691436,-47.34795846261534
+[26Dec2024 00:45:53.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 38.632765317518874,-2.6996855756092373,-48.89991523163019
+[26Dec2024 00:45:53.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 38.52251001408729,-3.0014753892075987,-50.45560158319154
+[26Dec2024 00:45:53.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 38.30748617340441,-3.267654004801358,-52.00024247358692
+[26Dec2024 00:45:53.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 38.02444981871963,-3.3587530014510065,-53.48209305063074
+[26Dec2024 00:45:53.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 37.68014890447262,-3.2954317741919397,-54.9075529403508
+[26Dec2024 00:45:53.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 37.281506305364246,-3.095911909445391,-56.283030803288284
+[26Dec2024 00:45:53.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 36.834934340208065,-2.7762648464348842,-57.61442451860353
+[26Dec2024 00:45:53.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 36.346088674197745,-2.350665594555565,-58.90693601571593
+[26Dec2024 00:45:53.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 35.819957604034016,-1.8316165120939587,-60.16515339637351
+[26Dec2024 00:45:53.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 35.25712720538104,-1.2301446790587676,-61.38995591886055
+[26Dec2024 00:45:53.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 34.65810215952331,-0.5559759800176778,-62.58188798391541
+[26Dec2024 00:45:53.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 34.02511559354832,0.182311354840607,-63.742920697996624
+[26Dec2024 00:45:53.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 33.361943719096075,0.9771513264896754,-64.87647921382597
+[26Dec2024 00:45:53.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 32.67209591042558,1.8218707237881944,-65.98575519759811
+[26Dec2024 00:45:53.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved too quickly! 31.91567314127417,2.5669132322054935,-67.11158041954695
+[26Dec2024 00:45:59.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has completed the challenge [Hot Tourist Destinations]
+[26Dec2024 00:45:59.521] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -841 0 -1102
+[26Dec2024 00:46:00.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22117ms or 442 ticks behind
+[26Dec2024 00:46:00.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.4053988368445971
+[26Dec2024 00:46:00.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.931314829624398
+[26Dec2024 00:46:00.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.4607189857898675
+[26Dec2024 00:46:00.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.9919895886366703
+[26Dec2024 00:46:00.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 2.5242588898896656
+[26Dec2024 00:46:00.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 3.0570625747478744
+[26Dec2024 00:46:00.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.41909142294355206
+[26Dec2024 00:46:00.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.41924442267315953
+[26Dec2024 00:46:00.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.9525689123785241
+[26Dec2024 00:46:00.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.4859372075394504
+[26Dec2024 00:46:00.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.7713319480635619
+[26Dec2024 00:46:00.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.924040983560758
+[26Dec2024 00:46:00.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 2.0057525437656523
+[26Dec2024 00:46:03.257] [Worker-Main-12/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -738 0 -1114
+[26Dec2024 00:46:04.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.9057990837056877
+[26Dec2024 00:46:04.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.8765516046922812
+[26Dec2024 00:46:04.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.8515837610347035
+[26Dec2024 00:46:04.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.8289826106770306
+[26Dec2024 00:46:04.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.8076478307173147
+[26Dec2024 00:46:04.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.5766033274998108
+[26Dec2024 00:46:11.938] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1023 0 -1115
+[26Dec2024 00:46:28.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13353ms or 267 ticks behind
+[26Dec2024 00:46:34.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.5316991639217576
+[26Dec2024 00:46:34.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.6133129856780215
+[26Dec2024 00:46:34.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 2.989994606682785
+[26Dec2024 00:46:34.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 2.989994606682785
+[26Dec2024 00:46:34.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 1.9367346720678142
+[26Dec2024 00:46:34.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of Gondar_80) moved wrongly! 0.7998265764857706
+[26Dec2024 00:46:40.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -456.500000, 66.500000, -507.500000]
+[26Dec2024 00:46:52.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9017ms or 180 ticks behind
+[26Dec2024 00:47:15.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8487ms or 169 ticks behind
+[26Dec2024 00:47:35.800] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:35.895] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:36.078] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:36.203] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:36.350] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:36.504] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:36.745] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:36.960] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:37.109] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:37.189] [Worker-Main-12/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -969 0 -1258
+[26Dec2024 00:47:37.271] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:37.429] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:37.606] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:37.809] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:38.039] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:38.300] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:38.535] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:38.775] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:39.059] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:39.294] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:39.522] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:39.686] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:39.857] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:40.112] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:40.392] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:40.634] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:40.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9774ms or 195 ticks behind
+[26Dec2024 00:47:40.833] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:40.985] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:41.251] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:41.390] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:41.605] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:41.804] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:41.978] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:42.192] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:42.338] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:42.476] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:42.737] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:42.933] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:43.167] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:43.390] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:43.538] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:43.748] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:43.931] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:44.080] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:44.231] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:44.394] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:44.669] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:44.905] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:45.084] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:45.239] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:45.443] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:45.672] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:45.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:46.249] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:46.521] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:46.739] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:46.970] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:47:47.250] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Dec2024 00:48:04.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8687ms or 173 ticks behind
+[26Dec2024 00:48:11.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -535.500000, 67.500000, -712.500000]
+[26Dec2024 00:48:27.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8191ms or 163 ticks behind
+[26Dec2024 00:48:51.973] [Worker-Main-12/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -400 0 -975
+[26Dec2024 00:48:53.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10758ms or 215 ticks behind
+[26Dec2024 00:49:03.761] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1162 0 -1380
+[26Dec2024 00:49:07.608] [Worker-Main-12/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1139 0 -1405
+[26Dec2024 00:49:18.414] [Worker-Main-12/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1288 0 -1071
+[26Dec2024 00:49:20.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11850ms or 237 ticks behind
+[26Dec2024 00:49:23.706] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1317 0 -1194
+[26Dec2024 00:49:27.030] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1329 0 -1112
+[26Dec2024 00:49:30.759] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1351 0 -1302
+[26Dec2024 00:49:31.549] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1346 0 -1060
+[26Dec2024 00:49:45.437] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1384 0 -1147
+[26Dec2024 00:49:45.748] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1390 0 -1165
+[26Dec2024 00:49:47.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12181ms or 243 ticks behind
+[26Dec2024 00:49:59.706] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1386 0 -1420
+[26Dec2024 00:50:04.332] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1175 0 -991
+[26Dec2024 00:50:04.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> no estoy seguro
+[26Dec2024 00:50:07.663] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1282 0 -987
+[26Dec2024 00:50:07.968] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1363 0 -980
+[26Dec2024 00:50:11.669] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1331 0 -975
+[26Dec2024 00:50:12.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10088ms or 201 ticks behind
+[26Dec2024 00:50:12.551] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1442 0 -1218
+[26Dec2024 00:50:12.931] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1447 0 -1247
+[26Dec2024 00:50:14.684] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1455 0 -1093
+[26Dec2024 00:50:21.519] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1468 0 -1130
+[26Dec2024 00:50:22.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[26Dec2024 00:50:29.882] [Worker-Main-12/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1484 0 -1097
+[26Dec2024 00:50:30.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2752ms or 55 ticks behind
+[26Dec2024 00:50:34.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ire a comer
+[26Dec2024 00:50:38.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> bais
+[26Dec2024 00:50:42.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> provecho
+[26Dec2024 00:50:44.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 lost connection: Disconnected
+[26Dec2024 00:50:44.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 left the game
+[26Dec2024 00:50:47.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Gondar_80]
