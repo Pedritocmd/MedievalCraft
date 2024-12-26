@@ -55,6 +55,7 @@
       "snowblossom_grove": "2024-11-28 22:05:21 +0000",
       "rocky_shrubland": "2024-12-01 05:13:54 +0000",
       "scrubland": "2024-11-19 21:16:53 +0000",
+      "erupting_inferno": "2024-12-26 00:25:53 +0000",
       "lush_savanna": "2024-11-21 16:54:40 +0000",
       "highland": "2024-11-16 03:02:09 +0000",
       "marsh": "2024-11-16 04:54:53 +0000",
@@ -1148,6 +1149,20 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-26 00:26:42 +0000",
+      "minecraft:basalt_deltas": "2024-12-26 00:25:50 +0000",
+      "minecraft:warped_forest": "2024-12-26 00:24:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-26 00:24:06 +0000"
+    },
+    "done": true
+  },
   "twilightforest:troll": {
     "criteria": {
       "troll": "2024-12-25 21:43:37 +0000"
@@ -1161,12 +1176,24 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-26 00:24:06 +0000"
+    },
+    "done": true
+  },
   "twilightforest:arctic_armor_dyed": {
     "criteria": {
       "chestplate": "2024-12-25 22:46:38 +0000",
       "helmet": "2024-12-25 22:46:39 +0000",
       "boots": "2024-12-25 22:46:34 +0000",
       "leggings": "2024-12-25 22:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-12-26 00:24:08 +0000"
     },
     "done": true
   },

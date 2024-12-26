@@ -196,6 +196,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-11-16 02:05:30 +0000",
+      "minecraft:blaze": "2024-12-26 00:28:20 +0000",
       "minecraft:skeleton": "2024-11-16 03:59:07 +0000",
       "minecraft:vindicator": "2024-11-21 04:26:51 +0000",
       "minecraft:magma_cube": "2024-11-21 05:11:08 +0000",
@@ -907,7 +908,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-17 04:15:09 +0000",
       "minecraft:nether_wastes": "2024-12-17 04:13:32 +0000",
-      "minecraft:soul_sand_valley": "2024-12-17 04:02:36 +0000"
+      "minecraft:soul_sand_valley": "2024-12-17 04:02:36 +0000",
+      "minecraft:warped_forest": "2024-12-26 00:24:11 +0000"
     },
     "done": false
   },
@@ -1157,6 +1159,12 @@
       "helmet": "2024-12-25 22:52:14 +0000",
       "boots": "2024-12-25 22:50:32 +0000",
       "leggings": "2024-12-25 22:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-12-26 00:24:11 +0000"
     },
     "done": true
   },

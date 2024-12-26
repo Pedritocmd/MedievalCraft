@@ -88,3 +88,36 @@
 [26Dec2024 00:19:42.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> nonono, ta bien
 [26Dec2024 00:19:43.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
 [26Dec2024 00:19:52.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[26Dec2024 00:20:01.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[26Dec2024 00:20:21.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> pa que so lo jojos?
+[26Dec2024 00:20:24.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7884ms or 157 ticks behind
+[26Dec2024 00:20:30.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> para buscar jefes
+[26Dec2024 00:20:37.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> y para ver
+[26Dec2024 00:20:48.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Killed JhynMC]
+[26Dec2024 00:20:58.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[26Dec2024 00:23:21.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3201ms or 64 ticks behind
+[26Dec2024 00:23:36.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ya estoy en el nether
+[26Dec2024 00:23:43.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7095ms or 141 ticks behind
+[26Dec2024 00:24:01.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[26Dec2024 00:24:06.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has made the advancement [We Need to Go Deeper]
+[26Dec2024 00:24:06.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[26Dec2024 00:24:08.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has made the advancement [A Terrible Fortress]
+[26Dec2024 00:24:11.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[26Dec2024 00:24:11.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [A Terrible Fortress]
+[26Dec2024 00:24:35.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> tu tienes más surte
+[26Dec2024 00:24:39.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> suerte*
+[26Dec2024 00:24:47.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> y que hago?
+[26Dec2024 00:24:52.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> clic derecho?
+[26Dec2024 00:24:57.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Es como buscar una foraleza del draggón
+[26Dec2024 00:25:05.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2463ms or 49 ticks behind
+[26Dec2024 00:26:50.091] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -373 0 -327
+[26Dec2024 00:26:55.378] [Worker-Main-144/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -517 0 -318
+[26Dec2024 00:27:05.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> eh, no encuentro el ojo
+[26Dec2024 00:28:06.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[26Dec2024 00:28:17.500] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[26Dec2024 00:28:48.720] [Worker-Main-11/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -612 0 -424
+[26Dec2024 00:28:56.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[26Dec2024 00:29:01.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[26Dec2024 00:29:14.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> aqui, tire el ojo y ya no lo vixd
+[26Dec2024 00:29:58.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Set own game mode to Spectator Mode]
+[26Dec2024 00:30:04.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Set own game mode to Spectator Mode]
