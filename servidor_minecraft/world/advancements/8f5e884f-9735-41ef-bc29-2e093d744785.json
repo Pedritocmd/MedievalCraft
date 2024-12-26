@@ -283,15 +283,18 @@
       "minecraft:evoker": "2024-11-30 03:08:03 +0000",
       "quark:forgotten": "2024-11-16 04:04:45 +0000",
       "minecraft:phantom": "2024-11-20 00:32:07 +0000",
+      "minecraft:zombified_piglin": "2024-12-26 00:50:08 +0000",
       "minecraft:witch": "2024-11-16 04:02:22 +0000",
       "minecraft:wither_skeleton": "2024-11-18 23:22:59 +0000",
       "minecraft:husk": "2024-11-18 22:49:36 +0000",
       "minecraft:cave_spider": "2024-11-16 03:32:18 +0000",
+      "minecraft:piglin": "2024-12-26 00:47:58 +0000",
       "minecraft:stray": "2024-11-18 22:49:42 +0000",
       "minecraft:enderman": "2024-12-02 04:53:45 +0000",
       "minecraft:silverfish": "2024-12-19 05:38:31 +0000",
       "minecraft:vex": "2024-11-30 03:08:03 +0000",
       "minecraft:zombie": "2024-11-16 03:03:53 +0000",
+      "quark:foxhound": "2024-12-26 00:50:34 +0000",
       "minecraft:drowned": "2024-12-01 06:29:40 +0000",
       "minecraft:zombie_villager": "2024-11-16 05:02:10 +0000"
     },
@@ -1153,6 +1156,12 @@
     },
     "done": true
   },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2024-12-26 00:51:06 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:elder_guardian_treasure_bag": {
     "criteria": {
       "bag_opened": "2024-12-25 23:27:56 +0000"
@@ -1169,14 +1178,21 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-26 00:33:20 +0000",
       "minecraft:nether_wastes": "2024-12-26 00:26:42 +0000",
+      "minecraft:soul_sand_valley": "2024-12-26 00:45:59 +0000",
       "minecraft:basalt_deltas": "2024-12-26 00:25:50 +0000",
       "minecraft:warped_forest": "2024-12-26 00:24:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-26 00:24:06 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2024-12-26 00:52:07 +0000"
     },
     "done": true
   },
