@@ -1174,6 +1174,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2024-12-26 01:02:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-26 00:33:20 +0000",
