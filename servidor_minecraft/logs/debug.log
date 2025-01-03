@@ -11484,3 +11484,102 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [03Jan2025 05:07:51.765] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 33
 [03Jan2025 05:07:51.815] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 34
 [03Jan2025 05:07:51.865] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'org.violetmoon.zeta.network.message.S2CLoginFlag' to 'zeta:main' sequence 35
+[03Jan2025 05:08:11.650] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[03Jan2025 05:08:11.650] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jan2025 05:08:11.650] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jan2025 05:08:11.691] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[03Jan2025 05:08:11.691] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jan2025 05:08:11.692] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jan2025 05:08:11.692] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[03Jan2025 05:08:11.692] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jan2025 05:08:11.692] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jan2025 05:08:11.696] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[03Jan2025 05:08:11.696] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jan2025 05:08:11.696] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jan2025 05:08:11.699] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[03Jan2025 05:08:11.699] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jan2025 05:08:11.699] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jan2025 05:08:11.706] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[03Jan2025 05:08:11.706] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jan2025 05:08:11.706] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jan2025 05:08:11.716] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[03Jan2025 05:08:11.716] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jan2025 05:08:11.716] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jan2025 05:08:11.716] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[03Jan2025 05:08:11.716] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jan2025 05:08:11.716] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jan2025 05:08:11.716] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[03Jan2025 05:08:11.716] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[03Jan2025 05:08:11.716] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[03Jan2025 05:08:11.716] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel zeta:main with index 35
+[03Jan2025 05:08:11.717] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type org.violetmoon.zeta.network.message.C2SLoginFlag
+[03Jan2025 05:08:11.765] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[03Jan2025 05:08:11.816] [Thread-49/DEBUG] [SkinRestorer/]: Fetching JhynMC's skin
+[03Jan2025 05:08:14.902] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhynMC[/127.242.210.13:58245] logged in with entity id 1933 at (-411.09729129492456, 88.92159999847412, 1107.516219196808)
+[03Jan2025 05:08:14.903] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@6c9701dc into net.minecraft.network.Connection@1ec5d037
+[03Jan2025 05:08:15.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC joined the game
+[03Jan2025 05:08:15.054] [Server thread/INFO] [Jade/]: Syncing config to JhynMC (3f2294df-8b7e-46c2-a4b1-0711298c5e35)
+[03Jan2025 05:08:16.348] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 3f2294df-8b7e-46c2-a4b1-0711298c5e35 data: NetData{purpose=CONFIG, threshold=8.0, stopEmoteID=null, emoteData=null, startingAt=0, player=null}
+[03Jan2025 05:08:18.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3535ms or 70 ticks behind
+[03Jan2025 05:08:20.555] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[03Jan2025 05:08:41.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8201ms or 164 ticks behind
+[03Jan2025 05:09:00.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4080ms or 81 ticks behind
+[03Jan2025 05:09:14.057] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[03Jan2025 05:09:20.702] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[03Jan2025 05:09:22.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6943ms or 138 ticks behind
+[03Jan2025 05:09:23.063] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[03Jan2025 05:09:23.065] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[03Jan2025 05:09:33.803] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[03Jan2025 05:09:42.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4807ms or 96 ticks behind
+[03Jan2025 05:09:51.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[03Jan2025 05:09:59.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2630ms or 52 ticks behind
+[03Jan2025 05:10:09.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Pillager]
+[03Jan2025 05:10:18.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4028ms or 80 ticks behind
+[03Jan2025 05:10:36.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2406ms or 48 ticks behind
+[03Jan2025 05:10:53.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[03Jan2025 05:10:57.606] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[03Jan2025 05:11:15.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6931ms or 138 ticks behind
+[03Jan2025 05:11:41.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10621ms or 212 ticks behind
+[03Jan2025 05:12:00.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4552ms or 91 ticks behind
+[03Jan2025 05:12:05.716] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[03Jan2025 05:12:19.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[03Jan2025 05:12:38.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[03Jan2025 05:12:48.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 05:12:48.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 05:12:58.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4894ms or 97 ticks behind
+[03Jan2025 05:13:17.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[03Jan2025 05:13:51.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[03Jan2025 05:14:00.189] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[03Jan2025 05:14:11.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[03Jan2025 05:14:22.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Gave 12 [Shriving Stone] to JhynMC]
+[03Jan2025 05:14:22.199] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[03Jan2025 05:14:38.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[03Jan2025 05:14:46.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[03Jan2025 05:15:04.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[03Jan2025 05:15:06.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[03Jan2025 05:15:13.964] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[03Jan2025 05:15:23.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[03Jan2025 05:15:24.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3045ms or 60 ticks behind
+[03Jan2025 05:15:27.842] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[03Jan2025 05:15:28.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[03Jan2025 05:15:34.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[03Jan2025 05:15:43.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3753ms or 75 ticks behind
+[03Jan2025 05:16:01.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2958ms or 59 ticks behind
+[03Jan2025 05:16:18.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2751ms or 55 ticks behind
+[03Jan2025 05:16:36.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2782ms or 55 ticks behind
+[03Jan2025 05:16:54.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2630ms or 52 ticks behind
+[03Jan2025 05:17:05.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! 0.0,-41.6807407489669,0.0
+[03Jan2025 05:17:14.439] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[03Jan2025 05:17:14.440] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[03Jan2025 05:17:14.441] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[03Jan2025 05:17:14.657] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[03Jan2025 05:17:14.659] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[03Jan2025 05:17:28.092] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[03Jan2025 05:17:28.096] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[03Jan2025 05:17:38.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Pillager]
+[03Jan2025 05:17:47.759] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[03Jan2025 05:17:47.760] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[03Jan2025 05:17:55.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Pillager]
+[03Jan2025 05:18:06.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Pillager]
+[03Jan2025 05:18:19.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 05:18:19.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

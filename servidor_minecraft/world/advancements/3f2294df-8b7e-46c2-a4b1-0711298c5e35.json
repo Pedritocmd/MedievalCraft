@@ -1451,5 +1451,29 @@
     },
     "done": true
   },
+  "celestisynth:obtain_poltergeist": {
+    "criteria": {
+      "criteria": "2025-01-03 05:17:02 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_breezebreaker": {
+    "criteria": {
+      "criteria": "2025-01-03 05:16:53 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_crescentia": {
+    "criteria": {
+      "criteria": "2025-01-03 05:16:35 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_solaris": {
+    "criteria": {
+      "criteria": "2025-01-03 05:16:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
