@@ -1445,5 +1445,11 @@
     },
     "done": true
   },
+  "celestisynth:obtain_rainfall_serenity": {
+    "criteria": {
+      "criteria": "2025-01-03 05:05:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

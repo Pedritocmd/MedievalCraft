@@ -3015,3 +3015,28 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [03Jan2025 04:53:50.060] [Server thread/INFO] [Jade/]: Syncing config to JhynMC (3f2294df-8b7e-46c2-a4b1-0711298c5e35)
 [03Jan2025 04:53:54.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4869ms or 97 ticks behind
 [03Jan2025 04:56:58.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Sharpness V to JhynMC's item]
+[03Jan2025 04:57:07.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Looting III to JhynMC's item]
+[03Jan2025 04:57:35.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Fire Aspect II to JhynMC's item]
+[03Jan2025 04:57:42.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Knockback II to JhynMC's item]
+[03Jan2025 04:58:00.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[03Jan2025 04:58:35.191] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Timed out
+[03Jan2025 04:58:35.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
+[03Jan2025 04:59:21.117] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JhynMC is 3f2294df-8b7e-46c2-a4b1-0711298c5e35
+[03Jan2025 04:59:49.865] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1debd6cb[id=3f2294df-8b7e-46c2-a4b1-0711298c5e35,name=JhynMC,properties={textures=[com.mojang.authlib.properties.Property@7e7f5b4e]},legacy=false] (/127.242.210.13:56741): Took too long to log in
+[03Jan2025 04:59:49.868] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1debd6cb[id=3f2294df-8b7e-46c2-a4b1-0711298c5e35,name=JhynMC,properties={textures=[com.mojang.authlib.properties.Property@7e7f5b4e]},legacy=false] (/127.242.210.13:56741) lost connection: Took too long to log in
+[03Jan2025 04:59:49.915] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jan2025 05:00:48.563] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JhynMC is 3f2294df-8b7e-46c2-a4b1-0711298c5e35
+[03Jan2025 05:01:17.465] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7ff10d9c[id=3f2294df-8b7e-46c2-a4b1-0711298c5e35,name=JhynMC,properties={textures=[com.mojang.authlib.properties.Property@5d09b1d8]},legacy=false] (/127.242.210.13:35991): Took too long to log in
+[03Jan2025 05:01:17.469] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ff10d9c[id=3f2294df-8b7e-46c2-a4b1-0711298c5e35,name=JhynMC,properties={textures=[com.mojang.authlib.properties.Property@5d09b1d8]},legacy=false] (/127.242.210.13:35991) lost connection: Took too long to log in
+[03Jan2025 05:01:17.515] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jan2025 05:01:35.951] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JhynMC is 3f2294df-8b7e-46c2-a4b1-0711298c5e35
+[03Jan2025 05:01:59.199] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhynMC[/127.242.210.13:33535] logged in with entity id 688 at (-1242.9593753947572, 69.0, -1238.9489816492892)
+[03Jan2025 05:01:59.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC joined the game
+[03Jan2025 05:01:59.376] [Server thread/INFO] [Jade/]: Syncing config to JhynMC (3f2294df-8b7e-46c2-a4b1-0711298c5e35)
+[03Jan2025 05:02:01.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2266ms or 45 ticks behind
+[03Jan2025 05:05:24.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -409.500000, 90.500000, 1109.500000]
+[03Jan2025 05:05:24.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5712ms or 114 ticks behind
+[03Jan2025 05:06:21.743] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Timed out
+[03Jan2025 05:06:21.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
+[03Jan2025 05:06:26.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 46439ms or 928 ticks behind
+[03Jan2025 05:07:50.048] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JhynMC is 3f2294df-8b7e-46c2-a4b1-0711298c5e35
