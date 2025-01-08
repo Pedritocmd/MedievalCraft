@@ -3318,3 +3318,7 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [08Jan2025 06:02:08.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -513.500000, 77.500000, 1039.500000]
 [08Jan2025 06:02:40.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
 [08Jan2025 06:02:44.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[08Jan2025 06:03:48.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -409.500000, 90.500000, 1109.500000]
+[08Jan2025 06:04:50.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has completed the challenge [Serious Dedication]
+[08Jan2025 06:09:53.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Luck of the Sea III to JhynMC's item]
+[08Jan2025 06:10:06.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -644.500000, 66.500000, 645.500000]
