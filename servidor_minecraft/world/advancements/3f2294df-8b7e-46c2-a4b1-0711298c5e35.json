@@ -1451,15 +1451,9 @@
     },
     "done": true
   },
-  "celestisynth:obtain_poltergeist": {
+  "celestisynth:obtain_solaris": {
     "criteria": {
-      "criteria": "2025-01-03 05:17:02 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:obtain_breezebreaker": {
-    "criteria": {
-      "criteria": "2025-01-03 05:16:53 +0000"
+      "criteria": "2025-01-03 05:16:12 +0000"
     },
     "done": true
   },
@@ -1469,9 +1463,15 @@
     },
     "done": true
   },
-  "celestisynth:obtain_solaris": {
+  "celestisynth:obtain_poltergeist": {
     "criteria": {
-      "criteria": "2025-01-03 05:16:12 +0000"
+      "criteria": "2025-01-03 05:17:02 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_frostbound": {
+    "criteria": {
+      "criteria": "2025-01-03 05:23:44 +0000"
     },
     "done": true
   },
