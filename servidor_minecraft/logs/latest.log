@@ -3265,3 +3265,26 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [08Jan2025 05:32:47.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to 22144.500000, 118.000000, 17984.500000]
 [08Jan2025 05:32:47.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5169ms or 103 ticks behind
 [08Jan2025 05:32:47.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! 0.0,-10.806526110008988,0.0
+[08Jan2025 05:32:59.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved wrongly!
+[08Jan2025 05:33:18.945] [Worker-Main-16/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;617252372,-1332721100,-1914322941,1289992458],type:"minecraft:entity",y_offset:0.36f}}]
+[08Jan2025 05:33:18.946] [Worker-Main-16/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1071003585,-742438505,-1885935989,1040940811],type:"minecraft:entity",y_offset:0.36f}}]
+[08Jan2025 05:33:57.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to 20512.500000, 102.000000, 17616.500000]
+[08Jan2025 05:34:00.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[08Jan2025 05:34:33.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has completed the challenge [Find: Temple husk]
+[08Jan2025 05:35:54.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[08Jan2025 05:36:02.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[08Jan2025 05:36:08.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -409.500000, 90.500000, 1109.500000]
+[08Jan2025 05:36:35.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to 22141.500000, 72.500000, 18046.500000]
+[08Jan2025 05:36:46.862] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[08Jan2025 05:36:46.862] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[08Jan2025 05:36:46.862] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[08Jan2025 05:36:46.863] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[08Jan2025 05:36:46.863] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[08Jan2025 05:36:46.863] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[08Jan2025 05:36:46.863] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[08Jan2025 05:36:46.863] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[08Jan2025 05:36:46.863] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[08Jan2025 05:36:46.863] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[08Jan2025 05:37:31.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[08Jan2025 05:40:49.595] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Rabbit['The Killer Bunny'/21095, l='ServerLevel[world]', x=22079.48, y=74.20, z=18050.80] died: The Killer Bunny was slain by Myrmex Sentinel
+[08Jan2025 05:41:47.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Removed effect Bad Omen from JhynMC]
