@@ -154,6 +154,7 @@
       "minecraft:ocean": "2024-11-17 05:52:41 +0000",
       "minecraft:jungle": "2024-11-28 04:37:47 +0000",
       "minecraft:snowy_beach": "2024-11-16 02:48:17 +0000",
+      "minecraft:warm_ocean": "2025-01-08 05:44:25 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-11-19 05:12:49 +0000",
       "minecraft:flower_forest": "2024-12-09 00:13:38 +0000",
       "minecraft:frozen_peaks": "2024-11-17 06:36:29 +0000",
@@ -1472,6 +1473,12 @@
   "celestisynth:obtain_frostbound": {
     "criteria": {
       "criteria": "2025-01-03 05:23:44 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-01-08 05:44:29 +0000"
     },
     "done": true
   },
