@@ -941,3 +941,10 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [12Jan2025 05:48:21.095] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
 [12Jan2025 05:49:34.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
 [12Jan2025 05:56:22.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -572.500000, 200.500000, 1336.500000]
+[12Jan2025 06:02:40.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[12Jan2025 06:03:19.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[12Jan2025 06:03:39.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[12Jan2025 06:03:50.129] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SnowGolem['JhynMC'/9517, l='ServerLevel[world]', x=-514.96, y=77.00, z=1034.50] died: JhynMC was killed by Witch using magic
+[12Jan2025 06:03:50.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has completed the challenge [Getting Ahead]
+[12Jan2025 06:05:24.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[12Jan2025 06:05:25.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]

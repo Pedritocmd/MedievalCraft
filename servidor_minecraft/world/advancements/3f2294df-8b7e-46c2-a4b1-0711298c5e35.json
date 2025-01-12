@@ -1506,5 +1506,11 @@
     },
     "done": true
   },
+  "quark:get_own_head": {
+    "criteria": {
+      "get_own_head": "2025-01-12 06:03:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
