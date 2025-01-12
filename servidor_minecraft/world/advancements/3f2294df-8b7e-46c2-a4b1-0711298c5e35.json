@@ -1476,18 +1476,6 @@
     },
     "done": true
   },
-  "dungeons_arise:find_undead_pirate_ship": {
-    "criteria": {
-      "location0": "2025-01-08 05:44:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/obtain_netherite_hoe": {
-    "criteria": {
-      "netherite_hoe": "2025-01-08 06:04:50 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/tame_hippogryph": {
     "criteria": {
       "tame_rat": "2025-01-08 05:31:09 +0000"
@@ -1503,6 +1491,18 @@
   "awesomedungeon:root": {
     "criteria": {
       "awesomedungeon:desert_temple_husk": "2025-01-08 05:34:33 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-01-08 05:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-01-08 06:04:50 +0000"
     },
     "done": true
   },
