@@ -948,3 +948,17 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [12Jan2025 06:03:50.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has completed the challenge [Getting Ahead]
 [12Jan2025 06:05:24.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
 [12Jan2025 06:05:25.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[12Jan2025 06:12:09.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[12Jan2025 06:15:50.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] e
+[12Jan2025 06:18:43.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[12Jan2025 06:20:03.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[12Jan2025 06:21:13.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[12Jan2025 06:22:02.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! 8.937235847172758,0.0,-6.0059731350766015
+[12Jan2025 06:22:45.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! -7.185522500856109,0.0,7.42646890002834
+[12Jan2025 06:23:04.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! 0.3026201737425822,1.1126548666129281,-10.155119138575401
+[12Jan2025 06:23:21.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! -5.27710812537731,-2.078246482582088,8.87800457869298
+[12Jan2025 06:23:30.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! -7.156639386402787,-2.385036705870874,6.764808336790793
+[12Jan2025 06:24:21.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[12Jan2025 06:24:45.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[12Jan2025 06:25:51.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[12Jan2025 06:26:16.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
