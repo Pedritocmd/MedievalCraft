@@ -8528,3 +8528,64 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [12Jan2025 05:51:11.324] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from quad.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [12Jan2025 05:51:14.465] [Server thread/DEBUG] [mixin/]: Mixing PortalShapeMixin from quad.mixins.json into net.minecraft.world.level.portal.PortalShape
 [12Jan2025 05:51:14.465] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$PortalShape$0(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)Z to md9588ec$lambda$PortalShape$0$0 in quad.mixins.json:PortalShapeMixin
+[12Jan2025 05:52:34.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jan2025 05:52:34.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jan2025 05:55:06.798] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_part_1 is being run through DFU (hash 3d16c532accd418b367cbe09e51d1891de4babcf4850540b09236f593188cfab), this will cause launch time delays
+[12Jan2025 05:55:06.839] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_pillager_0 is being run through DFU (hash 5b954e6c9a153dc96aee542ae8e2813d5466cd4bdc9d7627224d581e8e589b37), this will cause launch time delays
+[12Jan2025 05:55:06.959] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_part_0 is being run through DFU (hash 2c9ffcc34c925591d473c7457a436981055cb31f755343e045c50f9d8d013e75), this will cause launch time delays
+[12Jan2025 05:55:06.972] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0 is being run through DFU (hash 1bdbb5904e08c005d77c14cf57dae04bc3b5c0b8f46bdaf5c0a9ae4bb5d4f0a6), this will cause launch time delays
+[12Jan2025 05:55:56.776] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Jan2025 05:56:22.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -572.500000, 200.500000, 1336.500000]
+[12Jan2025 05:56:34.773] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Jan2025 05:56:34.773] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Jan2025 05:56:34.774] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Jan2025 05:56:47.723] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Jan2025 05:56:52.673] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Jan2025 05:56:54.962] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Jan2025 05:57:18.239] [Server thread/DEBUG] [mixin/]: Mixing alloc.composter.ComposterMixin$ComposterBlockComposterInventoryMixin from lithium.mixins.json into net.minecraft.world.level.block.ComposterBlock$InputContainer
+[12Jan2025 05:57:18.239] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.composter.ComposterMixin$ComposterBlockComposterInventoryMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[12Jan2025 05:57:25.881] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/roads/t_3
+[12Jan2025 05:57:25.882] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/roads/t_2
+[12Jan2025 05:57:25.883] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/roads/straight
+[12Jan2025 05:57:25.883] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/roads/bent_1
+[12Jan2025 05:57:25.885] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/loomhouse
+[12Jan2025 05:57:25.887] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/house/small_1
+[12Jan2025 05:57:25.888] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/lamp_5
+[12Jan2025 05:57:25.888] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/lamp_4
+[12Jan2025 05:57:25.890] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/house/med_1
+[12Jan2025 05:57:25.891] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/house/big_2
+[12Jan2025 05:57:25.892] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/cartography
+[12Jan2025 05:57:25.892] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/lamp_3
+[12Jan2025 05:57:25.893] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/house/small_3
+[12Jan2025 05:57:25.894] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/lamp_2
+[12Jan2025 05:57:25.894] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/campfire_1
+[12Jan2025 05:57:25.895] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/butcher
+[12Jan2025 05:57:25.896] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/roads/inter
+[12Jan2025 05:57:25.896] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/lamp_1
+[12Jan2025 05:57:25.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/priest_tower
+[12Jan2025 05:57:25.900] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/roads/bent_2
+[12Jan2025 05:57:25.900] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/bench
+[12Jan2025 05:57:25.901] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/campfire_2
+[12Jan2025 05:57:25.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/flowerbed
+[12Jan2025 05:57:25.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/farm
+[12Jan2025 05:57:25.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/house/med_3
+[12Jan2025 05:57:25.906] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/chemist
+[12Jan2025 05:57:25.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/library
+[12Jan2025 05:57:25.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/house/small_2
+[12Jan2025 05:57:25.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/smith
+[12Jan2025 05:57:25.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/roads/t_1
+[12Jan2025 05:57:25.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/house/med_2
+[12Jan2025 05:57:25.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/fountain
+[12Jan2025 05:57:25.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/roads/terminator
+[12Jan2025 05:57:25.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/well
+[12Jan2025 05:57:34.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jan2025 05:57:34.766] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jan2025 05:58:08.935] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Jan2025 05:58:43.984] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Jan2025 05:58:43.984] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Jan2025 05:59:34.033] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Jan2025 05:59:41.988] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Jan2025 06:00:09.083] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Jan2025 06:00:09.083] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Jan2025 06:00:26.190] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Jan2025 06:00:48.857] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
