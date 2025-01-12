@@ -962,3 +962,4 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [12Jan2025 06:24:45.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
 [12Jan2025 06:25:51.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
 [12Jan2025 06:26:16.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[12Jan2025 06:52:27.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has completed the challenge [Blossoming]
