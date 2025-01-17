@@ -972,3 +972,5 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [17Jan2025 05:32:26.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
 [17Jan2025 05:32:32.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
 [17Jan2025 05:32:39.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[17Jan2025 05:38:35.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set the weather to rain & thunder]
+[17Jan2025 05:39:52.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set the time to 18000]
