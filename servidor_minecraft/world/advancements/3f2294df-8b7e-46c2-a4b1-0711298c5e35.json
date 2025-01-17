@@ -918,9 +918,13 @@
   },
   "quark:get_all_blossom_saplings": {
     "criteria": {
-      "blue": "2024-11-29 05:18:56 +0000"
+      "orange": "2025-01-12 06:52:26 +0000",
+      "red": "2025-01-12 06:50:06 +0000",
+      "blue": "2024-11-29 05:18:56 +0000",
+      "yellow": "2025-01-12 06:52:27 +0000",
+      "lavender": "2025-01-12 06:50:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "irons_spellbooks:irons_spellbooks/spell_book_evoker": {
     "criteria": {
