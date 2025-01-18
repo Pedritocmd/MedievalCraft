@@ -8953,3 +8953,44 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [18Jan2025 03:04:02.287] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [18Jan2025 03:04:18.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jan2025 03:04:18.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 03:04:45.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -657.500000, 65.500000, -832.500000]
+[18Jan2025 03:04:46.677] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[18Jan2025 03:04:47.823] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/branch_5 is being run through DFU (hash d62f0abd99a57d0c0d5f830bb3ed7ab10f1e04676de130e2c85b9f5e440ea511), this will cause launch time delays
+[18Jan2025 03:04:47.831] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_6 is being run through DFU (hash ddf24bd806e3f131e3b3f33b29e639cdd8ec7203aa8876c072ed0bf0e6d0d5cf), this will cause launch time delays
+[18Jan2025 03:04:47.833] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/banner_2 is being run through DFU (hash daac3aca3ea171b5aabffaf22bc4f3091327df9b097ae527087d83eaabb54490), this will cause launch time delays
+[18Jan2025 03:04:47.834] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/burial_2 is being run through DFU (hash 7a126b333d92d1fec15fbcfef001d2df64430499fdb04a9a678edf1d931243d2), this will cause launch time delays
+[18Jan2025 03:05:01.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Straddle My Ol' Saddle]
+[18Jan2025 03:06:18.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -409.500000, 90.500000, 1109.500000]
+[18Jan2025 03:06:18.433] [Server thread/DEBUG] [ModernFix/]: Structure awesomedungeonocean:ocean_the_column_temple is being run through DFU (hash 86b8341b174a29d085e6655bcfbab09ff87832785274b37c780dc7aa7c2651dc), this will cause launch time delays
+[18Jan2025 03:06:18.781] [Server thread/DEBUG] [ModernFix/]: Structure awesomedungeonocean:ocean_ruin_pillager is being run through DFU (hash 0acf60e6feb24b8393b7eb249c6da7359a883afba69c946cb8396257ed14bbc3), this will cause launch time delays
+[18Jan2025 03:06:20.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
+[18Jan2025 03:06:20.772] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:06:21.678] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:06:21.910] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:06:21.972] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:06:21.972] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:07:22.148] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:07:55.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has reached the goal [New Age Librarian]
+[18Jan2025 03:07:57.154] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:08:24.397] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:08:24.398] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:08:34.998] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:09:20.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 03:09:20.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 03:09:43.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -521.500000, -1.500000, 1105.500000]
+[18Jan2025 03:10:16.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -409.500000, 90.500000, 1109.500000]
+[18Jan2025 03:10:17.015] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:10:57.048] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:10:57.049] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:11:01.747] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:11:08.095] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:11:17.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has completed the challenge [It's Purple!]
+[18Jan2025 03:11:23.597] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:11:44.149] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:12:04.997] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:12:04.998] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:12:37.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Cleared 1 Item!]
+[18Jan2025 03:14:20.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 03:14:20.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 03:14:28.701] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:14:28.702] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot

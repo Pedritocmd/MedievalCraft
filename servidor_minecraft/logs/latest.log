@@ -1001,3 +1001,13 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [18Jan2025 03:02:02.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2231ms or 44 ticks behind
 [18Jan2025 03:02:58.227] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
 [18Jan2025 03:03:39.175] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[18Jan2025 03:04:45.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -657.500000, 65.500000, -832.500000]
+[18Jan2025 03:04:46.677] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[18Jan2025 03:05:01.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Straddle My Ol' Saddle]
+[18Jan2025 03:06:18.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -409.500000, 90.500000, 1109.500000]
+[18Jan2025 03:06:20.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
+[18Jan2025 03:07:55.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has reached the goal [New Age Librarian]
+[18Jan2025 03:09:43.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -521.500000, -1.500000, 1105.500000]
+[18Jan2025 03:10:16.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -409.500000, 90.500000, 1109.500000]
+[18Jan2025 03:11:17.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has completed the challenge [It's Purple!]
+[18Jan2025 03:12:37.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Cleared 1 Item!]
