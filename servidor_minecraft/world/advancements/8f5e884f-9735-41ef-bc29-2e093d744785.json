@@ -141,6 +141,7 @@
       "minecraft:snowy_plains": "2024-11-16 02:05:31 +0000",
       "minecraft:stony_shore": "2024-11-19 05:04:48 +0000",
       "minecraft:snowy_taiga": "2024-11-30 02:46:54 +0000",
+      "minecraft:dripstone_caves": "2025-01-18 04:56:35 +0000",
       "minecraft:grove": "2024-11-30 02:46:47 +0000",
       "minecraft:swamp": "2024-12-02 05:31:45 +0000",
       "minecraft:jagged_peaks": "2024-11-30 02:47:58 +0000",
@@ -1245,6 +1246,18 @@
   "cataclysm:kill_ignis": {
     "criteria": {
       "ignis": "2024-12-26 01:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-01-18 04:57:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-01-18 04:57:43 +0000"
     },
     "done": true
   },

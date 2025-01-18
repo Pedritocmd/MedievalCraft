@@ -132,6 +132,7 @@
       "minecraft:stony_shore": "2024-11-17 05:38:16 +0000",
       "minecraft:snowy_plains": "2024-12-09 03:17:22 +0000",
       "minecraft:snowy_taiga": "2024-12-09 03:18:09 +0000",
+      "minecraft:dripstone_caves": "2025-01-18 04:56:31 +0000",
       "minecraft:grove": "2024-11-17 06:34:52 +0000",
       "minecraft:jagged_peaks": "2024-11-17 06:35:45 +0000",
       "minecraft:cold_ocean": "2024-11-17 06:00:10 +0000",
@@ -176,6 +177,8 @@
       "minecraft:cave_spider": "2024-12-09 02:56:06 +0000",
       "minecraft:piglin": "2024-12-09 04:21:16 +0000",
       "minecraft:stray": "2024-12-14 04:34:00 +0000",
+      "minecraft:enderman": "2025-01-18 04:58:51 +0000",
+      "minecraft:endermite": "2025-01-18 05:00:41 +0000",
       "minecraft:zombie": "2024-11-17 06:36:51 +0000"
     },
     "done": false
@@ -504,6 +507,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-01-18 04:57:47 +0000"
+    },
+    "done": true
+  },
   "quark:throw_pickarang": {
     "criteria": {
       "throw_pickarang": "2025-01-18 04:50:25 +0000"
@@ -513,6 +522,12 @@
   "quark:get_diamond_heart": {
     "criteria": {
       "get_diamond_heart": "2025-01-18 04:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-01-18 04:57:47 +0000"
     },
     "done": true
   },
