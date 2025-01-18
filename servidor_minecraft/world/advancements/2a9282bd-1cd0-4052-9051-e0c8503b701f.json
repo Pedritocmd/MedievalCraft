@@ -539,9 +539,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-01-18 06:00:50 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_heavenly_conqueror": {
     "criteria": {
       "location0": "2025-01-18 05:11:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-01-18 05:52:56 +0000"
     },
     "done": true
   },
@@ -566,6 +578,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-01-18 04:57:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-01-18 06:01:45 +0000"
     },
     "done": true
   },

@@ -121,6 +121,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-14 04:28:36 +0000",
       "cooked_beef": "2024-11-16 06:15:48 +0000",
+      "chorus_fruit": "2025-01-18 06:08:53 +0000",
       "pumpkin_pie": "2024-11-18 04:38:55 +0000",
       "bread": "2024-11-16 04:10:15 +0000",
       "golden_apple": "2024-11-16 06:40:19 +0000",
@@ -863,6 +864,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-01-18 06:00:05 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_heavenly_conqueror": {
     "criteria": {
       "location0": "2025-01-18 05:10:33 +0000"
@@ -884,6 +891,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-01-18 04:57:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-01-18 06:01:47 +0000"
     },
     "done": true
   },
