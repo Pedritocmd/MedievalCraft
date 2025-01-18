@@ -211,10 +211,12 @@
       "minecraft:witch": "2024-11-16 04:01:51 +0000",
       "minecraft:wither_skeleton": "2024-12-02 06:08:58 +0000",
       "minecraft:husk": "2024-11-17 07:02:31 +0000",
+      "minecraft:ender_dragon": "2025-01-18 05:05:12 +0000",
       "minecraft:cave_spider": "2024-11-16 04:02:05 +0000",
       "quark:wraith": "2024-12-17 04:04:17 +0000",
       "minecraft:stray": "2024-11-18 22:49:46 +0000",
       "minecraft:silverfish": "2024-12-16 03:59:40 +0000",
+      "minecraft:enderman": "2025-01-18 05:09:41 +0000",
       "minecraft:vex": "2024-12-09 01:20:13 +0000",
       "minecraft:zombie": "2024-11-16 03:59:36 +0000",
       "minecraft:drowned": "2024-11-19 04:57:52 +0000",
@@ -1182,6 +1184,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-01-18 05:05:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_troll": {
     "criteria": {
       "killed_fire_dragon": "2025-01-18 04:56:24 +0000"
@@ -1206,9 +1214,27 @@
     },
     "done": true
   },
+  "majruszsdifficulty:ender_dragon_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-01-18 05:06:04 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_master": {
+    "criteria": {
+      "is_triggered": "2025-01-18 05:05:12 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
       "killed_by": "2025-01-18 04:10:41 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:enderman_teleport_attack": {
+    "criteria": {
+      "teleported_player": "2025-01-18 05:07:31 +0000"
     },
     "done": true
   },

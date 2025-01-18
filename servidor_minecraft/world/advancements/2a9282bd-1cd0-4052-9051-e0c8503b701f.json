@@ -513,15 +513,39 @@
     },
     "done": true
   },
+  "majruszsdifficulty:game_stage_master": {
+    "criteria": {
+      "is_triggered": "2025-01-18 05:05:12 +0000"
+    },
+    "done": true
+  },
   "quark:throw_pickarang": {
     "criteria": {
       "throw_pickarang": "2025-01-18 04:50:25 +0000"
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2025-01-18 05:11:02 +0000"
+    },
+    "done": true
+  },
   "quark:get_diamond_heart": {
     "criteria": {
       "get_diamond_heart": "2025-01-18 04:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-01-18 05:10:59 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:enderman_teleport_attack": {
+    "criteria": {
+      "teleported_player": "2025-01-18 05:06:25 +0000"
     },
     "done": true
   },

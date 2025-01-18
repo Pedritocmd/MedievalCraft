@@ -1255,6 +1255,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:game_stage_master": {
+    "criteria": {
+      "is_triggered": "2025-01-18 05:05:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-01-18 04:57:43 +0000"

@@ -12808,3 +12808,76 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [18Jan2025 05:06:32.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> bueno,me paso a mi camita porque si tengo que laburar mañana y re cansado estoy
 [18Jan2025 05:06:40.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> ahí se cuidan y gracias por el tiempo en el sv <3
 [18Jan2025 05:06:48.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Adios Gooondar graciiias por wstaaar
+[18Jan2025 05:06:51.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> arios precioso
+[18Jan2025 05:06:52.786] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 lost connection: Disconnected
+[18Jan2025 05:06:52.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 left the game
+[18Jan2025 05:07:31.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [I Am Confusion]
+[18Jan2025 05:08:01.067] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [8a74da1a-e9d6-4df9-b95e-7cdb19e4c545]
+[18Jan2025 05:08:21.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ has made the advancement [I Am Confusion]
+[18Jan2025 05:09:09.285] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [cbef8e94-dfdd-4516-9309-ffb4e5452f4a]
+[18Jan2025 05:09:20.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has reached the goal [The Next Generation]
+[18Jan2025 05:09:28.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 05:09:28.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 05:09:57.133] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [8a74da1a-e9d6-4df9-b95e-7cdb19e4c545]
+[18Jan2025 05:09:57.784] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [8a74da1a-e9d6-4df9-b95e-7cdb19e4c545]
+[18Jan2025 05:10:04.796] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [8a74da1a-e9d6-4df9-b95e-7cdb19e4c545]
+[18Jan2025 05:10:20.778] [Worker-Main-36/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0 is being run through DFU (hash e4d498c251a42b89b90d4aea20f03b58e9edd152bf50fbd716640369b97d7db1), this will cause launch time delays
+[18Jan2025 05:10:20.911] [Worker-Main-36/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3 is being run through DFU (hash 32bd1ae2d23fa71616e0c378b422d1e9e13fbf31551051d3f771e728a4fb5d6c), this will cause launch time delays
+[18Jan2025 05:10:21.022] [Worker-Main-36/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1 is being run through DFU (hash b8b12295d93b5da172231e437ecb527d00901657537eae5a5a30d6f971865780), this will cause launch time delays
+[18Jan2025 05:10:21.119] [Worker-Main-36/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_mounted_0 is being run through DFU (hash e2ac74f2492c7f2ca3db9a33497751cab9c13ed04d32afc18dc39b3619361e78), this will cause launch time delays
+[18Jan2025 05:10:21.182] [Worker-Main-36/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_0 is being run through DFU (hash d67860fa6b5fe80aa150cb9dc672a43b2c2eb9955b89cc04679792b2d3145ca4), this will cause launch time delays
+[18Jan2025 05:10:21.185] [Worker-Main-36/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_phantom_rider_0 is being run through DFU (hash ca9e0e2b70f65a0980baf59dd19382a9724c1e1907fbe9eb6c9609ec1393c020), this will cause launch time delays
+[18Jan2025 05:10:21.190] [Worker-Main-36/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_1 is being run through DFU (hash d67860fa6b5fe80aa150cb9dc672a43b2c2eb9955b89cc04679792b2d3145ca4), this will cause launch time delays
+[18Jan2025 05:10:21.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ has made the advancement [Remote Getaway]
+[18Jan2025 05:10:23.377] [Server thread/DEBUG] [ModernFix/]: Structure endlessbiomes:arkan_ruin_hidden_barrel is being run through DFU (hash 5be80baeb3bae43925d4d45b1d9abeb2beab2b5d3b69523e05b155b891aa0214), this will cause launch time delays
+[18Jan2025 05:10:30.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Remote Getaway]
+[18Jan2025 05:10:33.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ has made the advancement [Ghost Riders In The Sky]
+[18Jan2025 05:10:38.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> WEEEEEEEE
+[18Jan2025 05:10:40.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> XDDDDD
+[18Jan2025 05:10:42.645] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 05:10:43.051] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 05:10:44.160] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 05:10:44.160] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 05:10:44.160] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 05:10:48.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Ghost Riders In The Sky]
+[18Jan2025 05:10:52.064] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[18Jan2025 05:10:52.065] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[18Jan2025 05:10:57.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo has made the advancement [Remote Getaway]
+[18Jan2025 05:10:59.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo has made the advancement [Remote Getaway]
+[18Jan2025 05:11:01.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Bueno, yo paso a momir, que tengo mañana un dia pesado
+[18Jan2025 05:11:02.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo has made the advancement [Ghost Riders In The Sky]
+[18Jan2025 05:11:10.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo has made the advancement [Ghost Riders In The Sky]
+[18Jan2025 05:11:13.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Suerteee y sowy por no quedarme tanto tiempo <3
+[18Jan2025 05:11:20.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Los tkm a todos
+[18Jan2025 05:11:28.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ADIOS PEPII GARCIIIIIIAS
+[18Jan2025 05:11:30.758] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[18Jan2025 05:11:34.564] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [cbef8e94-dfdd-4516-9309-ffb4e5452f4a]
+[18Jan2025 05:11:35.113] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[18Jan2025 05:11:37.754] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 lost connection: Disconnected
+[18Jan2025 05:11:37.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 left the game
+[18Jan2025 05:11:42.332] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[18Jan2025 05:11:56.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[18Jan2025 05:12:06.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! -4.860720042730236,0.0,9.682172162061036
+[18Jan2025 05:12:23.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo fell out of the world
+[18Jan2025 05:12:26.220] [Server thread/DEBUG] [twilightforest/]: Player NoSoyYoshiGordo (2a9282bd-1cd0-4052-9051-e0c8503b701f) respawned and received items held in storage
+[18Jan2025 05:13:17.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> YOSHII :O
+[18Jan2025 05:13:22.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> pERDISTES LAS COAS?
+[18Jan2025 05:13:24.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[18Jan2025 05:13:29.245] [Server thread/DEBUG] [ModernFix/]: Structure endlessbiomes:arkan_spire_3 is being run through DFU (hash e2def6a1dbecd61b98a8fc66d9f0c99b5034a903fe2442037cc2adabb93082a1), this will cause launch time delays
+[18Jan2025 05:13:30.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to JhynMC]
+[18Jan2025 05:13:48.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported junior_mtz_ to JhynMC]
+[18Jan2025 05:13:57.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoSoyYoshiGordo: Teleported NoSoyYoshiGordo to Pepeowo]
+[18Jan2025 05:14:10.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Le perdio en el vació Yoshi?
+[18Jan2025 05:14:28.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[18Jan2025 05:14:28.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 05:14:28.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 05:14:44.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to junior_mtz_]
+[18Jan2025 05:14:46.788] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [cbef8e94-dfdd-4516-9309-ffb4e5452f4a]
+[18Jan2025 05:14:58.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> era todo?
+[18Jan2025 05:14:59.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[18Jan2025 05:15:34.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported NoSoyYoshiGordo to JhynMC]
+[18Jan2025 05:15:42.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo has made the advancement [I Am Confusion]
+[18Jan2025 05:15:47.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported NoSoyYoshiGordo to JhynMC]
+[18Jan2025 05:16:06.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported NoSoyYoshiGordo to JhynMC]
+[18Jan2025 05:16:17.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to junior_mtz_]
+[18Jan2025 05:16:27.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported NoSoyYoshiGordo to JhynMC]
