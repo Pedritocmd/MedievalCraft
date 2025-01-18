@@ -1154,3 +1154,35 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [18Jan2025 04:15:46.310] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoSoyYoshiGordo[/127.149.90.143:41685] logged in with entity id 32405 at (-240.5, 81.04286129178, 1038.5)
 [18Jan2025 04:15:46.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo joined the game
 [18Jan2025 04:15:46.362] [Server thread/INFO] [Jade/]: Syncing config to NoSoyYoshiGordo (2a9282bd-1cd0-4052-9051-e0c8503b701f)
+[18Jan2025 04:16:05.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Gonda dentro de un rato entra
+[18Jan2025 04:16:06.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> skin set "link"
+[18Jan2025 04:16:13.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Con comillas
+[18Jan2025 04:16:16.447] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoSoyYoshiGordo lost connection: Timed out
+[18Jan2025 04:16:16.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo left the game
+[18Jan2025 04:16:38.050] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player NoSoyYoshiGordo is 2a9282bd-1cd0-4052-9051-e0c8503b701f
+[18Jan2025 04:16:50.759] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoSoyYoshiGordo[/127.149.90.143:42293] logged in with entity id 32560 at (-240.5, 81.04286129178, 1038.5)
+[18Jan2025 04:16:50.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo joined the game
+[18Jan2025 04:16:50.810] [Server thread/INFO] [Jade/]: Syncing config to NoSoyYoshiGordo (2a9282bd-1cd0-4052-9051-e0c8503b701f)
+[18Jan2025 04:17:20.897] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoSoyYoshiGordo lost connection: Timed out
+[18Jan2025 04:17:20.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo left the game
+[18Jan2025 04:18:15.145] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a1b84d6[id=<null>,name=NoSoyYoshiGordo,properties={},legacy=false] (/127.149.90.143:41859) lost connection: Disconnected
+[18Jan2025 04:18:29.157] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player NoSoyYoshiGordo is 2a9282bd-1cd0-4052-9051-e0c8503b701f
+[18Jan2025 04:18:45.408] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoSoyYoshiGordo[/127.149.90.143:40885] logged in with entity id 32820 at (-240.5, 81.04286129178, 1038.5)
+[18Jan2025 04:18:45.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo joined the game
+[18Jan2025 04:18:45.473] [Server thread/INFO] [Jade/]: Syncing config to NoSoyYoshiGordo (2a9282bd-1cd0-4052-9051-e0c8503b701f)
+[18Jan2025 04:18:59.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied skin changes for junior_mtz_]
+[18Jan2025 04:19:15.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoSoyYoshiGordo lost connection: Timed out
+[18Jan2025 04:19:15.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo left the game
+[18Jan2025 04:20:19.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> BAILEEEE
+[18Jan2025 04:20:39.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> JAJAJAJJAJAJAJA
+[18Jan2025 04:23:42.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Perenme toi con Yashi
+[18Jan2025 04:24:33.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Baila to tieso
+[18Jan2025 04:24:44.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> JAJAJAAJJAJAJ
+[18Jan2025 04:25:29.288] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Gondar_80 is 8f5e884f-9735-41ef-bc29-2e093d744785
+[18Jan2025 04:25:31.376] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gondar_80[/127.133.221.166:43337] logged in with entity id 34831 at (-1305.4906580808793, 32.0, -1211.8023396346773)
+[18Jan2025 04:25:31.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 joined the game
+[18Jan2025 04:25:31.393] [Server thread/INFO] [Jade/]: Syncing config to Gondar_80 (8f5e884f-9735-41ef-bc29-2e093d744785)
+[18Jan2025 04:25:37.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <junior_mtz_> GONDAAAAAAAAAAAAAAAAAAR
+[18Jan2025 04:25:47.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> Oa
+[18Jan2025 04:25:53.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> cmo tan?
+[18Jan2025 04:25:55.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> y ontan?
