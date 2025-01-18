@@ -157,6 +157,7 @@
       "minecraft:creeper": "2024-11-16 03:57:18 +0000",
       "minecraft:slime": "2024-11-16 05:53:48 +0000",
       "minecraft:evoker": "2024-12-09 00:44:42 +0000",
+      "minecraft:phantom": "2025-01-18 04:49:27 +0000",
       "minecraft:zombified_piglin": "2024-12-02 03:05:02 +0000",
       "minecraft:witch": "2024-11-16 04:34:29 +0000",
       "minecraft:wither_skeleton": "2024-12-02 02:54:07 +0000",
@@ -979,6 +980,18 @@
   "iceandfire:iceandfire/dragonarmor": {
     "criteria": {
       "iron": "2024-12-17 03:26:31 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_villager": {
+    "criteria": {
+      "requirement": "2025-01-18 04:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-01-18 04:54:18 +0000"
     },
     "done": true
   },

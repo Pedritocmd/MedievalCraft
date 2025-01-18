@@ -10,6 +10,7 @@
       "muskeg": "2024-12-09 02:56:43 +0000",
       "shrubland": "2024-11-17 05:48:52 +0000",
       "snowblossom_grove": "2024-12-09 03:07:14 +0000",
+      "rocky_shrubland": "2025-01-18 04:36:40 +0000",
       "scrubland": "2024-11-17 05:41:09 +0000",
       "highland": "2024-11-17 05:23:50 +0000",
       "jade_cliffs": "2024-11-17 05:47:45 +0000",
@@ -494,6 +495,24 @@
   "majruszsdifficulty:recipes/misc/tattered_armor": {
     "criteria": {
       "has_cloth": "2024-12-14 04:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-01-18 04:52:53 +0000"
+    },
+    "done": true
+  },
+  "quark:throw_pickarang": {
+    "criteria": {
+      "throw_pickarang": "2025-01-18 04:50:25 +0000"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2025-01-18 04:37:10 +0000"
     },
     "done": true
   },

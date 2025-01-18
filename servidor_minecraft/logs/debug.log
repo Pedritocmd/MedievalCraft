@@ -12468,3 +12468,212 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [18Jan2025 04:35:56.498] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['JhynMC'/37232, l='ServerLevel[world]', x=-6154.34, y=-4.83, z=8133.61] died: JhynMC was slain by Warden
 [18Jan2025 04:36:01.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ya estoy los que quiern venir
 [18Jan2025 04:36:08.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to junior_mtz_]
+[18Jan2025 04:36:10.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[18Jan2025 04:36:21.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported junior_mtz_ to JhynMC]
+[18Jan2025 04:36:24.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[18Jan2025 04:36:33.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported junior_mtz_ to JhynMC]
+[18Jan2025 04:36:40.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported NoSoyYoshiGordo to JhynMC]
+[18Jan2025 04:36:44.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported junior_mtz_ to JhynMC]
+[18Jan2025 04:37:04.616] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:37:10.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo has made the advancement [Shape of My Heart]
+[18Jan2025 04:37:20.313] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:37:29.317] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:37:33.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo burned to death
+[18Jan2025 04:37:35.294] [Server thread/DEBUG] [twilightforest/]: Player NoSoyYoshiGordo (2a9282bd-1cd0-4052-9051-e0c8503b701f) respawned and received items held in storage
+[18Jan2025 04:37:42.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported NoSoyYoshiGordo to JhynMC]
+[18Jan2025 04:37:45.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Sobre las que?
+[18Jan2025 04:37:52.062] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:emerald" - querying recipes to get these
+[18Jan2025 04:37:52.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported junior_mtz_ to JhynMC]
+[18Jan2025 04:37:56.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo has made the advancement [Enlightenment]
+[18Jan2025 04:37:56.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Gave 1 [Villager Bible] to Pepeowo]
+[18Jan2025 04:38:09.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> NOOO
+[18Jan2025 04:38:18.109] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:38:47.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Gave 20 [Legendary Ink] to Pepeowo]
+[18Jan2025 04:38:53.160] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:38:59.162] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:39:15.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> HJAJAJAJA
+[18Jan2025 04:39:16.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> xD
+[18Jan2025 04:39:19.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> JKAKSAKSALSKAL
+[18Jan2025 04:39:20.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 04:39:20.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 04:39:22.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> we que risa
+[18Jan2025 04:39:24.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> JJAJAAJA
+[18Jan2025 04:39:29.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Para un boomerang}
+[18Jan2025 04:39:54.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to 22141.500000, 72.500000, 18046.500000]
+[18Jan2025 04:40:13.737] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1 is being run through DFU (hash 37ef6f4972c94afb67d5a690a01f1306e3ef29e3a91f1596a36fe29f2f45d3aa), this will cause launch time delays
+[18Jan2025 04:40:13.764] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_dolphin_rider_0 is being run through DFU (hash 1f9b876cb636d613be0e47da963f52244d3223d6db1ab032fe8efbe5e26e5d7c), this will cause launch time delays
+[18Jan2025 04:40:13.858] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_ranged_skeleton_0 is being run through DFU (hash 61d29d193d1139b67226abf029f5b776a5efae41eb5aceaf490bcc9e2a907837), this will cause launch time delays
+[18Jan2025 04:40:13.864] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0
+[18Jan2025 04:40:13.865] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_skeleton_juggernaut_1 is being run through DFU (hash 7c7633cb61709997f1b3b280ac0b87da6fce4c7cb1a7b7fbcd21ccc3d0376469), this will cause launch time delays
+[18Jan2025 04:40:13.872] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_captain_0 is being run through DFU (hash c7f790a5d8bf7e5b0a7c913e354345227e83176db166f9633a906fa71b6c29cf), this will cause launch time delays
+[18Jan2025 04:40:15.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to 22249.500000, 1.500000, 18012.500000]
+[18Jan2025 04:40:24.082] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6162, y=-3, z=8119} BlockPos{x=-6161, y=-2, z=8121}
+[18Jan2025 04:40:30.168] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:40:38.025] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:40:52.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[18Jan2025 04:40:55.070] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6161, y=-3, z=8121} BlockPos{x=-6159, y=-1, z=8119}
+[18Jan2025 04:41:00.228] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:41:00.228] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:41:00.228] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:41:00.341] [Worker-Main-87/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/dark_forest/base_plate is being run through DFU (hash 1bb85056d7285c01e36adeffa5cd63d82233b6f2ae3601c424847bb273f6f4f4), this will cause launch time delays
+[18Jan2025 04:41:00.356] [Worker-Main-87/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/jungle/feature_plates is being run through DFU (hash 71b0d587ac50936156535c178f8bbb43fbcf669079a9d81611f54b69722503bd), this will cause launch time delays
+[18Jan2025 04:41:00.369] [Worker-Main-87/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/jungle/tower is being run through DFU (hash 1db19fbf2ba2301a15c3287dcd13b1afe7e86aac10663ae7e670872e71ec09df), this will cause launch time delays
+[18Jan2025 04:41:00.395] [Worker-Main-87/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/jungle/cook_tent is being run through DFU (hash 79918da3ffd4e74530f35e58f3f9f8efe277fdf3a1cb22d94675446ee687b856), this will cause launch time delays
+[18Jan2025 04:41:00.401] [Worker-Main-87/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/jungle/golem_cage is being run through DFU (hash 81f93af5103565b4bdf3d9a5e01ff4f84585f39fee8903518454fedc1774b866), this will cause launch time delays
+[18Jan2025 04:41:00.409] [Worker-Main-87/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/jungle/log is being run through DFU (hash 89b8b6a3710d1df9661075466c20bfe9f1c4bf2b503dedc05304f381b3aaf80f), this will cause launch time delays
+[18Jan2025 04:41:00.410] [Worker-Main-87/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/jungle/ravager_cage is being run through DFU (hash 319682a2b439aebddbcd0de70bff0a4f3c1df1045f695cf9ba86a2e5fead9c11), this will cause launch time delays
+[18Jan2025 04:41:00.425] [Worker-Main-87/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/jungle/smith_tent is being run through DFU (hash e0b2bfb39b3fea470f55ba3b33b1155ad1bd586be351a23281404e22c73f0393), this will cause launch time delays
+[18Jan2025 04:41:00.440] [Worker-Main-87/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/jungle/cage is being run through DFU (hash d9e179696473df03dea62a1f6340d0f96034c12d68ea51e33cd31b5a393cc283), this will cause launch time delays
+[18Jan2025 04:41:00.446] [Worker-Main-87/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/jungle/targets is being run through DFU (hash 542ca1263ceb3674f97fc10bda03c553e2b14fc9fbbf25a738ed6c667c904ed4), this will cause launch time delays
+[18Jan2025 04:41:02.265] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:41:04.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[18Jan2025 04:41:06.718] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:41:14.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to junior_mtz_]
+[18Jan2025 04:41:17.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to junior_mtz_]
+[18Jan2025 04:41:38.188] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [8f5e884f-9735-41ef-bc29-2e093d744785]
+[18Jan2025 04:41:51.394] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6162, y=-4, z=8120} BlockPos{x=-6162, y=-3, z=8120}
+[18Jan2025 04:41:51.943] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [26eb6bca-2515-4870-8b92-fa31e772a054]
+[18Jan2025 04:41:58.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[18Jan2025 04:42:10.645] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [2a9282bd-1cd0-4052-9051-e0c8503b701f]
+[18Jan2025 04:42:16.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -409.500000, 90.500000, 1109.500000]
+[18Jan2025 04:42:19.673] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:42:24.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved wrongly!
+[18Jan2025 04:42:27.316] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:42:33.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported junior_mtz_ to JhynMC]
+[18Jan2025 04:42:40.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> tiene webo?
+[18Jan2025 04:42:42.508] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:42:42.509] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:43:00.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Y su huevo?
+[18Jan2025 04:43:07.657] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:43:16.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> oz
+[18Jan2025 04:43:29.870] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:43:35.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Quieres de ese color?
+[18Jan2025 04:43:42.918] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:43:44.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> pega con esa
+[18Jan2025 04:44:07.960] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:44:11.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> pos ya le puedes bajar vida
+[18Jan2025 04:44:12.323] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [2a9282bd-1cd0-4052-9051-e0c8503b701f]
+[18Jan2025 04:44:17.009] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:44:18.111] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:44:20.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 04:44:20.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 04:44:21.875] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:45:05.965] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:slow 1: [8f5e884f-9735-41ef-bc29-2e093d744785]
+[18Jan2025 04:45:13.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Ya no me ama:c
+[18Jan2025 04:45:15.465] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:45:21.762] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:45:21.763] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:45:37.613] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Pepishikita21'/43295, l='ServerLevel[world]', x=-6163.26, y=-5.00, z=8154.73] died: Pepishikita21 was slain by Gondar_80 using [Teostra]
+[18Jan2025 04:45:39.465] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [8a74da1a-e9d6-4df9-b95e-7cdb19e4c545]
+[18Jan2025 04:45:41.516] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:45:51.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> 5 mins
+[18Jan2025 04:45:51.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to junior_mtz_]
+[18Jan2025 04:46:01.265] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [cbef8e94-dfdd-4516-9309-ffb4e5452f4a]
+[18Jan2025 04:46:10.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> .
+[18Jan2025 04:46:26.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> oigame
+[18Jan2025 04:46:27.111] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:46:30.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoSoyYoshiGordo: Teleported NoSoyYoshiGordo to junior_mtz_]
+[18Jan2025 04:46:40.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Po que me pego?:c
+[18Jan2025 04:46:44.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> poque ti
+[18Jan2025 04:46:51.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Es un escudo
+[18Jan2025 04:47:01.959] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:arrow_volley 1: [3f2294df-8b7e-46c2-a4b1-0711298c5e35]
+[18Jan2025 04:47:37.613] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:47:54.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ora
+[18Jan2025 04:48:00.961] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:slow 1: [2a9282bd-1cd0-4052-9051-e0c8503b701f]
+[18Jan2025 04:48:08.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> 5 mins
+[18Jan2025 04:48:10.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! -9.5502706758121,2.254765059192053,2.441002679019448
+[18Jan2025 04:48:11.108] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:48:20.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[18Jan2025 04:48:23.460] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:48:23.461] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:48:23.461] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:48:24.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[18Jan2025 04:48:39.554] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:48:44.216] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:48:44.217] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:48:45.212] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:49:00.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> a ver
+[18Jan2025 04:49:02.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ora eres de monterey?
+[18Jan2025 04:49:20.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 04:49:20.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 04:49:28.164] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:49:40.463] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:49:42.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Bueno, no es por nada, solo una pregunta
+[18Jan2025 04:49:45.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Te escuchamos y juzgamos
+[18Jan2025 04:49:51.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Se hara el evento?
+[18Jan2025 04:50:08.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Gamerule playersSleepingPercentage is now set to: 1]
+[18Jan2025 04:50:12.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to NoSoyYoshiGordo]
+[18Jan2025 04:50:13.355] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:50:13.355] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:50:25.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo has made the advancement [Somehow, Pickarang Returned]
+[18Jan2025 04:50:28.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> como?
+[18Jan2025 04:50:34.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> si no he estado en el suelo pelon
+[18Jan2025 04:50:34.554] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:50:46.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Bueno vamos al end y hacemos el evento y ya cada uno es libre
+[18Jan2025 04:51:17.610] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:bone" - querying recipes to get these
+[18Jan2025 04:51:18.798] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:51:31.356] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:51:31.357] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:51:34.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> que cul
+[18Jan2025 04:51:36.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> En cualquier wayponit deberían ver un teleport que dice End
+[18Jan2025 04:51:47.593] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[18Jan2025 04:51:47.604] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[18Jan2025 04:51:47.621] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[18Jan2025 04:51:47.625] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_0
+[18Jan2025 04:51:47.625] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_1
+[18Jan2025 04:51:47.626] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_2
+[18Jan2025 04:51:51.421] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:51:54.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Noooooo
+[18Jan2025 04:51:56.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> JAJAJAJJA
+[18Jan2025 04:51:57.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -409.500000, 90.500000, 1109.500000]
+[18Jan2025 04:52:02.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Pinshe desgracia
+[18Jan2025 04:52:20.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoSoyYoshiGordo: Teleported NoSoyYoshiGordo to JhynMC]
+[18Jan2025 04:52:26.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [Eye Spy]
+[18Jan2025 04:52:27.458] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:52:33.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ven Yaas
+[18Jan2025 04:52:38.514] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:52:52.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoSoyYoshiGordo: Teleported NoSoyYoshiGordo to JhynMC]
+[18Jan2025 04:52:53.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo has made the advancement [Eye Spy]
+[18Jan2025 04:52:56.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[18Jan2025 04:53:27.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to junior_mtz_]
+[18Jan2025 04:53:43.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to junior_mtz_]
+[18Jan2025 04:53:48.008] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:53:52.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> lsitos?
+[18Jan2025 04:53:58.816] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:54:03.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ has made the advancement [Eye Spy]
+[18Jan2025 04:54:03.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Fortaleza End se llama el tp
+[18Jan2025 04:54:17.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to JhynMC]
+[18Jan2025 04:54:18.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo has made the advancement [Eye Spy]
+[18Jan2025 04:54:20.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 04:54:20.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 04:54:25.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> AYY LOS SOJOOOS
+[18Jan2025 04:54:26.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> YR
+[18Jan2025 04:54:33.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -409.500000, 90.500000, 1109.500000]
+[18Jan2025 04:54:34.384] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:54:34.921] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:54:35.127] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:54:35.128] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:54:45.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Oiga
+[18Jan2025 04:54:56.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> esa espada es mia Yoshi >:c
+[18Jan2025 04:55:00.015] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:55:00.015] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:55:07.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> A
+[18Jan2025 04:55:15.564] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:55:16.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to junior_mtz_]
+[18Jan2025 04:55:16.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> No, pense que hablabamos de otra espada
+[18Jan2025 04:55:21.340] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:55:21.341] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:55:23.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> a
+[18Jan2025 04:55:32.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> e
+[18Jan2025 04:55:36.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> No he encontrado el portal
+[18Jan2025 04:55:37.740] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 04:55:42.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Esa era la idea xD
+[18Jan2025 04:55:46.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Buscarlo juntos
+[18Jan2025 04:55:50.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -2672.500000, -24.500000, 326.500000]
+[18Jan2025 04:56:01.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -2562.500000, -20.500000, 303.500000]
+[18Jan2025 04:56:06.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[18Jan2025 04:56:12.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepeowo]
+[18Jan2025 04:56:16.392] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_ingot" - querying recipes to get these
+[18Jan2025 04:56:16.690] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:redstone" - querying recipes to get these
+[18Jan2025 04:56:16.740] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:diamond" - querying recipes to get these
+[18Jan2025 04:56:16.790] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
