@@ -75,6 +75,7 @@
       "wasteland": "2024-11-21 19:02:54 +0000",
       "lush_desert": "2024-11-21 16:57:07 +0000",
       "redwood_forest": "2024-11-21 04:26:02 +0000",
+      "visceral_heap": "2025-01-18 04:10:44 +0000",
       "seasonal_orchard": "2024-11-25 03:31:41 +0000",
       "dune_beach": "2024-11-17 05:58:41 +0000",
       "seasonal_forest": "2024-11-16 04:25:16 +0000",
@@ -1099,9 +1100,10 @@
     },
     "done": true
   },
-  "cataclysm:find_sunken_city": {
+  "twilightforest:progression_end": {
     "criteria": {
-      "factory": "2024-12-25 23:04:15 +0000"
+      "previous_progression": "2024-12-25 21:58:29 +0000",
+      "plateau": "2024-12-25 22:04:46 +0000"
     },
     "done": true
   },
@@ -1117,49 +1119,6 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragonsteel_weapon": {
-    "criteria": {
-      "sword": "2024-12-25 23:12:26 +0000"
-    },
-    "done": true
-  },
-  "awesomedungeonocean:ocean_quad/find_normal": {
-    "criteria": {
-      "requirement": "2024-12-25 23:36:58 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_soul_black_smith": {
-    "criteria": {
-      "blacksmith": "2024-12-26 00:37:15 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/skelewag": {
-    "criteria": {
-      "killed_by": "2024-12-25 23:38:26 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/prismarine": {
-    "criteria": {
-      "has_item": "2024-12-25 23:05:09 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/heavy": {
-    "criteria": {
-      "has_item": "2024-12-25 23:26:06 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progression_end": {
-    "criteria": {
-      "previous_progression": "2024-12-25 21:58:29 +0000",
-      "plateau": "2024-12-25 22:04:46 +0000"
-    },
-    "done": true
-  },
   "twilightforest:arctic_armor_dyed": {
     "criteria": {
       "chestplate": "2024-12-25 22:50:34 +0000",
@@ -1169,9 +1128,57 @@
     },
     "done": true
   },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2024-12-25 23:04:15 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2024-12-25 23:05:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "sword": "2024-12-25 23:12:26 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-12-25 23:26:06 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonocean:ocean_quad/find_normal": {
+    "criteria": {
+      "requirement": "2024-12-25 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2024-12-25 23:38:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2024-12-26 00:24:11 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2024-12-26 00:37:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-01-18 04:10:41 +0000"
     },
     "done": true
   },
