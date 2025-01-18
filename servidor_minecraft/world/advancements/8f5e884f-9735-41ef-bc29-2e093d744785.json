@@ -1087,65 +1087,9 @@
     },
     "done": true
   },
-  "cataclysm:find_sunken_city": {
-    "criteria": {
-      "factory": "2024-12-25 23:04:23 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_leviathan": {
-    "criteria": {
-      "ignis": "2024-12-25 23:50:50 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:beanstalk": {
-    "criteria": {
-      "beans": "2024-12-25 21:58:21 +0000",
-      "use_beans": "2024-12-25 21:59:41 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:quest_ram": {
-    "criteria": {
-      "quest_ram_complete": "2024-12-25 22:40:22 +0000"
-    },
-    "done": true
-  },
-  "awesomedungeonocean:ocean_quad/find_normal": {
-    "criteria": {
-      "requirement": "2024-12-25 23:36:00 +0000"
-    },
-    "done": true
-  },
   "twilightforest:ghast_trap": {
     "criteria": {
       "activate_ghast_trap": "2024-12-25 21:38:34 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2024-12-26 00:35:57 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/fish_bones": {
-    "criteria": {
-      "sopa_de_macaco": "2024-12-25 23:38:40 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:giants": {
-    "criteria": {
-      "pickaxe": "2024-12-25 21:58:21 +0000",
-      "giant": "2024-12-25 21:47:05 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_soul_black_smith": {
-    "criteria": {
-      "blacksmith": "2024-12-26 00:38:20 +0000"
     },
     "done": true
   },
@@ -1156,9 +1100,51 @@
     },
     "done": true
   },
-  "cataclysm:find_burning_arena": {
+  "twilightforest:troll": {
     "criteria": {
-      "arena": "2024-12-26 00:51:06 +0000"
+      "troll": "2024-12-25 21:43:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2024-12-25 21:58:21 +0000",
+      "giant": "2024-12-25 21:47:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2024-12-25 21:58:21 +0000",
+      "use_beans": "2024-12-25 21:59:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progression_end": {
+    "criteria": {
+      "previous_progression": "2024-12-25 22:07:26 +0000",
+      "plateau": "2024-12-25 22:02:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:quest_ram": {
+    "criteria": {
+      "quest_ram_complete": "2024-12-25 22:40:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arctic_armor_dyed": {
+    "criteria": {
+      "chestplate": "2024-12-25 22:46:38 +0000",
+      "helmet": "2024-12-25 22:46:39 +0000",
+      "boots": "2024-12-25 22:46:34 +0000",
+      "leggings": "2024-12-25 22:46:36 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2024-12-25 23:04:23 +0000"
     },
     "done": true
   },
@@ -1168,15 +1154,45 @@
     },
     "done": true
   },
+  "awesomedungeonocean:ocean_quad/find_normal": {
+    "criteria": {
+      "requirement": "2024-12-25 23:36:00 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/skelewag": {
     "criteria": {
       "killed_by": "2024-12-25 23:38:18 +0000"
     },
     "done": true
   },
-  "cataclysm:kill_ignis": {
+  "alexsmobs:alexsmobs/fish_bones": {
     "criteria": {
-      "ignis": "2024-12-26 01:02:27 +0000"
+      "sopa_de_macaco": "2024-12-25 23:38:40 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag_skull": {
+    "criteria": {
+      "skull": "2024-12-25 23:38:45 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2024-12-25 23:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-26 00:24:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-26 00:24:06 +0000"
     },
     "done": true
   },
@@ -1190,15 +1206,21 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "entered_nether": "2024-12-26 00:24:06 +0000"
+      "in_better_fortress": "2024-12-26 00:24:08 +0000"
     },
     "done": true
   },
-  "cataclysm:kill_revenant": {
+  "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
-      "endergolem": "2024-12-26 00:52:07 +0000"
+      "killed_by": "2024-12-26 00:35:57 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2024-12-26 00:38:20 +0000"
     },
     "done": true
   },
@@ -1208,43 +1230,21 @@
     },
     "done": true
   },
-  "twilightforest:troll": {
+  "cataclysm:find_burning_arena": {
     "criteria": {
-      "troll": "2024-12-25 21:43:37 +0000"
+      "arena": "2024-12-26 00:51:06 +0000"
     },
     "done": true
   },
-  "twilightforest:progression_end": {
+  "cataclysm:kill_revenant": {
     "criteria": {
-      "previous_progression": "2024-12-25 22:07:26 +0000",
-      "plateau": "2024-12-25 22:02:17 +0000"
+      "endergolem": "2024-12-26 00:52:07 +0000"
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "cataclysm:kill_ignis": {
     "criteria": {
-      "entered_nether": "2024-12-26 00:24:06 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:arctic_armor_dyed": {
-    "criteria": {
-      "chestplate": "2024-12-25 22:46:38 +0000",
-      "helmet": "2024-12-25 22:46:39 +0000",
-      "boots": "2024-12-25 22:46:34 +0000",
-      "leggings": "2024-12-25 22:46:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "in_better_fortress": "2024-12-26 00:24:08 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/skelewag_skull": {
-    "criteria": {
-      "skull": "2024-12-25 23:38:45 +0000"
+      "ignis": "2024-12-26 01:02:27 +0000"
     },
     "done": true
   },
