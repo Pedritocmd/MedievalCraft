@@ -1584,6 +1584,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2025-01-18 05:36:32 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/enderiophage": {
     "criteria": {
       "killed_by": "2025-01-18 05:19:43 +0000"

@@ -521,6 +521,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-01-18 05:34:38 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:game_stage_master": {
     "criteria": {
       "is_triggered": "2025-01-18 05:05:12 +0000"
