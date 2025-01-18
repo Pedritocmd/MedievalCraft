@@ -92,7 +92,8 @@
       "bread": "2024-11-17 05:21:08 +0000",
       "golden_apple": "2024-12-09 04:08:27 +0000",
       "rotten_flesh": "2024-12-09 04:38:51 +0000",
-      "golden_carrot": "2024-12-09 04:47:33 +0000"
+      "golden_carrot": "2024-12-09 04:47:33 +0000",
+      "enchanted_golden_apple": "2025-01-18 05:33:03 +0000"
     },
     "done": false
   },
@@ -174,6 +175,7 @@
       "minecraft:witch": "2024-12-09 03:37:56 +0000",
       "minecraft:wither_skeleton": "2024-12-09 04:17:45 +0000",
       "minecraft:husk": "2024-11-17 06:58:44 +0000",
+      "minecraft:shulker": "2025-01-18 05:31:01 +0000",
       "minecraft:cave_spider": "2024-12-09 02:56:06 +0000",
       "minecraft:piglin": "2024-12-09 04:21:16 +0000",
       "minecraft:stray": "2024-12-14 04:34:00 +0000",
@@ -498,6 +500,12 @@
   "majruszsdifficulty:recipes/misc/tattered_armor": {
     "criteria": {
       "has_cloth": "2024-12-14 04:37:32 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-01-18 05:29:56 +0000"
     },
     "done": true
   },

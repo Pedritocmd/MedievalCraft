@@ -202,10 +202,12 @@
       "minecraft:witch": "2024-11-16 04:35:44 +0000",
       "minecraft:wither_skeleton": "2024-12-09 01:40:42 +0000",
       "minecraft:husk": "2024-11-16 06:40:28 +0000",
+      "minecraft:shulker": "2025-01-18 05:29:19 +0000",
       "minecraft:cave_spider": "2024-11-16 04:35:39 +0000",
       "minecraft:stray": "2024-11-16 06:41:54 +0000",
       "minecraft:enderman": "2024-11-21 18:47:13 +0000",
       "minecraft:silverfish": "2024-12-01 23:49:19 +0000",
+      "minecraft:endermite": "2025-01-18 05:24:07 +0000",
       "minecraft:vex": "2024-12-09 01:25:14 +0000",
       "minecraft:zombie": "2024-11-16 04:23:32 +0000",
       "minecraft:drowned": "2024-11-16 04:31:38 +0000",
@@ -828,6 +830,12 @@
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2024-12-16 21:28:16 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-01-18 05:28:56 +0000"
     },
     "done": true
   },

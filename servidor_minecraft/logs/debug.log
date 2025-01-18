@@ -12881,3 +12881,91 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [18Jan2025 05:16:06.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported NoSoyYoshiGordo to JhynMC]
 [18Jan2025 05:16:17.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to junior_mtz_]
 [18Jan2025 05:16:27.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported NoSoyYoshiGordo to JhynMC]
+[18Jan2025 05:16:59.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepeowo]
+[18Jan2025 05:17:03.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported NoSoyYoshiGordo to JhynMC]
+[18Jan2025 05:17:25.556] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [cbef8e94-dfdd-4516-9309-ffb4e5452f4a]
+[18Jan2025 05:17:50.305] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [2a9282bd-1cd0-4052-9051-e0c8503b701f]
+[18Jan2025 05:17:55.583] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 05:18:02.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported NoSoyYoshiGordo to JhynMC]
+[18Jan2025 05:18:32.334] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 05:19:16.842] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1430, y=125, z=-37}) doesn't have enough leaves around top most log
+[18Jan2025 05:19:28.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 05:19:28.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 05:19:35.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! 4.532718823912319,0.0,-9.477618840889392
+[18Jan2025 05:19:43.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Ender Distancing]
+[18Jan2025 05:19:49.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Capsid-19]
+[18Jan2025 05:19:59.755] [Worker-Main-47/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel5 is being run through DFU (hash f760e92d1b0e922087b2c2ce77e9eae21a9ddc080e2b08cc374f5daf614c9cd7), this will cause launch time delays
+[18Jan2025 05:19:59.907] [Worker-Main-47/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel14 is being run through DFU (hash f6b07a6e95f8f46457e747f727872725582756da5910b39a6430cc679038b856), this will cause launch time delays
+[18Jan2025 05:20:00.006] [Worker-Main-47/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel6 is being run through DFU (hash ebd80a096c5b13e6fea284e961b1c97b3c24c782e536609c1a0f14c8b22a0638), this will cause launch time delays
+[18Jan2025 05:20:00.090] [Worker-Main-47/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel15 is being run through DFU (hash bdd0b478476e695a49c18804e08699e09c5a557e27d1ee1e93b1bd7ec4aa8821), this will cause launch time delays
+[18Jan2025 05:20:00.160] [Worker-Main-47/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel4 is being run through DFU (hash 0f8323415d9b378538f4bacd8cbc6e34b9030b7fbbc4baaf48d45a63d1a8feca), this will cause launch time delays
+[18Jan2025 05:20:00.262] [Worker-Main-47/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel13 is being run through DFU (hash e856a6d0abab7d6d830df9a7644e308eddfe7d4cf7c766d8819e14e09bd6927a), this will cause launch time delays
+[18Jan2025 05:20:00.336] [Worker-Main-47/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel2 is being run through DFU (hash c892f45c824ecd31d15de9a086ea330c78362b864db3ad23a92a573a796e9262), this will cause launch time delays
+[18Jan2025 05:20:00.411] [Worker-Main-47/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel11 is being run through DFU (hash 0f9681aab747a7569192298ca6c9492f1d54218c57b3cefc48e7e935f886e613), this will cause launch time delays
+[18Jan2025 05:20:00.484] [Worker-Main-47/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel8 is being run through DFU (hash cf43aea391acc6ba5266ac8ce280b5638e147fd494e65c6d85a5540919c1acb8), this will cause launch time delays
+[18Jan2025 05:20:00.567] [Worker-Main-47/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel17 is being run through DFU (hash f908c8db32ad0f01a3083dc2d794bc7ac1adf4587e53238bdcfeca892c64aeec), this will cause launch time delays
+[18Jan2025 05:20:00.633] [Worker-Main-47/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel1 is being run through DFU (hash 6949334b931aacbfc072e9f6b0a1fd8bc9d326b8114aed2538a08e8923cd8558), this will cause launch time delays
+[18Jan2025 05:20:00.663] [Worker-Main-47/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel10 is being run through DFU (hash d05333de3ddcf2ec40ed4fe2601c3b7ac41247543e75408d04615df083ffbe55), this will cause launch time delays
+[18Jan2025 05:20:00.714] [Worker-Main-47/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel3 is being run through DFU (hash 2cd506227306fabe9de492bb88f74b5eca5038727e05795fe6b6bb34dbec65fa), this will cause launch time delays
+[18Jan2025 05:20:00.740] [Worker-Main-47/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel12 is being run through DFU (hash a269ff037ff376e2e8529651c5c0bae1a4903d6322e094a0d92f8d8565a03e7f), this will cause launch time delays
+[18Jan2025 05:20:00.804] [Worker-Main-47/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel9 is being run through DFU (hash 06f4088a09a33a9fda1450a9bd389a3a00acebc44ee1e37fa0cdb7639705d6f4), this will cause launch time delays
+[18Jan2025 05:20:00.893] [Worker-Main-47/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel18 is being run through DFU (hash f6bb6d4712918e3f766e2b28ce8eefa35f995e3d102ac7e1723ff02e09a678be), this will cause launch time delays
+[18Jan2025 05:20:00.954] [Worker-Main-47/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel7 is being run through DFU (hash b405ea6bdf6d9a186c2cc9718fe508d8ed8d59e3785428407f46a50c92e86d28), this will cause launch time delays
+[18Jan2025 05:20:00.995] [Worker-Main-47/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel16 is being run through DFU (hash c3a0075667cc96a9e603b4dbfb8651446d631e6db023453b6a977f9e6bcad14c), this will cause launch time delays
+[18Jan2025 05:20:54.817] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [8de6b548-f569-49d4-aa85-0619cb379175]
+[18Jan2025 05:21:46.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepeowo]
+[18Jan2025 05:22:26.669] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [ef3e22ff-89c7-4732-8bde-824cf4aa22a0]
+[18Jan2025 05:23:16.680] [Server thread/DEBUG] [ModernFix/]: Structure endlessbiomes:radon_bulwark_base_4 is being run through DFU (hash d6b9ca058bb91fdd743d69ccd6572ce057f2e9618a85ceb388b0ba24bcf43545), this will cause launch time delays
+[18Jan2025 05:23:16.735] [Server thread/DEBUG] [ModernFix/]: Structure endlessbiomes:radon_bulwark_base is being run through DFU (hash c06198ef4f6973676f3ce1f9b1319c34bf8f76050001865c78eac3d3f5865cf8), this will cause launch time delays
+[18Jan2025 05:23:34.024] [Server thread/DEBUG] [ModernFix/]: Structure endlessbiomes:arkan_ruin_needle is being run through DFU (hash c4934d6e734adc980028369ba3d596b477e36ca9a561d9df146029799794a848), this will cause launch time delays
+[18Jan2025 05:24:02.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] e
+[18Jan2025 05:24:28.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 05:24:28.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 05:26:02.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> BArcooos
+[18Jan2025 05:26:08.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [I Am Confusion]
+[18Jan2025 05:26:22.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to JhynMC]
+[18Jan2025 05:26:49.035] [Server thread/DEBUG] [ModernFix/]: Structure endlessbiomes:arkan_ruin_spire_giant is being run through DFU (hash 0b2b005437c66fc8ca9d2b1ba9212fb487a43e153faa6a03874336a84f2e829b), this will cause launch time delays
+[18Jan2025 05:26:52.432] [Worker-Main-47/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_0 is being run through DFU (hash 66c7942fe4784a0f48a5b5ece336de55946b43d21f11f2477641b3d9086ca558), this will cause launch time delays
+[18Jan2025 05:26:52.462] [Worker-Main-47/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_0 is being run through DFU (hash 1497612195e1c3437613f4a0b399542740027b53e57da6c7c6051fe69c109053), this will cause launch time delays
+[18Jan2025 05:26:52.493] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_descent_0
+[18Jan2025 05:26:52.546] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_2
+[18Jan2025 05:26:52.572] [Worker-Main-47/DEBUG] [ModernFix/]: Structure dungeons_arise:coliseum/coliseum_part_0 is being run through DFU (hash 325a5da046a550524137fdf7cebbc04fbeb42dc8d25dda67bc942152fd20b6d1), this will cause launch time delays
+[18Jan2025 05:26:52.592] [Worker-Main-47/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_0 is being run through DFU (hash 743b98ed67dc8d4fa6895ef863e2fd15aeefec076f98784628a49a6f1b57d6eb), this will cause launch time delays
+[18Jan2025 05:26:52.664] [Worker-Main-47/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_crossing_1 is being run through DFU (hash 00ba2bc4598efe8df039eefaabc30fba7918052f5e2bf78c55e96508a85974c2), this will cause launch time delays
+[18Jan2025 05:26:52.708] [Worker-Main-47/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_0 is being run through DFU (hash ddfd5f5b304f9bb66ae85abb59f794d1fff221bf45bd3bcfc112019c236fa79a), this will cause launch time delays
+[18Jan2025 05:26:58.829] [Worker-Main-46/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_1 is being run through DFU (hash 1b76022040df1733fa807a501281a93fdc996931b659899e009d837d595dfe05), this will cause launch time delays
+[18Jan2025 05:26:59.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [A Ruined Citadel]
+[18Jan2025 05:27:07.774] [Server thread/DEBUG] [ModernFix/]: Structure endlessbiomes:arkan_ruin_floating_shrine is being run through DFU (hash 9a4128e970e445dc7a7ee9697a034da10bf091010a73128f7333f08fac7d8fb7), this will cause launch time delays
+[18Jan2025 05:27:41.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Gracias a usted por jugar PEPEEE
+[18Jan2025 05:28:05.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Quieren venir?
+[18Jan2025 05:28:56.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Teleported junior_mtz_ to JhynMC]
+[18Jan2025 05:28:56.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ has made the advancement [A Ruined Citadel]
+[18Jan2025 05:29:08.193] [Server thread/ERROR] [Jade/]: Caught unhandled exception : [INSTANCE] java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_9236_()" because "entity" is null
+[18Jan2025 05:29:08.193] [Server thread/ERROR] [Jade/]: See JadeErrorOutput.txt for more information
+[18Jan2025 05:29:28.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 05:29:28.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 05:29:35.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Creo que esto es para jefe
+[18Jan2025 05:29:48.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Palette Swap]
+[18Jan2025 05:29:55.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoSoyYoshiGordo: Teleported NoSoyYoshiGordo to JhynMC]
+[18Jan2025 05:29:56.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo has made the advancement [A Ruined Citadel]
+[18Jan2025 05:30:15.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepeowo lost connection: Disconnected
+[18Jan2025 05:30:15.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo left the game
+[18Jan2025 05:30:37.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Mi compi Alessandro del rolplais
+[18Jan2025 05:31:00.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to junior_mtz_]
+[18Jan2025 05:31:08.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> JUUM
+[18Jan2025 05:31:34.713] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Jan2025 05:31:34.714] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Jan2025 05:32:47.384] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Jan2025 05:33:04.570] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Jan2025 05:33:41.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> abajo
+[18Jan2025 05:33:53.283] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Jan2025 05:34:26.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported 3 entities to JhynMC]
+[18Jan2025 05:34:28.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 05:34:28.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 05:34:38.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo has made the advancement [Palette Swap]
+[18Jan2025 05:35:28.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported 3 entities to JhynMC]
+[18Jan2025 05:36:15.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ blew up
+[18Jan2025 05:36:32.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has completed the challenge [Was that a Shulker?]
+[18Jan2025 05:37:04.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ was slain by JhynMC using [✞ঔBerserkerঔৣ✞]
+[18Jan2025 05:37:04.939] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['junior_mtz_'/62204, l='ServerLevel[world]', x=1727.50, y=31.50, z=-556.50] died: junior_mtz_ was slain by JhynMC using [✞ঔBerserkerঔৣ✞]
+[18Jan2025 05:37:07.305] [Server thread/DEBUG] [twilightforest/]: Player junior_mtz_ (cbef8e94-dfdd-4516-9309-ffb4e5452f4a) respawned and received items held in storage

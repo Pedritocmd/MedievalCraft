@@ -196,6 +196,7 @@
       "minecraft:witch": "2024-11-16 04:33:00 +0000",
       "minecraft:wither_skeleton": "2024-11-18 23:24:58 +0000",
       "minecraft:husk": "2024-11-16 05:54:45 +0000",
+      "minecraft:shulker": "2025-01-18 05:28:40 +0000",
       "minecraft:cave_spider": "2024-11-16 04:34:00 +0000",
       "quark:wraith": "2024-12-09 06:26:27 +0000",
       "minecraft:piglin": "2024-12-17 04:16:14 +0000",
@@ -1559,6 +1560,12 @@
     },
     "done": true
   },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-01-18 05:26:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/dragon_breath": {
     "criteria": {
       "dragon_breath": "2025-01-18 05:00:10 +0000"
@@ -1568,6 +1575,18 @@
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2025-01-18 04:57:45 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-01-18 05:29:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-01-18 05:19:43 +0000"
     },
     "done": true
   },
@@ -1601,6 +1620,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-01-18 05:19:49 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
     "criteria": {
       "requirement": "2025-01-18 04:03:16 +0000"
@@ -1610,6 +1635,12 @@
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2025-01-18 05:10:30 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:enderman_teleport_attack": {
+    "criteria": {
+      "teleported_player": "2025-01-18 05:26:08 +0000"
     },
     "done": true
   },

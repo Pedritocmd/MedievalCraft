@@ -1449,3 +1449,38 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [18Jan2025 05:16:06.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported NoSoyYoshiGordo to JhynMC]
 [18Jan2025 05:16:17.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to junior_mtz_]
 [18Jan2025 05:16:27.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported NoSoyYoshiGordo to JhynMC]
+[18Jan2025 05:16:59.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepeowo]
+[18Jan2025 05:17:03.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported NoSoyYoshiGordo to JhynMC]
+[18Jan2025 05:18:02.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported NoSoyYoshiGordo to JhynMC]
+[18Jan2025 05:19:35.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! 4.532718823912319,0.0,-9.477618840889392
+[18Jan2025 05:19:43.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Ender Distancing]
+[18Jan2025 05:19:49.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Capsid-19]
+[18Jan2025 05:21:46.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepeowo]
+[18Jan2025 05:24:02.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] e
+[18Jan2025 05:26:02.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> BArcooos
+[18Jan2025 05:26:08.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [I Am Confusion]
+[18Jan2025 05:26:22.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to JhynMC]
+[18Jan2025 05:26:59.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [A Ruined Citadel]
+[18Jan2025 05:27:41.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Gracias a usted por jugar PEPEEE
+[18Jan2025 05:28:05.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Quieren venir?
+[18Jan2025 05:28:56.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Teleported junior_mtz_ to JhynMC]
+[18Jan2025 05:28:56.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ has made the advancement [A Ruined Citadel]
+[18Jan2025 05:29:08.193] [Server thread/ERROR] [Jade/]: Caught unhandled exception : [INSTANCE] java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_9236_()" because "entity" is null
+[18Jan2025 05:29:08.193] [Server thread/ERROR] [Jade/]: See JadeErrorOutput.txt for more information
+[18Jan2025 05:29:35.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Creo que esto es para jefe
+[18Jan2025 05:29:48.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Palette Swap]
+[18Jan2025 05:29:55.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NoSoyYoshiGordo: Teleported NoSoyYoshiGordo to JhynMC]
+[18Jan2025 05:29:56.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo has made the advancement [A Ruined Citadel]
+[18Jan2025 05:30:15.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepeowo lost connection: Disconnected
+[18Jan2025 05:30:15.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo left the game
+[18Jan2025 05:30:37.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Mi compi Alessandro del rolplais
+[18Jan2025 05:31:00.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to junior_mtz_]
+[18Jan2025 05:31:08.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> JUUM
+[18Jan2025 05:33:41.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> abajo
+[18Jan2025 05:34:26.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported 3 entities to JhynMC]
+[18Jan2025 05:34:38.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo has made the advancement [Palette Swap]
+[18Jan2025 05:35:28.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported 3 entities to JhynMC]
+[18Jan2025 05:36:15.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ blew up
+[18Jan2025 05:36:32.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has completed the challenge [Was that a Shulker?]
+[18Jan2025 05:37:04.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ was slain by JhynMC using [✞ঔBerserkerঔৣ✞]
+[18Jan2025 05:37:04.939] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['junior_mtz_'/62204, l='ServerLevel[world]', x=1727.50, y=31.50, z=-556.50] died: junior_mtz_ was slain by JhynMC using [✞ঔBerserkerঔৣ✞]
