@@ -1033,3 +1033,20 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [18Jan2025 03:32:14.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> *se hace pis*
 [18Jan2025 03:34:19.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Pepe, Pepi, Gondar Yashi y Ruben supuestamente
 [18Jan2025 03:34:38.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> :C
+[18Jan2025 03:35:31.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> dejame ver
+[18Jan2025 03:35:49.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Quieres ir por dragones fuego?
+[18Jan2025 03:36:21.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -6159.500000, -4.500000, 8143.500000]
+[18Jan2025 03:36:40.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: junior_mtz_ moved wrongly!
+[18Jan2025 03:36:40.962] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Disconnected
+[18Jan2025 03:36:40.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
+[18Jan2025 03:36:40.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC was slain by Fire Dragon
+[18Jan2025 03:36:41.068] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Jan2025 03:37:01.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] xd
+[18Jan2025 03:37:42.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] y se me cierra xd
+[18Jan2025 03:41:29.410] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JhynMC is 3f2294df-8b7e-46c2-a4b1-0711298c5e35
+[18Jan2025 03:41:34.926] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhynMC[/127.242.210.13:51495] logged in with entity id 19795 at (-6161.4853515625, 1.0609681606292725, 8135.3056640625)
+[18Jan2025 03:41:34.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC joined the game
+[18Jan2025 03:41:34.947] [Server thread/INFO] [Jade/]: Syncing config to JhynMC (3f2294df-8b7e-46c2-a4b1-0711298c5e35)
+[18Jan2025 03:42:56.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -6161.500000, -5.500000, 8135.500000]
+[18Jan2025 03:43:24.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[18Jan2025 03:43:44.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> el dragón ta molesto xd
