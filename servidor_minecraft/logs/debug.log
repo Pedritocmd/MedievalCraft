@@ -8837,3 +8837,119 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [18Jan2025 02:53:28.748] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [18Jan2025 02:53:51.300] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [18Jan2025 02:53:51.301] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 02:54:16.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 02:54:16.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 02:54:54.500] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 02:54:58.700] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 02:56:04.149] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 02:57:20.502] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 02:57:20.503] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 02:58:16.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -1273.500000, 62.500000, 5.500000]
+[18Jan2025 02:58:17.886] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 02:58:18.459] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 02:58:18.503] [Server thread/DEBUG] [ModernFix/]: Structure ribbits:paths/path_deadend_0 is being run through DFU (hash f4a1c04a06f046a307fad4edb28116ddcc7062a9acca30c9ab79ac5ad960f51f), this will cause launch time delays
+[18Jan2025 02:58:18.569] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_3_0
+[18Jan2025 02:58:18.570] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_bridge
+[18Jan2025 02:58:18.570] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_turn_1
+[18Jan2025 02:58:18.571] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_straight_0
+[18Jan2025 02:58:18.571] [Server thread/DEBUG] [ModernFix/]: Structure ribbits:houses/small_house_red_2 is being run through DFU (hash a91945113b28214f5be8935efdbb4c42f6ec469bf9ca9bae5074a0579023d20a), this will cause launch time delays
+[18Jan2025 02:58:18.579] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_red_1
+[18Jan2025 02:58:18.580] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:decor/lamp_post
+[18Jan2025 02:58:18.580] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_turn_0
+[18Jan2025 02:58:18.581] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_nitwit
+[18Jan2025 02:58:18.582] [Server thread/DEBUG] [ModernFix/]: Structure ribbits:houses/lg_brown_house_1 is being run through DFU (hash d661912783c0ee70fd276e74e8f87dd8c7e37024260289d45ba3aef88d976167), this will cause launch time delays
+[18Jan2025 02:58:18.594] [Server thread/DEBUG] [ModernFix/]: Structure ribbits:houses/small_house_brown_3 is being run through DFU (hash 329dd885fd3a26fbf809cc37b74696799bea2e5397a6dd645810261bfbb1055a), this will cause launch time delays
+[18Jan2025 02:58:18.602] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_deadend_nohouse
+[18Jan2025 02:58:18.604] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/brown_fishing_house
+[18Jan2025 02:58:18.606] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_merchant
+[18Jan2025 02:58:18.607] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_fisherman
+[18Jan2025 02:58:18.608] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/md_brown_house_1
+[18Jan2025 02:58:18.610] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_gardener
+[18Jan2025 02:58:19.588] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 02:59:16.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 02:59:16.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 02:59:30.289] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 02:59:33.588] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 02:59:34.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -312.500000, 65.500000, 698.500000]
+[18Jan2025 02:59:35.718] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[18Jan2025 02:59:35.731] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[18Jan2025 02:59:35.746] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_5
+[18Jan2025 02:59:35.950] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 02:59:36.195] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 02:59:36.306] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:00:17.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to 2646.500000, 63.500000, 2130.500000]
+[18Jan2025 03:00:19.442] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:00:54.191] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:00:54.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -540.500000, 63.500000, 2855.500000]
+[18Jan2025 03:00:54.530] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/beach/roads/bent_2 is being run through DFU (hash faa5b858e9bb4de13783abdf33b3889deb4f239e047de88544ff93dc86c77673), this will cause launch time delays
+[18Jan2025 03:00:54.542] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/beach/roads/straight is being run through DFU (hash ac6355e2e9589162d9bc5fc97fef49edadc69ece81f579f78169b6e4b5d151c7), this will cause launch time delays
+[18Jan2025 03:00:54.548] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/beach/roads/bent_1 is being run through DFU (hash c946c47a784ab2756b5eaa87c86b1758076e90c322e67ea08ce8291a11875b17), this will cause launch time delays
+[18Jan2025 03:00:54.555] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/fishing_hut is being run through DFU (hash 3459fe90b494cb2333eea8effc8218f2ca525efa90b496a485dc2a08297cc52e), this will cause launch time delays
+[18Jan2025 03:00:54.570] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/beach/house/small_3 is being run through DFU (hash 877641db5b13a5404e364c94b343db6964ba21e4db2007ac0f31b66deaa04289), this will cause launch time delays
+[18Jan2025 03:00:54.589] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/shepherd is being run through DFU (hash 57a3c1590d1ae0ed249a5a3bf6bd90d28c8019bfd4e9d06c33001bb1f13dbd15), this will cause launch time delays
+[18Jan2025 03:00:54.601] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/bench is being run through DFU (hash 77b1acdf7224c860b91230af0d85eb413c00395a5f2825d2ab2e088d897b0210), this will cause launch time delays
+[18Jan2025 03:00:54.602] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/lamp_0 is being run through DFU (hash 77b21f5ca14537315fbb8633b54cd3268e8a17996a05f7f3bb4e17310f516b40), this will cause launch time delays
+[18Jan2025 03:00:54.603] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/lamp_1 is being run through DFU (hash a742078c1ecb2ec49a6f4bf37062eb9fa4e2b2c825c9e0b06439b01a10178952), this will cause launch time delays
+[18Jan2025 03:00:54.604] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/beach/house/big_1 is being run through DFU (hash 3c663e351348868fc499af42ea99b395fa6efd02125fb52cb8074782babd8a4d), this will cause launch time delays
+[18Jan2025 03:00:54.631] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/mason is being run through DFU (hash 90effc802019f521697beec76cb859d9df7de578beaca940a694421ecfc9c6fa), this will cause launch time delays
+[18Jan2025 03:00:54.646] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/boat is being run through DFU (hash bd449d6b061806e2143d8c0a39e65100db07d154909ad77ec350dd3a77316ce6), this will cause launch time delays
+[18Jan2025 03:00:54.647] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/beach/house/mid_2 is being run through DFU (hash 970169706aba8f3e97644dcb7049b95c17b043f15dc4aaf6db69b87bb738ad32), this will cause launch time delays
+[18Jan2025 03:00:54.670] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/priest_tower is being run through DFU (hash 1a402c4f131c910a31897529bbcbf2d68947d13c2b00513db7ad340870607184), this will cause launch time delays
+[18Jan2025 03:00:54.683] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/beach/house/mid_1 is being run through DFU (hash 5a9572bd51355918bfe4061dfa51cd240a1c82514d723314c414ad29a1a843b6), this will cause launch time delays
+[18Jan2025 03:00:54.703] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/beach/house/small_1 is being run through DFU (hash 530fbe4fc1856fe7806067c47b2967d1f59d2d223ab87deb5e9c7e05ec8aec6b), this will cause launch time delays
+[18Jan2025 03:00:54.715] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/lamp_5 is being run through DFU (hash 1dc8f0d7ee016beb251b0d3a06d339be240e46fdb10aff4de5c71cd6879f1698), this will cause launch time delays
+[18Jan2025 03:00:54.716] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/beach/roads/terminator is being run through DFU (hash f6405405e69c80d4accb776136e923e3150f9aafd011193bb71ff2ea04f7d6d5), this will cause launch time delays
+[18Jan2025 03:00:54.717] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/beach/jobsite/chemist is being run through DFU (hash 48e4c8e15cf8ba50ba0877514bdb98c7ada96ca03177169cd4cd418373f246e0), this will cause launch time delays
+[18Jan2025 03:00:54.736] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/lamp_4 is being run through DFU (hash a31f22e3f8f04a8a8bf6ce18651f17310b18cb0c9209bb61d4dc5048d42d3db7), this will cause launch time delays
+[18Jan2025 03:00:54.737] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/lamp_2 is being run through DFU (hash e89955eedd9eeeb0fc28587aac3278ec21a6024f2bd9e3541fc0692371a75a0b), this will cause launch time delays
+[18Jan2025 03:00:54.737] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/beach/deco/lamp_3 is being run through DFU (hash 323b788d9cf1a3e176b08b89fd07b64afded0dc230e7d888654a2cf4894b5fd6), this will cause launch time delays
+[18Jan2025 03:00:55.607] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:00:57.124] [Server thread/DEBUG] [ModernFix/]: Structure awesomedungeonocean:ocean_ruin_vanilla_temple is being run through DFU (hash e95b67b0f8ccd982e454a7c2ac1aa22ae699fe5770170a844ffdd10ab71d9d9e), this will cause launch time delays
+[18Jan2025 03:01:12.907] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:01:28.392] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:01:33.590] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:01:53.289] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:01:54.549] [Server thread/DEBUG] [mixin/]: Mixing PortalShapeMixin from quad.mixins.json into net.minecraft.world.level.portal.PortalShape
+[18Jan2025 03:01:54.549] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$PortalShape$0(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)Z to md8725e7$lambda$PortalShape$0$0 in quad.mixins.json:PortalShapeMixin
+[18Jan2025 03:02:00.411] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[18Jan2025 03:02:00.412] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[18Jan2025 03:02:00.412] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[18Jan2025 03:02:00.412] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[18Jan2025 03:02:00.412] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[18Jan2025 03:02:00.412] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[18Jan2025 03:02:00.413] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[18Jan2025 03:02:00.413] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[18Jan2025 03:02:00.413] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[18Jan2025 03:02:00.413] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[18Jan2025 03:02:00.413] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[18Jan2025 03:02:00.413] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[18Jan2025 03:02:00.414] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[18Jan2025 03:02:00.414] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[18Jan2025 03:02:00.515] [Worker-Main-37/DEBUG] [ModernFix/]: Structure awesomedungeonnether:nth_blaze_tower is being run through DFU (hash 748a1ac3859b30779bd7b9c4e59a6466d02c8c68a903fb4ba2aa7ddce85b82c2), this will cause launch time delays
+[18Jan2025 03:02:00.654] [Worker-Main-36/DEBUG] [ModernFix/]: Structure awesomedungeonnether:nth_absi_palace is being run through DFU (hash 355261364393a5a19a8d6cc0fe2bf0b611d1dc5ff5b1f7ec6c9e875326f24a7c), this will cause launch time delays
+[18Jan2025 03:02:02.389] [Server thread/DEBUG] [ModernFix/]: Structure awesomedungeonnether:nth_accum_quad is being run through DFU (hash 89a94ba1cd408827259294daee5520bd258fb2b76236fc676d5567c473ad003d), this will cause launch time delays
+[18Jan2025 03:02:02.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2231ms or 44 ticks behind
+[18Jan2025 03:02:42.937] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:02:43.316] [Server thread/DEBUG] [ModernFix/]: Structure cataclysm:soulblacksmith2 is being run through DFU (hash eec5fcbc88c7757a9d14fea20520fefc27e2f54c11daf642420c46ad6d53f746), this will cause launch time delays
+[18Jan2025 03:02:43.398] [Server thread/DEBUG] [ModernFix/]: Structure cataclysm:soulblacksmith is being run through DFU (hash f73241e141a2b7af2130785c8c527782dc67664a95f831cef11e7de72b81ad5e), this will cause launch time delays
+[18Jan2025 03:02:58.227] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[18Jan2025 03:02:59.298] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/origin_2 is being run through DFU (hash 68844ac7074ecf17c61cd239d13998b9d0d71df5762896e1662911d68b662ee2), this will cause launch time delays
+[18Jan2025 03:02:59.305] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/branch_1 is being run through DFU (hash 8cef98a1fc9007f28f1de64441fe396fd412ce4e68a05c77026751bc0fc4b03b), this will cause launch time delays
+[18Jan2025 03:02:59.310] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/branch_3 is being run through DFU (hash 3680bbb9c9119f2010313d14f8aa0142e1e52e9c7807dc1fb7355c7af4d714af), this will cause launch time delays
+[18Jan2025 03:02:59.314] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/armor_1 is being run through DFU (hash 2704c91d7f3b3ad1a2906c239be26b2236098d39fbc1227174f46579eca05509), this will cause launch time delays
+[18Jan2025 03:02:59.315] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_2 is being run through DFU (hash a1e5f1426dfae2d1141ce1304042d65a65e86fbffec19b898779fdc5ebcd86aa), this will cause launch time delays
+[18Jan2025 03:02:59.316] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/armor_2 is being run through DFU (hash 8763366e7d287db2bc02cd1ce509901f7aa3131e1e8d1b66f0431889baba97ca), this will cause launch time delays
+[18Jan2025 03:02:59.317] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/piglin_camp is being run through DFU (hash 609396aac7d7b9ab9ab630b0be2eaa3a44b551dcbf91739988963a8190697b58), this will cause launch time delays
+[18Jan2025 03:02:59.346] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/skull_pile is being run through DFU (hash afc9952d0ab4c9b842448a9c669faa2245c1648641ee0f8bb5a56c133f144cab), this will cause launch time delays
+[18Jan2025 03:02:59.349] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_1 is being run through DFU (hash d58544e8d28fc8e0857f64068ea5689162d769d51495dc057ccd999d4df8b9f2), this will cause launch time delays
+[18Jan2025 03:02:59.350] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/burial_4 is being run through DFU (hash 219b7c8cc05414444fff9fb89a2c82ea92cc95e5bc83b1c0b6010d30e8ef5465), this will cause launch time delays
+[18Jan2025 03:02:59.351] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/banner is being run through DFU (hash 9648ba1d74fccde4cd7b727c14f78b19ab6ab222008fcdabf900c4ff96c4e405), this will cause launch time delays
+[18Jan2025 03:02:59.352] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/hill_3 is being run through DFU (hash eaab188e77ed7317bba29aea67a1da8c0808bf0792b751ad55510426cafed424), this will cause launch time delays
+[18Jan2025 03:02:59.355] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_3 is being run through DFU (hash 9dc9b57962b007434f354af5c1bc3c617c2b5f2c4644738812b95a3d9d2a0a61), this will cause launch time delays
+[18Jan2025 03:02:59.356] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_5 is being run through DFU (hash dacf895b3d60674144bfd8935517dc8a68be386b150c6373fce7df436a8289d8), this will cause launch time delays
+[18Jan2025 03:02:59.357] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_7 is being run through DFU (hash b45a59834a01e319502830836d704fc77609557db157edc8d0d4bae74dac630c), this will cause launch time delays
+[18Jan2025 03:03:39.175] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[18Jan2025 03:03:51.386] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:04:02.287] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[18Jan2025 03:04:18.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 03:04:18.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
