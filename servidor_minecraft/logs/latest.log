@@ -1050,3 +1050,58 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [18Jan2025 03:42:56.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -6161.500000, -5.500000, 8135.500000]
 [18Jan2025 03:43:24.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
 [18Jan2025 03:43:44.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> el dragón ta molesto xd
+[18Jan2025 03:45:26.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Quieres venir?
+[18Jan2025 03:45:35.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported junior_mtz_ to JhynMC]
+[18Jan2025 03:45:42.281] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['JhynMC'/20555, l='ServerLevel[world]', x=-6174.82, y=-5.00, z=8158.31] died: JhynMC was incinerated by Fire Dragon
+[18Jan2025 03:45:42.484] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['JhynMC'/21747, l='ServerLevel[world]', x=-6178.66, y=-5.00, z=8151.69] died: JhynMC was turned into KFC by Fire Dragon
+[18Jan2025 03:45:43.532] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['JhynMC'/20552, l='ServerLevel[world]', x=-6162.21, y=-5.00, z=8151.66] died: JhynMC was turned into KFC by Fire Dragon
+[18Jan2025 03:45:44.884] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['JhynMC'/21726, l='ServerLevel[world]', x=-6173.99, y=-5.00, z=8151.98] died: JhynMC was burnt to a crisp whilst fighting Fire Dragon
+[18Jan2025 03:46:07.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to junior_mtz_]
+[18Jan2025 03:46:33.347] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Pepeowo is 6f0520c6-d3ad-47b6-ab4f-efe625741aac
+[18Jan2025 03:46:34.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[18Jan2025 03:46:35.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepeowo[/127.121.247.159:46053] logged in with entity id 22145 at (1687.7516281741564, 142.0, 3269.004521591588)
+[18Jan2025 03:46:35.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo joined the game
+[18Jan2025 03:46:37.035] [Server thread/INFO] [Jade/]: Syncing config to Pepeowo (6f0520c6-d3ad-47b6-ab4f-efe625741aac)
+[18Jan2025 03:46:37.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! -6.9407176023350985,2.219114930139073,-7.076747044063268
+[18Jan2025 03:47:01.291] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['JhynMC'/22098, l='ServerLevel[world]', x=-6162.41, y=-5.88, z=8133.48] died: JhynMC burned to death
+[18Jan2025 03:48:06.781] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['JhynMC'/22068, l='ServerLevel[world]', x=-6144.50, y=-3.00, z=8147.84] died: JhynMC was slain by Fire Dragon
+[18Jan2025 03:48:15.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[18Jan2025 03:48:40.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -409.500000, 90.500000, 1109.500000]
+[18Jan2025 03:48:46.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported junior_mtz_ to JhynMC]
+[18Jan2025 03:49:33.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> PEPEEEEE
+[18Jan2025 03:49:38.976] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityLeafcutterAnt['Leafcutter Ant'/24236, l='ServerLevel[world]', x=1537.69, y=170.00, z=3060.54]
+[18Jan2025 03:49:49.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Perame voy a un lugar más seguro primero xd
+[18Jan2025 03:50:23.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Wenaass Pepitooo
+[18Jan2025 03:50:48.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to junior_mtz_]
+[18Jan2025 03:50:55.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> La mejor casa
+[18Jan2025 03:51:33.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Pepe pepe
+[18Jan2025 03:53:35.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Cómo?
+[18Jan2025 03:55:23.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Cómo era la mochila?
+[18Jan2025 03:55:48.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Pero la mochila si la tiene?
+[18Jan2025 03:56:07.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Revise su historial de muertes
+[18Jan2025 03:56:20.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Cuerno de dragon
+[18Jan2025 03:57:00.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[18Jan2025 03:59:41.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Cömo pepe?
+[18Jan2025 03:59:51.003] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepeowo lost connection: Disconnected
+[18Jan2025 03:59:51.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo left the game
+[18Jan2025 03:59:55.317] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Pepeowo is 6f0520c6-d3ad-47b6-ab4f-efe625741aac
+[18Jan2025 03:59:57.367] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepeowo[/127.121.247.159:51285] logged in with entity id 27447 at (-298.64766313384274, 83.0, 1098.6569756185108)
+[18Jan2025 03:59:57.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo joined the game
+[18Jan2025 03:59:57.436] [Server thread/INFO] [Jade/]: Syncing config to Pepeowo (6f0520c6-d3ad-47b6-ab4f-efe625741aac)
+[18Jan2025 04:00:18.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Tiene armadura?
+[18Jan2025 04:00:32.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> A ver lo mato, sale y entra
+[18Jan2025 04:00:49.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo was slain by JhynMC using [✞ঔBerserkerঔৣ✞]
+[18Jan2025 04:01:09.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ahhora salga y entre
+[18Jan2025 04:01:11.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepeowo lost connection: Disconnected
+[18Jan2025 04:01:11.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo left the game
+[18Jan2025 04:01:31.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! -1.4573755208065222,0.0,-10.246259181305504
+[18Jan2025 04:01:44.203] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@773ffe65[id=<null>,name=Pepeowo,properties={},legacy=false] (/127.121.247.159:53943) lost connection: Disconnected
+[18Jan2025 04:01:53.067] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Pepeowo is 6f0520c6-d3ad-47b6-ab4f-efe625741aac
+[18Jan2025 04:01:55.113] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepeowo[/127.121.247.159:39605] logged in with entity id 28352 at (-288.28870132705225, 83.0, 1097.3758433794285)
+[18Jan2025 04:01:55.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo joined the game
+[18Jan2025 04:01:55.169] [Server thread/INFO] [Jade/]: Syncing config to Pepeowo (6f0520c6-d3ad-47b6-ab4f-efe625741aac)
+[18Jan2025 04:03:38.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to junior_mtz_]
+[18Jan2025 04:04:16.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Pepe revisando su historial también ve vacias sus mochilas
+[18Jan2025 04:04:21.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> veo*
+[18Jan2025 04:04:33.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> . /deathhistory Pepeowo
+[18Jan2025 04:04:37.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
