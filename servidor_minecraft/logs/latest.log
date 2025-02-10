@@ -1104,3 +1104,6 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [10Feb2025 06:32:54.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has reached the goal [The End... Again...]
 [10Feb2025 06:32:54.766] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=61, z=0}
 [10Feb2025 06:32:54.794] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=61, z=0}
+[10Feb2025 06:39:38.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[10Feb2025 06:40:29.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] xdd
+[10Feb2025 06:45:03.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
