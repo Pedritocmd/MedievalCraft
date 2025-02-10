@@ -943,3 +943,15 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [10Feb2025 05:25:25.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
 [10Feb2025 05:27:10.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -572.500000, 200.500000, 1336.500000]
 [10Feb2025 05:30:53.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ee
+[10Feb2025 05:36:39.937] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[10Feb2025 05:37:23.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -512.500000, 65.500000, -32.500000]
+[10Feb2025 05:38:52.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[10Feb2025 05:39:51.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[10Feb2025 05:39:57.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[10Feb2025 05:40:20.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[10Feb2025 05:40:30.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[10Feb2025 05:41:12.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[10Feb2025 05:41:12.357] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[10Feb2025 05:43:42.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[10Feb2025 05:44:18.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[10Feb2025 05:44:30.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
