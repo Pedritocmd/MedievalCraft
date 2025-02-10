@@ -197,6 +197,7 @@
       "minecraft:witch": "2024-11-16 04:33:00 +0000",
       "minecraft:wither_skeleton": "2024-11-18 23:24:58 +0000",
       "minecraft:husk": "2024-11-16 05:54:45 +0000",
+      "minecraft:ender_dragon": "2025-02-10 06:48:15 +0000",
       "minecraft:shulker": "2025-01-18 05:28:40 +0000",
       "minecraft:cave_spider": "2024-11-16 04:34:00 +0000",
       "quark:wraith": "2024-12-09 06:26:27 +0000",
@@ -1669,15 +1670,33 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-02-10 06:53:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2025-02-10 05:54:34 +0000"
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-02-10 06:48:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/fast_travel": {
     "criteria": {
       "travelled": "2025-02-10 06:03:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-02-10 06:50:16 +0000"
     },
     "done": true
   },

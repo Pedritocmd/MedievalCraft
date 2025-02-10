@@ -1107,3 +1107,15 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [10Feb2025 06:39:38.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
 [10Feb2025 06:40:29.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] xdd
 [10Feb2025 06:45:03.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[10Feb2025 06:46:44.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[10Feb2025 06:46:50.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[10Feb2025 06:48:15.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Free the End]
+[10Feb2025 06:48:25.154] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=61, z=0}
+[10Feb2025 06:49:55.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to 1713.500000, 31.500000, -536.500000]
+[10Feb2025 06:50:05.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[10Feb2025 06:50:16.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [The City at the End of the Game]
+[10Feb2025 06:50:28.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[10Feb2025 06:50:57.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Mimicube]
+[10Feb2025 06:53:02.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has reached the goal [Sky's the Limit]
+[10Feb2025 06:55:20.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[10Feb2025 06:55:32.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]

@@ -9280,3 +9280,40 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [10Feb2025 06:45:03.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
 [10Feb2025 06:45:08.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Feb2025 06:45:08.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Feb2025 06:46:44.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[10Feb2025 06:46:50.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[10Feb2025 06:48:15.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Free the End]
+[10Feb2025 06:48:15.109] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_dragon_loot
+[10Feb2025 06:48:25.154] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=61, z=0}
+[10Feb2025 06:49:54.744] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel5
+[10Feb2025 06:49:54.770] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel14
+[10Feb2025 06:49:54.791] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel6
+[10Feb2025 06:49:54.810] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel15
+[10Feb2025 06:49:54.837] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel4
+[10Feb2025 06:49:54.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel13
+[10Feb2025 06:49:54.879] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel2
+[10Feb2025 06:49:54.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel11
+[10Feb2025 06:49:54.926] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel8
+[10Feb2025 06:49:54.945] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel17
+[10Feb2025 06:49:54.957] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel1
+[10Feb2025 06:49:54.973] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel10
+[10Feb2025 06:49:54.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel3
+[10Feb2025 06:49:54.998] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel12
+[10Feb2025 06:49:55.010] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel9
+[10Feb2025 06:49:55.024] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel18
+[10Feb2025 06:49:55.036] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel7
+[10Feb2025 06:49:55.054] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel16
+[10Feb2025 06:49:55.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to 1713.500000, 31.500000, -536.500000]
+[10Feb2025 06:50:05.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[10Feb2025 06:50:08.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Feb2025 06:50:08.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Feb2025 06:50:16.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [The City at the End of the Game]
+[10Feb2025 06:50:28.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[10Feb2025 06:50:57.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Mimicube]
+[10Feb2025 06:53:02.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has reached the goal [Sky's the Limit]
+[10Feb2025 06:54:49.955] [Server thread/DEBUG] [ModernFix/]: Structure endlessbiomes:radon_bulwark_head_1 is being run through DFU (hash 01fd3215b24ae57119435764f9258cf78a212ac787811dc7309e58bf45026d8e), this will cause launch time delays
+[10Feb2025 06:54:50.021] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of endlessbiomes:radon_bulwark_base
+[10Feb2025 06:55:08.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Feb2025 06:55:08.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Feb2025 06:55:20.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[10Feb2025 06:55:32.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
