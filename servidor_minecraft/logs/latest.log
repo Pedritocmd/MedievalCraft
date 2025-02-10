@@ -955,3 +955,26 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [10Feb2025 05:43:42.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
 [10Feb2025 05:44:18.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
 [10Feb2025 05:44:30.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[10Feb2025 05:44:48.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[10Feb2025 05:45:37.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Gave 1 [Wither Skeleton Skull] to JhynMC]
+[10Feb2025 05:46:21.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[10Feb2025 05:46:54.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! -10.181670033708372,0.010016760424036875,-1.4096062665946931
+[10Feb2025 05:47:33.000] [Worker-Main-31/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -876 0 526
+[10Feb2025 05:47:40.350] [Worker-Main-31/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -740 0 718
+[10Feb2025 05:47:40.909] [Worker-Main-15/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -919 0 372
+[10Feb2025 05:47:55.399] [Worker-Main-15/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -960 0 615
+[10Feb2025 05:48:00.851] [Worker-Main-35/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1012 0 512
+[10Feb2025 05:48:12.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[10Feb2025 05:48:54.354] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[10Feb2025 05:50:16.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Protection IV to JhynMC's item]
+[10Feb2025 05:50:33.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[10Feb2025 05:51:03.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[10Feb2025 05:52:15.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[10Feb2025 05:52:17.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[10Feb2025 05:52:47.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[10Feb2025 05:52:57.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[10Feb2025 05:53:24.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[10Feb2025 05:54:28.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[10Feb2025 05:54:28.607] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[10Feb2025 05:54:33.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Ghast]
+[10Feb2025 05:54:34.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has completed the challenge [Return to Sender]
