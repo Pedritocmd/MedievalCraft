@@ -978,3 +978,96 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [10Feb2025 05:54:28.607] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
 [10Feb2025 05:54:33.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Ghast]
 [10Feb2025 05:54:34.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has completed the challenge [Return to Sender]
+[10Feb2025 05:55:12.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[10Feb2025 05:55:18.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[10Feb2025 05:56:03.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[10Feb2025 05:56:06.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[10Feb2025 05:56:31.503] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[10Feb2025 05:59:07.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[10Feb2025 05:59:08.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[10Feb2025 06:01:32.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[10Feb2025 06:01:39.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[10Feb2025 06:02:02.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[10Feb2025 06:02:22.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Demon Lord]
+[10Feb2025 06:02:31.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Demon Minion]
+[10Feb2025 06:02:36.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Demon]
+[10Feb2025 06:02:44.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Demon Lord]
+[10Feb2025 06:03:02.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[10Feb2025 06:03:41.154] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[10Feb2025 06:03:41.154] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[10Feb2025 06:03:41.154] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[10Feb2025 06:03:41.154] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[10Feb2025 06:03:41.155] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[10Feb2025 06:03:41.155] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[10Feb2025 06:03:41.155] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[10Feb2025 06:03:41.155] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[10Feb2025 06:03:41.156] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[10Feb2025 06:03:41.156] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[10Feb2025 06:03:41.156] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[10Feb2025 06:03:41.156] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[10Feb2025 06:03:41.156] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[10Feb2025 06:03:41.157] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[10Feb2025 06:03:41.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has completed the challenge [Subspace Bubble]
+[10Feb2025 06:03:42.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11332ms or 226 ticks behind
+[10Feb2025 06:03:50.841] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[10Feb2025 06:03:50.841] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[10Feb2025 06:03:50.842] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[10Feb2025 06:03:50.842] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[10Feb2025 06:04:17.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[10Feb2025 06:05:49.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set the time to 1000]
+[10Feb2025 06:06:26.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[10Feb2025 06:07:09.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Pig]
+[10Feb2025 06:08:45.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[10Feb2025 06:09:14.667] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[10Feb2025 06:09:14.669] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[10Feb2025 06:09:14.670] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[10Feb2025 06:09:14.671] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[10Feb2025 06:09:14.673] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[10Feb2025 06:09:14.673] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[10Feb2025 06:09:18.262] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[10Feb2025 06:09:18.263] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[10Feb2025 06:09:18.263] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[10Feb2025 06:09:18.264] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[10Feb2025 06:09:18.266] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[10Feb2025 06:09:18.267] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[10Feb2025 06:09:18.267] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[10Feb2025 06:09:18.268] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[10Feb2025 06:09:21.031] [Worker-Main-37/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[10Feb2025 06:09:21.041] [Worker-Main-37/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[10Feb2025 06:09:21.041] [Worker-Main-37/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[10Feb2025 06:09:21.042] [Worker-Main-37/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[10Feb2025 06:09:21.042] [Worker-Main-37/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[10Feb2025 06:09:54.516] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[10Feb2025 06:09:54.517] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[10Feb2025 06:09:54.517] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[10Feb2025 06:09:54.518] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[10Feb2025 06:10:12.118] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[10Feb2025 06:10:12.119] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[10Feb2025 06:10:12.119] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[10Feb2025 06:10:12.119] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[10Feb2025 06:10:12.119] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[10Feb2025 06:10:12.135] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[10Feb2025 06:10:12.135] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[10Feb2025 06:10:12.136] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[10Feb2025 06:10:13.744] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[10Feb2025 06:10:13.805] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[10Feb2025 06:10:13.806] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[10Feb2025 06:10:13.806] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[10Feb2025 06:10:13.806] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[10Feb2025 06:10:13.807] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[10Feb2025 06:10:13.809] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[10Feb2025 06:10:13.809] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[10Feb2025 06:10:13.831] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[10Feb2025 06:10:13.831] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[10Feb2025 06:10:13.831] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[10Feb2025 06:10:13.832] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[10Feb2025 06:10:13.832] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[10Feb2025 06:10:19.393] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=169, y=73, z=6}
+[10Feb2025 06:10:29.839] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Feb2025 06:10:29.840] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[10Feb2025 06:10:35.460] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Sonny'/17801, l='ServerLevel[world]', x=-6189.62, y=77.00, z=5438.58] died, message: 'Sonny was shot by Stymphalian Bird'
+[10Feb2025 06:10:35.461] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Sonny'/17801, l='ServerLevel[world]', x=-6189.62, y=77.00, z=5438.58] died: Sonny was shot by Stymphalian Bird
+[10Feb2025 06:10:46.666] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Rabbit['The Killer Bunny'/18600, l='ServerLevel[world]', x=-6470.53, y=65.67, z=5500.46] died: The Killer Bunny was slain by Fox
+[10Feb2025 06:11:08.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[10Feb2025 06:13:14.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[10Feb2025 06:13:35.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! -10.728560351048145,0.0,1.7794780634221752

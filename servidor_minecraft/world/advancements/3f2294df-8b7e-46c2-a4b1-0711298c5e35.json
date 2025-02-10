@@ -90,6 +90,7 @@
       "seasonal_orchard": "2024-12-14 05:44:45 +0000",
       "dune_beach": "2024-11-21 04:07:21 +0000",
       "seasonal_forest": "2024-12-10 01:47:03 +0000",
+      "auroral_garden": "2025-02-10 06:09:17 +0000",
       "dead_forest": "2024-11-15 03:28:38 +0000",
       "volcano": "2024-12-10 06:09:03 +0000",
       "pasture": "2024-11-18 03:52:39 +0000",
@@ -1671,6 +1672,12 @@
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2025-02-10 05:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-02-10 06:03:41 +0000"
     },
     "done": true
   },
