@@ -1071,3 +1071,21 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [10Feb2025 06:11:08.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
 [10Feb2025 06:13:14.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
 [10Feb2025 06:13:35.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! -10.728560351048145,0.0,1.7794780634221752
+[10Feb2025 06:15:17.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Ice Dragon]
+[10Feb2025 06:15:26.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] t
+[10Feb2025 06:16:52.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Ice Dragon]
+[10Feb2025 06:17:38.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Fire Dragon]
+[10Feb2025 06:17:46.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set the time to 1000]
+[10Feb2025 06:18:26.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Lightning Dragon]
+[10Feb2025 06:19:30.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[10Feb2025 06:22:18.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Sharpness V to JhynMC's item]
+[10Feb2025 06:22:51.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Ice Dragon]
+[10Feb2025 06:24:43.421] [Worker-Main-35/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[10Feb2025 06:24:43.422] [Worker-Main-35/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[10Feb2025 06:24:43.422] [Worker-Main-35/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[10Feb2025 06:24:43.422] [Worker-Main-35/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[10Feb2025 06:25:10.469] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[10Feb2025 06:25:10.469] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[10Feb2025 06:25:10.469] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[10Feb2025 06:25:10.469] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[10Feb2025 06:25:18.924] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Rabbit['The Killer Bunny'/27345, l='ServerLevel[world]', x=-6677.55, y=84.00, z=4727.47] died: The Killer Bunny was slain by Fox
