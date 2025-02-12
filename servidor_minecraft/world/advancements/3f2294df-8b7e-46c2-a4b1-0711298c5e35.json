@@ -1670,27 +1670,9 @@
     },
     "done": true
   },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2025-02-10 06:53:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2025-02-10 05:54:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/kill_dragon": {
-    "criteria": {
-      "killed_dragon": "2025-02-10 06:48:15 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_aviary": {
-    "criteria": {
-      "location0": "2025-02-10 07:02:41 +0000"
     },
     "done": true
   },
@@ -1700,9 +1682,15 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_dragon": {
+  "minecraft:end/respawn_dragon": {
     "criteria": {
-      "requirement": "2025-02-10 07:03:55 +0000"
+      "summoned_dragon": "2025-02-10 06:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-02-10 06:48:15 +0000"
     },
     "done": true
   },
@@ -1712,9 +1700,21 @@
     },
     "done": true
   },
-  "minecraft:end/respawn_dragon": {
+  "minecraft:end/elytra": {
     "criteria": {
-      "summoned_dragon": "2025-02-10 06:32:54 +0000"
+      "elytra": "2025-02-10 06:53:02 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_aviary": {
+    "criteria": {
+      "location0": "2025-02-10 07:02:41 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_dragon": {
+    "criteria": {
+      "requirement": "2025-02-10 07:03:55 +0000"
     },
     "done": true
   },
