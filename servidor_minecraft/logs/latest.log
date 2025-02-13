@@ -953,3 +953,23 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [13Feb2025 06:11:37.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
 [13Feb2025 06:15:38.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Inquisitor]
 [13Feb2025 06:15:48.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[13Feb2025 06:16:26.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Zombie]
+[13Feb2025 06:17:25.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[13Feb2025 06:17:43.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Zombie]
+[13Feb2025 06:18:44.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Inquisitor]
+[13Feb2025 06:19:15.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[13Feb2025 06:20:33.176] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Disconnected
+[13Feb2025 06:20:33.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
+[13Feb2025 06:20:42.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[13Feb2025 06:20:42.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Feb2025 06:20:42.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Feb2025 06:20:42.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Feb2025 06:20:42.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Feb2025 06:20:42.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[13Feb2025 06:20:42.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Feb2025 06:20:42.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Feb2025 06:20:43.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Feb2025 06:20:43.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[13Feb2025 06:20:43.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Feb2025 06:20:43.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Feb2025 06:20:43.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
