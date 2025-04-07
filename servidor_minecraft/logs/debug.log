@@ -8831,3 +8831,133 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [07Apr2025 05:40:39.360] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
 [07Apr2025 05:40:39.360] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
 [07Apr2025 05:40:54.663] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:41:44.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Apr2025 05:41:44.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Apr2025 05:42:40.514] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:42:40.515] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:42:55.560] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:43:17.113] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:44:39.250] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:45:01.795] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:firecaller_hut/base_plate
+[07Apr2025 05:45:09.253] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:45:20.716] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:45:27.515] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:45:27.516] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:45:39.710] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[07Apr2025 05:45:42.410] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:45:58.769] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:46:06.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
+[07Apr2025 05:46:08.293] [Server thread/DEBUG] [ModernFix/]: Structure awesomedungeonocean:ocean_warn_temple is being run through DFU (hash 96789e9b8d2db5fb676d119ec2a08c233395aab4c2205ee00a7a4205fb346021), this will cause launch time delays
+[07Apr2025 05:46:23.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[07Apr2025 05:46:24.418] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:46:44.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Apr2025 05:46:44.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Apr2025 05:48:17.064] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:48:20.697] [Worker-Main-32/DEBUG] [ModernFix/]: Structure illagerinvasion:illusioner_tower/tower_2 is being run through DFU (hash 31aaa396146b95a2434692be5d116c88e645ab824e241a9a46869b29590ea570), this will cause launch time delays
+[07Apr2025 05:48:20.765] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
+[07Apr2025 05:48:21.447] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[07Apr2025 05:48:24.970] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[07Apr2025 05:48:24.971] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[07Apr2025 05:48:24.972] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[07Apr2025 05:48:24.972] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[07Apr2025 05:48:27.925] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:48:29.115] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
+[07Apr2025 05:48:32.118] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of simply_houses:forest_fort/forest_fort_ground
+[07Apr2025 05:48:32.124] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of simply_houses:forest_stonemason/forest_stonemason
+[07Apr2025 05:48:32.134] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of simply_houses:forest_house/forest_house
+[07Apr2025 05:48:32.140] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of simply_houses:forest_chapel/forest_chapel
+[07Apr2025 05:48:39.962] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of seadwellers:center
+[07Apr2025 05:48:41.974] [Server thread/DEBUG] [ModernFix/]: Structure seadwellers:ship is being run through DFU (hash 16f5471e12b76fc16bd3f053b51a780dc0cc4c140572006dd82e42eb480c1d93), this will cause launch time delays
+[07Apr2025 05:48:42.006] [Server thread/DEBUG] [ModernFix/]: Structure seadwellers:warehouse is being run through DFU (hash ed67f318c4f0dbe4d870b547c47fa486ef326f6e796e1f7f7558b2ec3c1e69f8), this will cause launch time delays
+[07Apr2025 05:48:42.030] [Server thread/DEBUG] [ModernFix/]: Structure seadwellers:greenhouse is being run through DFU (hash 3f42d5326d816b64629f0ed8c083373c71c17a0ed7904aca34566849a6ea3a13), this will cause launch time delays
+[07Apr2025 05:49:00.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[07Apr2025 05:49:52.414] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:51:44.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Apr2025 05:51:44.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Apr2025 05:52:09.654] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of seadwellers:mason_station
+[07Apr2025 05:52:15.418] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:52:18.563] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Marcellus'/12469, l='ServerLevel[world]', x=22449.18, y=78.00, z=18669.46] died: Marcellus was shot by Skeleton
+[07Apr2025 05:52:25.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Morton]
+[07Apr2025 05:52:32.761] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Lance'/12534, l='ServerLevel[world]', x=22457.33, y=78.00, z=18671.20] died: Lance was shot by Skeleton
+[07Apr2025 05:52:50.762] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Patrick'/10785, l='ServerLevel[world]', x=22384.03, y=57.00, z=18640.46] died: Patrick was slain by Tank
+[07Apr2025 05:52:55.964] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Kathey'/12477, l='ServerLevel[world]', x=22385.80, y=57.00, z=18640.44] died: Kathey was slain by Tank
+[07Apr2025 05:53:03.815] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:53:24.066] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:54:17.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Bradly'/12453, l='ServerLevel[world]', x=22373.25, y=75.00, z=18659.95] died: Bradly was shot by Summoned Skeleton
+[07Apr2025 05:54:28.914] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:54:28.914] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:54:47.708] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:54:53.456] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:55:03.168] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:55:03.712] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:55:08.357] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:56:01.014] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:56:19.862] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Leeanna'/16220, l='ServerLevel[world]', x=22446.00, y=77.00, z=18653.67] died: Leeanna was shot by Israel
+[07Apr2025 05:56:31.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Cornelius]
+[07Apr2025 05:56:43.863] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Andy'/16090, l='ServerLevel[world]', x=22426.52, y=79.00, z=18685.37] died: Andy was slain by Gerald
+[07Apr2025 05:56:44.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Apr2025 05:56:44.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Apr2025 05:56:47.912] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Israel'/16380, l='ServerLevel[world]', x=22426.41, y=78.00, z=18689.72] died: Israel was slain by Antonio
+[07Apr2025 05:56:47.968] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Domenic'/16282, l='ServerLevel[world]', x=22424.57, y=78.00, z=18692.18] died: Domenic was slain by Annabel
+[07Apr2025 05:56:49.564] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Morton'/16297, l='ServerLevel[world]', x=22425.68, y=78.00, z=18690.36] died: Morton was slain by Annabel
+[07Apr2025 05:56:52.064] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Priscila'/16318, l='ServerLevel[world]', x=22423.16, y=78.00, z=18696.16] died: Priscila was slain by January
+[07Apr2025 05:56:53.520] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:56:53.520] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:56:55.362] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Herbert'/16284, l='ServerLevel[world]', x=22424.44, y=78.00, z=18696.49] died: Herbert was slain by January
+[07Apr2025 05:56:57.566] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Sherril'/16251, l='ServerLevel[world]', x=22432.71, y=79.00, z=18689.78] died: Sherril was shot by Ahmed
+[07Apr2025 05:57:05.263] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Kiara'/16749, l='ServerLevel[world]', x=22429.30, y=79.00, z=18701.45] died: Kiara was slain by Garfield
+[07Apr2025 05:57:12.663] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Dion'/16732, l='ServerLevel[world]', x=22424.99, y=78.00, z=18697.67] died: Dion was shot by Ramiro
+[07Apr2025 05:57:14.311] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Gerald'/16695, l='ServerLevel[world]', x=22438.80, y=79.00, z=18692.79] died: Gerald was slain by Yuette
+[07Apr2025 05:57:35.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[07Apr2025 05:57:37.413] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Jay'/16254, l='ServerLevel[world]', x=22423.64, y=78.00, z=18697.97] died: Jay was slain by Ula
+[07Apr2025 05:57:41.217] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Terica'/16105, l='ServerLevel[world]', x=22431.11, y=79.00, z=18686.22] died: Terica was slain by Harlan
+[07Apr2025 05:57:42.015] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Gail'/16767, l='ServerLevel[world]', x=22439.23, y=79.00, z=18691.49] died: Gail was slain by Roni
+[07Apr2025 05:57:42.540] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Ahmed'/17003, l='ServerLevel[world]', x=22443.47, y=80.00, z=18692.54] died: Ahmed was slain by JhynMC
+[07Apr2025 05:57:43.520] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Chester'/16975, l='ServerLevel[world]', x=22443.48, y=80.00, z=18693.50] died: Chester was slain by JhynMC
+[07Apr2025 05:57:44.498] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Ivette'/16724, l='ServerLevel[world]', x=22443.42, y=80.00, z=18693.54] died: Ivette was slain by JhynMC
+[07Apr2025 05:57:46.161] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Clare'/16246, l='ServerLevel[world]', x=22433.47, y=79.00, z=18687.43] died: Clare was slain by Harlan
+[07Apr2025 05:57:46.265] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Garfield'/16905, l='ServerLevel[world]', x=22445.11, y=80.00, z=18695.58] died: Garfield was slain by JhynMC
+[07Apr2025 05:57:46.913] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Stewart'/16261, l='ServerLevel[world]', x=22446.49, y=80.00, z=18696.48] died: Stewart was slain by JhynMC
+[07Apr2025 05:57:47.872] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Yuette'/16950, l='ServerLevel[world]', x=22446.39, y=80.00, z=18696.38] died: Yuette was slain by JhynMC
+[07Apr2025 05:57:48.867] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Franklin'/16779, l='ServerLevel[world]', x=22420.57, y=78.00, z=18687.48] died: Franklin was shot by Devorah
+[07Apr2025 05:57:49.173] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Phillip'/16914, l='ServerLevel[world]', x=22435.90, y=79.00, z=18696.70] died: Phillip was slain by Harlan
+[07Apr2025 05:57:50.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Mervin'/17173, l='ServerLevel[world]', x=22450.17, y=80.00, z=18693.49] died: Mervin was slain by JhynMC using [✞ঔBerserkerঔৣ✞]
+[07Apr2025 05:57:50.392] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Marcelo'/16991, l='ServerLevel[world]', x=22449.50, y=80.00, z=18694.46] died: Marcelo was slain by JhynMC using [✞ঔBerserkerঔৣ✞]
+[07Apr2025 05:57:50.866] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Ramiro'/17008, l='ServerLevel[world]', x=22439.41, y=80.00, z=18698.26] died: Ramiro was slain by Mandie
+[07Apr2025 05:57:52.716] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:57:55.314] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Tamika'/16753, l='ServerLevel[world]', x=22457.01, y=81.00, z=18694.52] died: Tamika was ascended to the afterlife with JhynMC's help
+[07Apr2025 05:57:57.066] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:57:57.862] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Margarett'/16883, l='ServerLevel[world]', x=22459.80, y=81.00, z=18695.57] died: Margarett burned to death
+[07Apr2025 05:57:58.526] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Veronika'/16964, l='ServerLevel[world]', x=22461.06, y=81.00, z=18695.96] died: Veronika was slain by JhynMC using [✞ঔBerserkerঔৣ✞]
+[07Apr2025 05:57:59.768] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Cornelius'/16873, l='ServerLevel[world]', x=22460.93, y=81.00, z=18694.04] died: Cornelius was struck by lightning whilst fighting JhynMC
+[07Apr2025 05:58:01.025] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Ula'/17174, l='ServerLevel[world]', x=22460.59, y=81.00, z=18692.34] died: Ula was slain by JhynMC using [✞ঔBerserkerঔৣ✞]
+[07Apr2025 05:58:01.026] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:58:01.929] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Roy'/16906, l='ServerLevel[world]', x=22459.03, y=81.00, z=18692.58] died: Roy was struck by lightning
+[07Apr2025 05:58:02.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['January'/16821, l='ServerLevel[world]', x=22454.75, y=81.00, z=18694.29] died: January was struck by lightning
+[07Apr2025 05:58:02.463] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Dianna'/16721, l='ServerLevel[world]', x=22426.81, y=79.68, z=18705.25] died: Dianna was slain by Harlan
+[07Apr2025 05:58:02.965] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Doloris'/16179, l='ServerLevel[world]', x=22444.56, y=80.00, z=18683.01] died: Doloris was shot by Roni
+[07Apr2025 05:58:03.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Bob'/17101, l='ServerLevel[world]', x=22437.47, y=80.00, z=18697.63] died: Bob was shot by Skeleton
+[07Apr2025 05:58:10.165] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Mellie'/17199, l='ServerLevel[world]', x=22448.81, y=80.00, z=18686.58] died: Mellie was shot by Roni
+[07Apr2025 05:58:13.198] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Samuel'/17433, l='ServerLevel[world]', x=22451.80, y=81.00, z=18692.19] died: Samuel was slain by JhynMC
+[07Apr2025 05:58:13.264] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Harlan'/17114, l='ServerLevel[world]', x=22440.03, y=80.00, z=18702.90] died: Harlan was shot by Skeleton
+[07Apr2025 05:58:14.411] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Antonio'/16748, l='ServerLevel[world]', x=22448.53, y=80.00, z=18683.44] died: Antonio was shot by Roni
+[07Apr2025 05:58:15.398] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Annabel'/16784, l='ServerLevel[world]', x=22452.50, y=81.00, z=18691.54] died: Annabel was slain by JhynMC
+[07Apr2025 05:58:16.316] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:58:17.221] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Jim'/16683, l='ServerLevel[world]', x=22452.42, y=81.00, z=18692.42] died: Jim was slain by JhynMC
+[07Apr2025 05:58:34.211] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Mandie'/17106, l='ServerLevel[world]', x=22446.56, y=79.00, z=18675.82] died: Mandie was shot by Devorah
+[07Apr2025 05:58:40.115] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 05:58:56.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[07Apr2025 05:59:40.210] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Roni'/17111, l='ServerLevel[world]', x=22395.97, y=76.50, z=18647.30] died: Roni was slain by Vindicator
+[07Apr2025 05:59:55.709] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Lacresha'/17105, l='ServerLevel[world]', x=22406.39, y=75.00, z=18653.70] died: Lacresha was slain by Vindicator
+[07Apr2025 05:59:58.110] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Crystal'/17115, l='ServerLevel[world]', x=22394.50, y=75.00, z=18650.79] died: Crystal was slain by Vindicator
+[07Apr2025 06:00:06.512] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Devorah'/17104, l='ServerLevel[world]', x=22388.70, y=74.00, z=18643.06] died: Devorah was slain by Vindicator
+[07Apr2025 06:00:11.761] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jon'/10444, l='ServerLevel[world]', x=22408.46, y=77.00, z=18659.70] died, message: 'Jon was slain by Vindicator'
+[07Apr2025 06:00:11.763] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jon'/10444, l='ServerLevel[world]', x=22408.46, y=77.00, z=18659.70] died: Jon was slain by Vindicator
+[07Apr2025 06:00:14.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Ingeborg]
+[07Apr2025 06:00:15.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Clifford]
+[07Apr2025 06:00:18.060] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Ingeborg'/18411, l='ServerLevel[world]', x=22383.20, y=73.00, z=18650.70] died: Ingeborg was slain by Vindicator
+[07Apr2025 06:00:20.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Mauricio]
+[07Apr2025 06:00:21.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Quinn]
+[07Apr2025 06:00:22.862] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Apr2025 06:00:23.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Ivan]
+[07Apr2025 06:00:24.959] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Clifford'/18412, l='ServerLevel[world]', x=22373.52, y=73.00, z=18636.83] died: Clifford was slain by Vindicator
