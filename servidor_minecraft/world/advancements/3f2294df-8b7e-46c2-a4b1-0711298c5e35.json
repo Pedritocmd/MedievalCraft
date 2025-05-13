@@ -1736,9 +1736,27 @@
     },
     "done": true
   },
+  "majruszsdifficulty:pillager_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-05-13 08:03:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-05-13 07:39:44 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeon:jungle_giant_tree/find_normal": {
+    "criteria": {
+      "requirement": "2025-05-13 08:06:41 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeon:abandoned_oak/find_normal": {
+    "criteria": {
+      "requirement": "2025-05-13 08:11:10 +0000"
     },
     "done": true
   },
