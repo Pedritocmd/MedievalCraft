@@ -1724,15 +1724,15 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_umvuthana_raptor": {
-    "criteria": {
-      "umvuthana_raptor": "2025-04-07 05:40:24 +0000"
-    },
-    "done": true
-  },
   "mowziesmobs:kill_umvuthi": {
     "criteria": {
       "barako": "2025-04-07 05:34:28 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-04-07 05:40:24 +0000"
     },
     "done": true
   },
