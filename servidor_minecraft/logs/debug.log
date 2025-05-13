@@ -9322,3 +9322,415 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [13May2025 07:12:33.316] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Winston'/15469, l='ServerLevel[world]', x=22414.25, y=77.00, z=18665.50] died: Winston went up in flames
 [13May2025 07:12:57.774] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [13May2025 07:12:57.774] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:13:10.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Gamerule doFireTick is now set to: true]
+[13May2025 07:13:16.739] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:13:16.739] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:13:19.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 07:13:19.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 07:14:23.509] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
+[13May2025 07:14:23.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to 20946.500000, 69.500000, 17655.500000]
+[13May2025 07:14:24.146] [Server thread/DEBUG] [ModernFix/]: Structure awesomedungeon:desert_temple_husk is being run through DFU (hash b96ce5cb3af0558dedaa332f128643c457cea08245dfa8078dd465d7b1a13346), this will cause launch time delays
+[13May2025 07:14:24.146] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[13May2025 07:14:25.753] [Server thread/DEBUG] [ModernFix/]: Structure castle_dungeons:illager_castle/desert/pieces/walk is being run through DFU (hash 3c2a979b1f2769c54ae2d11505dcf67f481912f8617c652ae982f6c2b75fd565), this will cause launch time delays
+[13May2025 07:14:25.756] [Server thread/DEBUG] [ModernFix/]: Structure castle_dungeons:illager_castle/desert/pieces/walk_balustrade is being run through DFU (hash d14d0ba710d61d15506b675e05ae5fe2b69d715d7c8e4afa48ed53c6ff715290), this will cause launch time delays
+[13May2025 07:14:25.758] [Server thread/DEBUG] [ModernFix/]: Structure castle_dungeons:illager_castle/desert/pieces/tower_balustrade is being run through DFU (hash 5238ed67f8c0c4b6a6c64f896e591b8af3df4efa78fda004b0c44ef99835ce00), this will cause launch time delays
+[13May2025 07:14:25.760] [Server thread/DEBUG] [ModernFix/]: Structure castle_dungeons:illager_castle/desert/pieces/room is being run through DFU (hash 7cb0cf79899b8ded393a99f6ff1f552a9d0e4514735c71e8534ce673d6c4ca65), this will cause launch time delays
+[13May2025 07:14:25.762] [Server thread/DEBUG] [ModernFix/]: Structure castle_dungeons:illager_castle/desert/pieces/hallway is being run through DFU (hash 962cbf4c8266be6b3ea678324a9f7fb39aadca09a58bca61d361d7e03d207b60), this will cause launch time delays
+[13May2025 07:14:25.766] [Server thread/DEBUG] [ModernFix/]: Structure castle_dungeons:illager_castle/desert/pieces/tower is being run through DFU (hash 52c26895bad8bac924513b7ff51fba4fa42dd6feb9d7c38f229e3a10345a3d1f), this will cause launch time delays
+[13May2025 07:14:25.772] [Server thread/DEBUG] [ModernFix/]: Structure castle_dungeons:illager_castle/desert/pieces/stairs is being run through DFU (hash 263db0a41071cc625d0f1599ad3e196ef60f1870212516030cd8644fbd5ae161), this will cause launch time delays
+[13May2025 07:14:25.773] [Server thread/DEBUG] [ModernFix/]: Structure castle_dungeons:illager_castle/desert/pieces/door is being run through DFU (hash 12389aa281cb0df9dd061ed999f093e140f39e8da53e78ba2fa2d50fc8192170), this will cause launch time delays
+[13May2025 07:14:25.774] [Server thread/DEBUG] [ModernFix/]: Structure castle_dungeons:illager_castle/desert/pieces/wall is being run through DFU (hash 10ae13d1d81a5404e05e68afdd4a8d95d649213bf8a44b7ef1a3d93f0c78eed9), this will cause launch time delays
+[13May2025 07:14:25.775] [Server thread/DEBUG] [ModernFix/]: Structure castle_dungeons:illager_castle/desert/pieces/passage is being run through DFU (hash 2288f57976b15181b4dc18b6487659397979e3509ad49811acea3045147cfdcb), this will cause launch time delays
+[13May2025 07:14:25.776] [Server thread/DEBUG] [ModernFix/]: Structure castle_dungeons:illager_castle/desert/pieces/hallway_window is being run through DFU (hash ce1daac28bc606d7da30787a3ac178c95c31786c9b35468ea6aea0cc5c18ed03), this will cause launch time delays
+[13May2025 07:14:25.777] [Server thread/DEBUG] [ModernFix/]: Structure castle_dungeons:illager_castle/desert/pieces/tower_window is being run through DFU (hash 2d9524096037efab98129c4a5c66a4a9bd0b7e68b52082e859737b03cf34db1a), this will cause launch time delays
+[13May2025 07:14:25.777] [Server thread/DEBUG] [ModernFix/]: Structure castle_dungeons:illager_castle/desert/pieces/hallway_entrance is being run through DFU (hash 95a3a6234ca9e38fefd0b0a9a27711c76298091532eb8aabde3184b827214e1d), this will cause launch time delays
+[13May2025 07:14:25.781] [Server thread/DEBUG] [ModernFix/]: Structure castle_dungeons:illager_castle/desert/pieces/tower_entrance is being run through DFU (hash 403309fd76360b15627b74049bc782c2d7118c33182af288c5c7fc709e93ea50), this will cause launch time delays
+[13May2025 07:14:27.444] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:14:29.774] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_2
+[13May2025 07:14:29.800] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_juggernaut_0 is being run through DFU (hash 182b7b0c03c08234c59298b0a4be1dec4495b5258fcc032273170c1b7bcfa1b5), this will cause launch time delays
+[13May2025 07:14:29.840] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_juggernaut_1 is being run through DFU (hash f4b3a59727ff42cf7ac87ad332129ca8963bc60f7f6ea9fd28525fb68b38ba04), this will cause launch time delays
+[13May2025 07:14:29.857] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_3_main is being run through DFU (hash ac776f2a583c6e27bcdc0165a41f89fa798b0f4411f874043e95c831da2b5725), this will cause launch time delays
+[13May2025 07:14:29.867] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_hoglin_rider_0 is being run through DFU (hash 8e22f1995ddeddae8fb5553c310b09d6f3560cf1fa6374648e3ca930682e74b5), this will cause launch time delays
+[13May2025 07:14:29.944] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_3
+[13May2025 07:14:29.967] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_phantom_rider_1 is being run through DFU (hash d73979b8202a24d6eb7e494d9d89f53516c4f2b644b0131d4b5f82c30d3a1dd8), this will cause launch time delays
+[13May2025 07:14:29.993] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_phantom_rider_0 is being run through DFU (hash 8fa5a44dba83b2e521ff5c062b3fe31d1ca90bbb2963f240c8373ba8497c68f5), this will cause launch time delays
+[13May2025 07:14:30.046] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_1 is being run through DFU (hash ab8c67af0e24d52a59769a697563eced996332d4f0c80342afe506ab0ec266d8), this will cause launch time delays
+[13May2025 07:14:30.484] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_5 is being run through DFU (hash a11f3cb96dfe230d7e581cbd2d1066f188184c45486300d588d0f2e0d4645fe2), this will cause launch time delays
+[13May2025 07:14:30.666] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_0 is being run through DFU (hash 032ce8fbfe59cfcc7ad911973d34108e5f9e6d56e3d24c0b1bf139f0b2aee16c), this will cause launch time delays
+[13May2025 07:14:30.681] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_2 is being run through DFU (hash c4fc7d3a63861c81be423b6bbf151d9b2ab1905e3a95759dafafac875a37d737), this will cause launch time delays
+[13May2025 07:14:30.709] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_0 is being run through DFU (hash 115b537d7d99c49fb6d19ffb554faa27c41dc43ade2d87254034647a3ab747fe), this will cause launch time delays
+[13May2025 07:14:30.985] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_4 is being run through DFU (hash 78c773c124ff839eb7379a07f6bf264e74598bbd1de18f0d94135393510e5c80), this will cause launch time delays
+[13May2025 07:14:45.125] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:14:45.126] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:14:46.274] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:14:46.275] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:14:46.276] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:14:50.222] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:15:11.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Fire Dragon]
+[13May2025 07:15:16.275] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:15:17.767] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:15:20.366] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:15:23.674] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:15:25.823] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Emma'/18818, l='ServerLevel[world]', x=20941.70, y=68.00, z=17658.27] died, message: 'Emma was turned into KFC by Fire Dragon'
+[13May2025 07:15:25.824] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Emma'/18818, l='ServerLevel[world]', x=20941.70, y=68.00, z=17658.27] died: Emma was turned into KFC by Fire Dragon
+[13May2025 07:15:34.266] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:15:35.691] [Worker-Main-41/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[13May2025 07:15:35.692] [Worker-Main-41/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[13May2025 07:15:35.692] [Worker-Main-41/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[13May2025 07:16:10.772] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Edwin'/18857, l='ServerLevel[world]', x=20968.51, y=69.00, z=17652.47] died: Edwin was slain by Fire Dragon
+[13May2025 07:16:11.426] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:16:16.818] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Jamel'/18841, l='ServerLevel[world]', x=20968.63, y=69.00, z=17657.83] died: Jamel was slain by Fire Dragon
+[13May2025 07:16:17.922] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
+[13May2025 07:16:17.934] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/roads/t_2 is being run through DFU (hash 5d9e55629dc49b02341d6f914d00b25623cd4b7c880cff0a72467ba08b802b9c), this will cause launch time delays
+[13May2025 07:16:17.947] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/roads/inter is being run through DFU (hash 1c992aac79e725e88d77078c898f565534134a5eee69c69a3e520b971ec89a02), this will cause launch time delays
+[13May2025 07:16:17.961] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/roads/straight is being run through DFU (hash 62a1528b93a741c95fa4e80044b4962570c71efa0f3698647d6b75ffbfc4f770), this will cause launch time delays
+[13May2025 07:16:17.966] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/jobsite/mason is being run through DFU (hash 4aa98eeddbe05cc5ade365cda090603dfb2dfff2436ffd5035de51c97a8dbfba), this will cause launch time delays
+[13May2025 07:16:17.972] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/house/small_1 is being run through DFU (hash 35bbea21981a7dd123755990fb19ddb095ba1e691ffe8449ee51ba2496c99da6), this will cause launch time delays
+[13May2025 07:16:17.979] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/deco/lamp_1 is being run through DFU (hash 33a6ef193bdd0909f9aa9c0c460a8c302f0b55fe02fa858cd65911524f28668f), this will cause launch time delays
+[13May2025 07:16:17.980] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/roads/bent_1 is being run through DFU (hash 1cddf216de711dca1f613280a861e7128975854a9ce0df918cd793cf9abaa33e), this will cause launch time delays
+[13May2025 07:16:17.985] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/deco/melon_1 is being run through DFU (hash 20f070c8e56a8fe75e356330dccd3333708b0ff36d8b866e941776f8c3610ec2), this will cause launch time delays
+[13May2025 07:16:17.986] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/jobsite/tannery is being run through DFU (hash f1827a08d91e89a52c662d61e56e0ed2d5b508570be65f46269971bb7c91d681), this will cause launch time delays
+[13May2025 07:16:17.994] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/house/small_3 is being run through DFU (hash 7ff68343a3d624432ccd90ebc285c3f3c33ef9812cf9d9ff5c83209c0e9c335c), this will cause launch time delays
+[13May2025 07:16:17.998] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/deco/big_bush is being run through DFU (hash ec8dd1bdaa351264645704f232bec196bd19133f56e05b634a1c33f2d2b90572), this will cause launch time delays
+[13May2025 07:16:17.999] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/deco/stall is being run through DFU (hash fe61463657dd906f3163b5967bba7bbce7c48206c5d92a179d0e343560cd2411), this will cause launch time delays
+[13May2025 07:16:18.001] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/roads/t_1 is being run through DFU (hash 75c01b1e5415ff1aba2ef7c285b07d5305941011f2491261b8272a218de33c6e), this will cause launch time delays
+[13May2025 07:16:18.009] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/deco/bush is being run through DFU (hash aa9c745ee68383ce083e86b6d3d106f2c49bb093b202e83646a25a5d8f7f8c7d), this will cause launch time delays
+[13May2025 07:16:18.010] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/deco/shrub is being run through DFU (hash 785d1955d50a4b8b7beb54ad947f409fbff06e0825456ac8e79946cc76bec8e2), this will cause launch time delays
+[13May2025 07:16:18.011] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/roads/bent_2 is being run through DFU (hash 7c7496e08db682556eb71e478af8b44c6e64a600f7cce06ff9c2d95173714fd2), this will cause launch time delays
+[13May2025 07:16:18.017] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/house/med_2 is being run through DFU (hash cc430c0d85f0a5fc3fa237066c402454d5a415264c0d53c2c03ff6a7f50610c4), this will cause launch time delays
+[13May2025 07:16:18.040] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/jobsite/chemist is being run through DFU (hash 85d80521a59eb1821a9bcdd91e36353d37956f1be488e296bb7aa5c49b806893), this will cause launch time delays
+[13May2025 07:16:18.044] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/jobsite/butcher is being run through DFU (hash 64f853e5b5fef2530e313cb078ff370c6ed0a86bc644bf15cb790410ae2080ed), this will cause launch time delays
+[13May2025 07:16:18.050] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/house/small_4 is being run through DFU (hash 26b7e6410452abf5cc604ff80b3c232b88a1ff222feccf93fbdfe5ed35592a63), this will cause launch time delays
+[13May2025 07:16:18.055] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/house/small_5 is being run through DFU (hash 5b977ec48c5892c1e7239a55f6da7cdfffe7ae4bef726a175df5e4928db9c473), this will cause launch time delays
+[13May2025 07:16:18.067] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/roads/terminator is being run through DFU (hash f182d73fce2fad808b916682917d6080acfff2b76e35e5105a0b3f1ee9eb62ff), this will cause launch time delays
+[13May2025 07:16:18.069] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/deco/lamp_4 is being run through DFU (hash 998c848826c2b835dee602bf4c9a38aaa510a5fb0312309fdc955c4234eb6b13), this will cause launch time delays
+[13May2025 07:16:18.071] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/jobsite/smith is being run through DFU (hash ef8ccfa6118b54b8d6cd797fcd86fcd68486efa8f0889e5d425da19436e39f06), this will cause launch time delays
+[13May2025 07:16:18.083] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/deco/obelisk is being run through DFU (hash 70bae7dae0627fc8bc5dfc1d78539ea9fda6421bc71d07b953f41fcabc0c7938), this will cause launch time delays
+[13May2025 07:16:18.084] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/deco/lamp_3 is being run through DFU (hash c2d7bb88d1774701f2ae3e37541fe8b8e2ba2602366a45541c12a8dd68c4fc2f), this will cause launch time delays
+[13May2025 07:16:18.086] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/house/small_2 is being run through DFU (hash 711589dfce87cee44aeeb6ca0b3292b896743ff3fd8d6d6295cc666c87e6bbf7), this will cause launch time delays
+[13May2025 07:16:18.089] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/deco/stall_2 is being run through DFU (hash 24e727d3cf9dc14cfa83f2658b045e753cd18381705bf748833e28a3a25ad1c4), this will cause launch time delays
+[13May2025 07:16:18.093] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/jobsite/priest_tower is being run through DFU (hash 2321ceeec37a30822efd418c772845e4de9c0309a0d359b257030078c1244299), this will cause launch time delays
+[13May2025 07:16:18.101] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/deco/melon_2 is being run through DFU (hash db372b8edc1fdc921ab280193fcb799dac57719065b781fcbb2abcbb12b40be4), this will cause launch time delays
+[13May2025 07:16:18.102] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/deco/well is being run through DFU (hash bcade0782437f99bf3fc5065ef80f8c58981f25a2c1027e48666328dfec4cd56), this will cause launch time delays
+[13May2025 07:16:18.104] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/deco/oasis is being run through DFU (hash ca3537d7e1630041e2c1f920c73287a78cd44093f0089f0c21c92ff1fafe9950), this will cause launch time delays
+[13May2025 07:16:18.105] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/deco/lamp_2 is being run through DFU (hash 2066a321b03e50ef1eb6dc638b98bae055d1216bf54a9d4ac4ce1059fdaa5db1), this will cause launch time delays
+[13May2025 07:16:18.106] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/desert/deco/palm is being run through DFU (hash 086867893234ec4fd317d75610696fb0d10a9d8e4dbbee569711276c0a082eb5), this will cause launch time delays
+[13May2025 07:16:18.519] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Gustavo'/18928, l='ServerLevel[world]', x=20973.61, y=68.00, z=17663.38] died: Gustavo was slain by Fire Dragon
+[13May2025 07:16:18.681] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of simply_houses:forest_house/forest_house
+[13May2025 07:16:18.691] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of simply_houses:forest_chapel/forest_chapel
+[13May2025 07:16:18.699] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of simply_houses:forest_stonemason/forest_stonemason
+[13May2025 07:16:18.705] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of simply_houses:forest_fort/forest_fort_ground
+[13May2025 07:16:18.790] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of realmrpg_quests:custom_mobs/villager_none
+[13May2025 07:16:18.792] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of realmrpg_quests:custom_mobs/villager_butcher
+[13May2025 07:16:18.793] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[13May2025 07:16:18.794] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[13May2025 07:16:18.795] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[13May2025 07:16:18.795] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[13May2025 07:16:18.797] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[13May2025 07:16:18.798] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[13May2025 07:16:18.798] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[13May2025 07:16:18.798] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[13May2025 07:16:18.798] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[13May2025 07:16:21.838] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[13May2025 07:16:21.840] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/passages/passage_1
+[13May2025 07:16:21.841] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/passages/passage_2
+[13May2025 07:16:24.667] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Pierre'/18839, l='ServerLevel[world]', x=20977.65, y=66.17, z=17656.72] died: Pierre was incinerated by Fire Dragon
+[13May2025 07:16:25.518] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Charley'/18809, l='ServerLevel[world]', x=20957.81, y=69.00, z=17665.92] died: Charley was slain by Fire Dragon
+[13May2025 07:16:34.569] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Rodger'/20822, l='ServerLevel[world]', x=20962.94, y=69.31, z=17664.25] died: Rodger was slain by Fire Dragon
+[13May2025 07:16:35.068] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Willie'/20827, l='ServerLevel[world]', x=20954.45, y=69.00, z=17655.72] died: Willie was slain by Fire Dragon
+[13May2025 07:16:38.872] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Dan'/20819, l='ServerLevel[world]', x=20967.57, y=69.00, z=17655.53] died: Dan was slain by Fire Dragon
+[13May2025 07:16:39.271] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Kathlene'/20823, l='ServerLevel[world]', x=20943.36, y=69.50, z=17645.61] died: Kathlene burned to death
+[13May2025 07:16:41.218] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Sonny'/20838, l='ServerLevel[world]', x=20984.63, y=69.31, z=17642.00] died: Sonny was slain by Fire Dragon
+[13May2025 07:16:43.924] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:16:43.925] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:16:48.216] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Minh'/20837, l='ServerLevel[world]', x=20964.30, y=69.31, z=17642.35] died: Minh was slain by Fire Dragon
+[13May2025 07:16:51.072] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Julene'/20821, l='ServerLevel[world]', x=20962.82, y=70.40, z=17641.76] died: Julene burned to death
+[13May2025 07:16:57.818] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Allison'/20828, l='ServerLevel[world]', x=20964.30, y=69.00, z=17650.28] died: Allison was slain by Fire Dragon
+[13May2025 07:17:01.169] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Harmony'/20834, l='ServerLevel[world]', x=20970.12, y=74.95, z=17647.89] died: Harmony was slain by Fire Dragon
+[13May2025 07:17:04.417] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Graham'/20833, l='ServerLevel[world]', x=20973.27, y=74.95, z=17648.27] died: Graham was slain by Fire Dragon
+[13May2025 07:17:09.717] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Dick'/20836, l='ServerLevel[world]', x=20966.94, y=116.03, z=17649.99] died: Dick was slain by Fire Dragon
+[13May2025 07:17:11.824] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:17:14.120] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Gwendolyn'/21205, l='ServerLevel[world]', x=20885.66, y=77.00, z=17666.01] died: Gwendolyn was shot by Pillager
+[13May2025 07:17:17.267] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Major'/18811, l='ServerLevel[world]', x=20958.79, y=76.30, z=17628.24] died, message: 'Major was slain by Fire Dragon'
+[13May2025 07:17:17.268] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Major'/18811, l='ServerLevel[world]', x=20958.79, y=76.30, z=17628.24] died: Major was slain by Fire Dragon
+[13May2025 07:17:20.669] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Merlene'/18854, l='ServerLevel[world]', x=20960.62, y=67.00, z=17616.84] died, message: 'Merlene was slain by Fire Dragon'
+[13May2025 07:17:20.669] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Merlene'/18854, l='ServerLevel[world]', x=20960.62, y=67.00, z=17616.84] died: Merlene was slain by Fire Dragon
+[13May2025 07:17:20.918] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[13May2025 07:17:24.737] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Delmar'/18850, l='ServerLevel[world]', x=20953.26, y=70.25, z=17618.48] died, message: 'Delmar was slain by Fire Dragon'
+[13May2025 07:17:24.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Delmar'/18850, l='ServerLevel[world]', x=20953.26, y=70.25, z=17618.48] died: Delmar was slain by Fire Dragon
+[13May2025 07:17:27.318] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Carletta'/18930, l='ServerLevel[world]', x=20976.69, y=67.00, z=17609.56] died, message: 'Carletta bled to death'
+[13May2025 07:17:27.319] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Carletta'/18930, l='ServerLevel[world]', x=20976.69, y=67.00, z=17609.56] died: Carletta bled to death
+[13May2025 07:17:27.326] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Tom'/18861, l='ServerLevel[world]', x=20964.97, y=67.00, z=17616.99] died, message: 'Tom was incinerated by Fire Dragon'
+[13May2025 07:17:27.328] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Tom'/18861, l='ServerLevel[world]', x=20964.97, y=67.00, z=17616.99] died: Tom was turned into KFC by Fire Dragon
+[13May2025 07:17:27.817] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Taunya'/18810, l='ServerLevel[world]', x=20965.30, y=67.00, z=17614.10] died, message: 'Taunya was incinerated by Fire Dragon'
+[13May2025 07:17:27.817] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Taunya'/18810, l='ServerLevel[world]', x=20965.30, y=67.00, z=17614.10] died: Taunya was incinerated by Fire Dragon
+[13May2025 07:17:27.817] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cordell'/18956, l='ServerLevel[world]', x=20965.88, y=67.00, z=17613.65] died, message: 'Cordell was incinerated by Fire Dragon'
+[13May2025 07:17:27.818] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Cordell'/18956, l='ServerLevel[world]', x=20965.88, y=67.00, z=17613.65] died: Cordell was turned into KFC by Fire Dragon
+[13May2025 07:17:29.972] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:18:05.471] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:18:14.365] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lanell'/18852, l='ServerLevel[world]', x=20951.49, y=73.00, z=17614.70] died, message: 'Lanell was burnt to a crisp whilst fighting Fire Dragon'
+[13May2025 07:18:14.365] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lanell'/18852, l='ServerLevel[world]', x=20951.49, y=73.00, z=17614.70] died: Lanell was burnt to a crisp whilst fighting Fire Dragon
+[13May2025 07:18:19.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 07:18:19.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 07:20:06.672] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:20:34.072] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Ara'/22677, l='ServerLevel[world]', x=20844.16, y=77.00, z=17603.20] died: Ara was shot by Skeleton
+[13May2025 07:20:36.122] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Darwin'/22365, l='ServerLevel[world]', x=20847.30, y=73.00, z=17622.78] died: Darwin was shot by Skeleton
+[13May2025 07:20:40.622] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:21:01.372] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:21:18.919] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Whitney'/22382, l='ServerLevel[world]', x=20873.55, y=75.00, z=17644.54] died: Whitney went off with a bang
+[13May2025 07:21:32.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to 20575.500000, 106.500000, 17658.500000]
+[13May2025 07:21:33.846] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:21:34.563] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:21:34.641] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:ocean_quad
+[13May2025 07:21:35.156] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:21:45.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:45.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:45.519] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:45.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:45.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:45.815] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:45.915] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:46.015] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:46.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:46.214] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:46.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:46.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:46.513] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:46.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:46.713] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:46.815] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:46.914] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:47.015] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:47.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:47.214] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:47.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:47.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:47.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:47.614] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:47.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:47.815] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:49.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:49.715] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:49.815] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:49.914] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:50.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:50.113] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:50.216] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:50.314] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:50.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:50.513] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:50.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:50.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:50.814] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:50.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:51.013] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:51.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:51.216] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:51.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:51.413] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:51.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:51.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:51.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:51.814] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:51.914] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:52.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:52.114] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:52.219] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:52.314] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:52.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:52.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:52.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:52.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:52.814] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:52.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:53.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:53.114] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:53.214] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:53.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:53.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:53.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:53.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:53.713] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:53.816] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:53.918] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:54.017] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:54.118] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:54.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:54.316] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:54.413] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:54.515] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:54.616] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:54.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:54.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:54.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:55.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:55.114] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:55.216] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:55.313] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:55.413] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:55.513] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:55.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:55.713] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:55.814] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:55.915] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:56.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:56.113] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:56.215] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:56.314] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:56.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:56.515] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:56.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:56.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:56.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:56.914] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:57.015] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:57.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:57.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:57.314] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:59.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:59.116] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:59.214] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:59.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:59.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:59.513] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:59.614] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:59.713] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:59.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:59.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:00.013] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:00.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:00.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:00.314] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:00.418] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:00.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:00.614] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:00.715] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:00.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:00.914] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:01.013] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:01.113] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:01.215] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:01.317] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:01.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:01.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:01.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:01.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:01.814] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:01.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:02.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:02.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:02.215] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:02.314] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:02.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:02.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:02.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:02.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:02.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:02.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:03.017] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:03.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:03.216] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:03.313] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:03.415] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:03.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:03.614] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:03.717] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:03.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:03.914] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:04.013] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:04.116] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:04.215] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:04.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:04.415] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:04.515] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:04.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:04.713] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:04.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:04.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:05.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:05.114] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:05.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:05.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:05.413] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:05.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:05.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:05.712] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:05.814] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:05.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:06.013] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:06.114] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:06.214] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:51.960] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/taiga/roads/straight is being run through DFU (hash 7d6634dc62394e408b42968323f3e3830494011c3693379f98b6bda280b5fc0c), this will cause launch time delays
+[13May2025 07:22:52.011] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/taiga/roads/inter is being run through DFU (hash 105acedd393fc0a90bb84e0230337cdd903d01f4fb543ebbb532a737e891f320), this will cause launch time delays
+[13May2025 07:22:52.025] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/taiga/jobsite/smith is being run through DFU (hash 8816d0501cab5dd7ccd4f75b0775cb70ba30b9793017b468ecf45a6763993b96), this will cause launch time delays
+[13May2025 07:22:52.032] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/taiga/deco/lamp_3 is being run through DFU (hash ee898e8867fffffabf416fd3e966dcaef07ca45e1e57bc6216c1c1e28a5d4659), this will cause launch time delays
+[13May2025 07:22:52.034] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/taiga/deco/campfire_2 is being run through DFU (hash 28eced180d7948580a1198875d5eca206bb2edc9bf3da2334cd1043b29bdb282), this will cause launch time delays
+[13May2025 07:22:52.035] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/taiga/deco/lamp_1 is being run through DFU (hash 75a2ab406ff494270dc6ada695227a7470478fe8e230deb3ca7a01ae8e2a8303), this will cause launch time delays
+[13May2025 07:22:52.036] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/taiga/roads/bent_2 is being run through DFU (hash 49a0f667b2f85e5f71e48abc9563544828b768e03576b9a3305c03edb7d18d01), this will cause launch time delays
+[13May2025 07:22:52.046] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/taiga/house/small_4 is being run through DFU (hash 135b800ebc9404b05e3e4f41d8454879248e87a00350ff3ff789e8de055c4655), this will cause launch time delays
+[13May2025 07:22:52.055] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/taiga/house/small_2 is being run through DFU (hash b8481abd074e05c0bf82087af3f928ea35fe933e7c12dc30350e131c01d5c0c3), this will cause launch time delays
+[13May2025 07:22:52.064] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/taiga/jobsite/shepherd is being run through DFU (hash f98c23a68515659326093fe8d36830d9b9ffa51124d3fb27c0d4d970e5724da4), this will cause launch time delays
+[13May2025 07:22:52.072] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/taiga/deco/lamp_5 is being run through DFU (hash e771361b0ce52509b5bd4bc5a0704b2e53bcb997e3325f60f508f5d4519a5556), this will cause launch time delays
+[13May2025 07:22:52.073] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/taiga/deco/campfire_1 is being run through DFU (hash 43c55fe758d70a362585a5173d4e2de7c67c0fd324210e221fff1d8063d0428f), this will cause launch time delays
+[13May2025 07:22:52.078] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/taiga/jobsite/weaponsmith is being run through DFU (hash 5a817db7ad06ac2a20d2c798d34538695996aab2b99f3b7b76b7aa4589f0082f), this will cause launch time delays
+[13May2025 07:22:52.083] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/taiga/deco/lamp_4 is being run through DFU (hash 872d6e1f9782b1743fe93efbced134a368a28c88ed8158e57b8d247f73551b19), this will cause launch time delays
+[13May2025 07:22:52.088] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/taiga/house/small_1 is being run through DFU (hash 7e868a276224ed7805116381d161860465df3dcdf1a46702f45e39a4245ba380), this will cause launch time delays
+[13May2025 07:22:52.098] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/taiga/jobsite/tannery is being run through DFU (hash 0203962e3ceaa7d9a854431ffab39ec2e7b31e3f4dff1557b92599e92065b25e), this will cause launch time delays
+[13May2025 07:22:52.106] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/taiga/deco/fountain is being run through DFU (hash 9c87ab7acd72c7972e29722f051178a3663b6ab032f223af4203fd0db5a403f8), this will cause launch time delays
+[13May2025 07:22:52.108] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/taiga/jobsite/archer is being run through DFU (hash afcaaff7bee6bfde0dfaa348e220f42fe8c7a47629b81967c9d28606e640feb9), this will cause launch time delays
+[13May2025 07:22:52.113] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/taiga/deco/bench is being run through DFU (hash f01041b43230ee3e76c15b0ff092f0bcb57fea20191e1fe192191837328f20e7), this will cause launch time delays
+[13May2025 07:22:52.114] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/taiga/deco/flowerbed is being run through DFU (hash ee78d84ba0389e7999992a46ac07838aa6a04531878a97c484bf8e5bc823aad9), this will cause launch time delays
+[13May2025 07:22:52.115] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/taiga/deco/lamp_2 is being run through DFU (hash 78fa1fab678fc23edd838e0c5483be2e09b5919100186d9415b217937b96b74e), this will cause launch time delays
+[13May2025 07:22:52.117] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/taiga/roads/terminator is being run through DFU (hash bee797acc12e4f904c93a7e565f37d96b5f86df6b5582e31dcabb39f01d9f554), this will cause launch time delays
+[13May2025 07:22:52.118] [Server thread/DEBUG] [ModernFix/]: Structure ctov:village/taiga/deco/well is being run through DFU (hash c6b27c65b5f2884d2c5bb9260544f26508ef921c3ded5f211aca2bd279510815), this will cause launch time delays
+[13May2025 07:22:52.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -702.500000, 63.500000, 167.500000]
+[13May2025 07:22:52.810] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of simply_houses:taiga_inn/taiga_inn
+[13May2025 07:22:53.127] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[13May2025 07:22:53.134] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_turn_1
+[13May2025 07:22:53.135] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_1
+[13May2025 07:22:53.138] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_2
+[13May2025 07:22:53.139] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[13May2025 07:22:53.141] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dropdown_hallway
+[13May2025 07:22:53.142] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[13May2025 07:22:53.143] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[13May2025 07:22:53.144] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/wall_crypt
+[13May2025 07:22:53.146] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/armorstand
+[13May2025 07:22:53.147] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_jail
+[13May2025 07:22:53.149] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[13May2025 07:22:53.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[13May2025 07:22:53.152] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/boiler
+[13May2025 07:22:53.155] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_pitfall
+[13May2025 07:22:53.157] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_spiral_stairs
+[13May2025 07:22:53.158] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_spawner_1
+[13May2025 07:22:53.159] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/reception
+[13May2025 07:22:53.160] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[13May2025 07:22:53.161] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_3
+[13May2025 07:22:53.162] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[13May2025 07:22:53.163] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_2
+[13May2025 07:22:53.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/balcony
+[13May2025 07:22:53.217] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_1
+[13May2025 07:22:53.219] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_room_wall
+[13May2025 07:22:53.220] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[13May2025 07:22:53.630] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:22:53.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[13May2025 07:22:53.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[13May2025 07:22:53.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[13May2025 07:22:53.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[13May2025 07:22:53.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[13May2025 07:22:53.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[13May2025 07:22:53.923] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[13May2025 07:22:53.924] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[13May2025 07:22:53.952] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:22:53.953] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:22:53.953] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:22:54.554] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[13May2025 07:22:54.557] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/staircase
+[13May2025 07:22:54.560] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/basement
+[13May2025 07:22:54.562] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway
+[13May2025 07:22:54.562] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction
+[13May2025 07:22:54.563] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/ledge_casks is being run through DFU (hash c3dd3a9638990ccef6d21bb9d4ba7a6da8ae8a095ee529b9b783e8548ce2dd1c), this will cause launch time delays
+[13May2025 07:22:54.570] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end_2
+[13May2025 07:22:54.571] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage_secret
+[13May2025 07:22:54.571] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/wall is being run through DFU (hash 180fea8e3c781df8c55357596400aa3f4c9fa34410d2b006ea713bf5053af98c), this will cause launch time delays
+[13May2025 07:22:54.572] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/cracked_wall_opening is being run through DFU (hash fb597bc343ece17eabf6350e005963175205e285d9b9bb72d6197a35eb300ec0), this will cause launch time delays
+[13May2025 07:22:54.574] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/shelf_storage

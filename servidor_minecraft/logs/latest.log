@@ -1258,3 +1258,239 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [13May2025 07:11:28.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
 [13May2025 07:12:01.718] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Pasquale'/18097, l='ServerLevel[world]', x=22416.99, y=77.02, z=18667.41] died: Pasquale went up in flames
 [13May2025 07:12:33.316] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Winston'/15469, l='ServerLevel[world]', x=22414.25, y=77.00, z=18665.50] died: Winston went up in flames
+[13May2025 07:13:10.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Gamerule doFireTick is now set to: true]
+[13May2025 07:14:23.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to 20946.500000, 69.500000, 17655.500000]
+[13May2025 07:14:24.146] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[13May2025 07:15:11.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Fire Dragon]
+[13May2025 07:15:17.767] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:15:20.366] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:15:25.823] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Emma'/18818, l='ServerLevel[world]', x=20941.70, y=68.00, z=17658.27] died, message: 'Emma was turned into KFC by Fire Dragon'
+[13May2025 07:15:25.824] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Emma'/18818, l='ServerLevel[world]', x=20941.70, y=68.00, z=17658.27] died: Emma was turned into KFC by Fire Dragon
+[13May2025 07:15:34.266] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:15:35.691] [Worker-Main-41/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[13May2025 07:15:35.692] [Worker-Main-41/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[13May2025 07:15:35.692] [Worker-Main-41/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[13May2025 07:16:10.772] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Edwin'/18857, l='ServerLevel[world]', x=20968.51, y=69.00, z=17652.47] died: Edwin was slain by Fire Dragon
+[13May2025 07:16:16.818] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Jamel'/18841, l='ServerLevel[world]', x=20968.63, y=69.00, z=17657.83] died: Jamel was slain by Fire Dragon
+[13May2025 07:16:18.519] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Gustavo'/18928, l='ServerLevel[world]', x=20973.61, y=68.00, z=17663.38] died: Gustavo was slain by Fire Dragon
+[13May2025 07:16:18.793] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[13May2025 07:16:18.794] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[13May2025 07:16:18.795] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[13May2025 07:16:18.795] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[13May2025 07:16:18.797] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[13May2025 07:16:18.798] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[13May2025 07:16:18.798] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[13May2025 07:16:18.798] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[13May2025 07:16:18.798] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[13May2025 07:16:24.667] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Pierre'/18839, l='ServerLevel[world]', x=20977.65, y=66.17, z=17656.72] died: Pierre was incinerated by Fire Dragon
+[13May2025 07:16:25.518] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Charley'/18809, l='ServerLevel[world]', x=20957.81, y=69.00, z=17665.92] died: Charley was slain by Fire Dragon
+[13May2025 07:16:34.569] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Rodger'/20822, l='ServerLevel[world]', x=20962.94, y=69.31, z=17664.25] died: Rodger was slain by Fire Dragon
+[13May2025 07:16:35.068] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Willie'/20827, l='ServerLevel[world]', x=20954.45, y=69.00, z=17655.72] died: Willie was slain by Fire Dragon
+[13May2025 07:16:38.872] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Dan'/20819, l='ServerLevel[world]', x=20967.57, y=69.00, z=17655.53] died: Dan was slain by Fire Dragon
+[13May2025 07:16:39.271] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Kathlene'/20823, l='ServerLevel[world]', x=20943.36, y=69.50, z=17645.61] died: Kathlene burned to death
+[13May2025 07:16:41.218] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Sonny'/20838, l='ServerLevel[world]', x=20984.63, y=69.31, z=17642.00] died: Sonny was slain by Fire Dragon
+[13May2025 07:16:48.216] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Minh'/20837, l='ServerLevel[world]', x=20964.30, y=69.31, z=17642.35] died: Minh was slain by Fire Dragon
+[13May2025 07:16:51.072] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Julene'/20821, l='ServerLevel[world]', x=20962.82, y=70.40, z=17641.76] died: Julene burned to death
+[13May2025 07:16:57.818] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Allison'/20828, l='ServerLevel[world]', x=20964.30, y=69.00, z=17650.28] died: Allison was slain by Fire Dragon
+[13May2025 07:17:01.169] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Harmony'/20834, l='ServerLevel[world]', x=20970.12, y=74.95, z=17647.89] died: Harmony was slain by Fire Dragon
+[13May2025 07:17:04.417] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Graham'/20833, l='ServerLevel[world]', x=20973.27, y=74.95, z=17648.27] died: Graham was slain by Fire Dragon
+[13May2025 07:17:09.717] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Dick'/20836, l='ServerLevel[world]', x=20966.94, y=116.03, z=17649.99] died: Dick was slain by Fire Dragon
+[13May2025 07:17:14.120] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Gwendolyn'/21205, l='ServerLevel[world]', x=20885.66, y=77.00, z=17666.01] died: Gwendolyn was shot by Pillager
+[13May2025 07:17:17.267] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Major'/18811, l='ServerLevel[world]', x=20958.79, y=76.30, z=17628.24] died, message: 'Major was slain by Fire Dragon'
+[13May2025 07:17:17.268] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Major'/18811, l='ServerLevel[world]', x=20958.79, y=76.30, z=17628.24] died: Major was slain by Fire Dragon
+[13May2025 07:17:20.669] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Merlene'/18854, l='ServerLevel[world]', x=20960.62, y=67.00, z=17616.84] died, message: 'Merlene was slain by Fire Dragon'
+[13May2025 07:17:20.669] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Merlene'/18854, l='ServerLevel[world]', x=20960.62, y=67.00, z=17616.84] died: Merlene was slain by Fire Dragon
+[13May2025 07:17:24.737] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Delmar'/18850, l='ServerLevel[world]', x=20953.26, y=70.25, z=17618.48] died, message: 'Delmar was slain by Fire Dragon'
+[13May2025 07:17:24.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Delmar'/18850, l='ServerLevel[world]', x=20953.26, y=70.25, z=17618.48] died: Delmar was slain by Fire Dragon
+[13May2025 07:17:27.318] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Carletta'/18930, l='ServerLevel[world]', x=20976.69, y=67.00, z=17609.56] died, message: 'Carletta bled to death'
+[13May2025 07:17:27.319] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Carletta'/18930, l='ServerLevel[world]', x=20976.69, y=67.00, z=17609.56] died: Carletta bled to death
+[13May2025 07:17:27.326] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Tom'/18861, l='ServerLevel[world]', x=20964.97, y=67.00, z=17616.99] died, message: 'Tom was incinerated by Fire Dragon'
+[13May2025 07:17:27.328] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Tom'/18861, l='ServerLevel[world]', x=20964.97, y=67.00, z=17616.99] died: Tom was turned into KFC by Fire Dragon
+[13May2025 07:17:27.817] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Taunya'/18810, l='ServerLevel[world]', x=20965.30, y=67.00, z=17614.10] died, message: 'Taunya was incinerated by Fire Dragon'
+[13May2025 07:17:27.817] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Taunya'/18810, l='ServerLevel[world]', x=20965.30, y=67.00, z=17614.10] died: Taunya was incinerated by Fire Dragon
+[13May2025 07:17:27.817] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cordell'/18956, l='ServerLevel[world]', x=20965.88, y=67.00, z=17613.65] died, message: 'Cordell was incinerated by Fire Dragon'
+[13May2025 07:17:27.818] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Cordell'/18956, l='ServerLevel[world]', x=20965.88, y=67.00, z=17613.65] died: Cordell was turned into KFC by Fire Dragon
+[13May2025 07:18:14.365] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lanell'/18852, l='ServerLevel[world]', x=20951.49, y=73.00, z=17614.70] died, message: 'Lanell was burnt to a crisp whilst fighting Fire Dragon'
+[13May2025 07:18:14.365] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lanell'/18852, l='ServerLevel[world]', x=20951.49, y=73.00, z=17614.70] died: Lanell was burnt to a crisp whilst fighting Fire Dragon
+[13May2025 07:20:34.072] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Ara'/22677, l='ServerLevel[world]', x=20844.16, y=77.00, z=17603.20] died: Ara was shot by Skeleton
+[13May2025 07:20:36.122] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Darwin'/22365, l='ServerLevel[world]', x=20847.30, y=73.00, z=17622.78] died: Darwin was shot by Skeleton
+[13May2025 07:21:18.919] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Whitney'/22382, l='ServerLevel[world]', x=20873.55, y=75.00, z=17644.54] died: Whitney went off with a bang
+[13May2025 07:21:32.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to 20575.500000, 106.500000, 17658.500000]
+[13May2025 07:21:45.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:45.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:45.519] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:45.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:45.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:45.815] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:45.915] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:46.015] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:46.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:46.214] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:46.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:46.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:46.513] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:46.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:46.713] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:46.815] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:46.914] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:47.015] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:47.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:47.214] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:47.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:47.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:47.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:47.614] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:47.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:47.815] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:49.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:49.715] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:49.815] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:49.914] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:50.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:50.113] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:50.216] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:50.314] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:50.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:50.513] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:50.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:50.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:50.814] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:50.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:51.013] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:51.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:51.216] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:51.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:51.413] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:51.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:51.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:51.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:51.814] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:51.914] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:52.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:52.114] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:52.219] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:52.314] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:52.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:52.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:52.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:52.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:52.814] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:52.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:53.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:53.114] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:53.214] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:53.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:53.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:53.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:53.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:53.713] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:53.816] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:53.918] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:54.017] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:54.118] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:54.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:54.316] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:54.413] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:54.515] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:54.616] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:54.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:54.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:54.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:55.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:55.114] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:55.216] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:55.313] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:55.413] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:55.513] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:55.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:55.713] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:55.814] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:55.915] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:56.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:56.113] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:56.215] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:56.314] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:56.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:56.515] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:56.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:56.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:56.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:56.914] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:57.015] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:57.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:57.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:57.314] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:59.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:59.116] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:59.214] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:59.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:59.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:59.513] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:59.614] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:59.713] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:59.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:21:59.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:00.013] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:00.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:00.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:00.314] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:00.418] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:00.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:00.614] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:00.715] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:00.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:00.914] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:01.013] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:01.113] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:01.215] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:01.317] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:01.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:01.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:01.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:01.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:01.814] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:01.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:02.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:02.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:02.215] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:02.314] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:02.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:02.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:02.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:02.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:02.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:02.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:03.017] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:03.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:03.216] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:03.313] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:03.415] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:03.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:03.614] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:03.717] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:03.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:03.914] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:04.013] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:04.116] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:04.215] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:04.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:04.415] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:04.515] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:04.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:04.713] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:04.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:04.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:05.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:05.114] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:05.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:05.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:05.413] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:05.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:05.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:05.712] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:05.814] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:05.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:06.013] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:06.114] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:06.214] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13May2025 07:22:52.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -702.500000, 63.500000, 167.500000]
