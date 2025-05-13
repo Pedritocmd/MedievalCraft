@@ -9841,3 +9841,183 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [13May2025 07:33:19.073] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [13May2025 07:33:19.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13May2025 07:33:19.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 07:33:35.526] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:33:41.026] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Myles'/25287, l='ServerLevel[world]', x=-661.91, y=63.00, z=119.05] died: Myles was impaled by Marauder
+[13May2025 07:34:04.524] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Cathryn'/34024, l='ServerLevel[world]', x=-664.33, y=63.00, z=153.50] died: Cathryn was slain by Inquisitor
+[13May2025 07:34:04.629] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:34:05.124] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Patricia'/34316, l='ServerLevel[world]', x=-663.59, y=62.63, z=125.45] died: Patricia was killed by magic whilst trying to escape Vex
+[13May2025 07:34:06.024] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Mike'/34323, l='ServerLevel[world]', x=-664.49, y=62.72, z=128.39] died: Mike was slain by Vex
+[13May2025 07:34:07.220] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Erasmo'/34315, l='ServerLevel[world]', x=-663.91, y=64.00, z=156.72] died: Erasmo was slain by Inquisitor
+[13May2025 07:34:10.175] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Glenna'/28818, l='ServerLevel[world]', x=-670.79, y=62.00, z=173.30] died: Glenna was shot by Armand
+[13May2025 07:34:14.767] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Miquel'/34246, l='ServerLevel[world]', x=-679.70, y=63.00, z=164.02] died: Miquel was slain by Inquisitor
+[13May2025 07:34:17.623] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Denise'/33938, l='ServerLevel[world]', x=-665.11, y=62.46, z=122.92] died: Denise was killed by Evoker using magic
+[13May2025 07:34:21.473] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Paris'/34332, l='ServerLevel[world]', x=-668.70, y=62.60, z=122.72] died: Paris was shot by Alchemist
+[13May2025 07:34:23.724] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[13May2025 07:34:26.817] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Hailey'/34055, l='ServerLevel[world]', x=-675.30, y=63.00, z=164.70] died: Hailey was slain by Inquisitor
+[13May2025 07:34:28.318] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Tonja'/25537, l='ServerLevel[world]', x=-668.84, y=62.46, z=127.98] died: Tonja was slain by Basher
+[13May2025 07:34:44.419] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Fidel'/34216, l='ServerLevel[world]', x=-722.04, y=63.00, z=175.55] died: Fidel was slain by Inquisitor
+[13May2025 07:34:52.119] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Randell'/25150, l='ServerLevel[world]', x=-675.71, y=62.77, z=173.43] died, message: 'Randell was slain by Tasha'
+[13May2025 07:34:52.119] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Randell'/25150, l='ServerLevel[world]', x=-675.71, y=62.77, z=173.43] died: Randell was slain by Tasha
+[13May2025 07:34:56.773] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:34:58.519] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Odell'/34240, l='ServerLevel[world]', x=-692.05, y=63.00, z=156.93] died: Odell was slain by Inquisitor
+[13May2025 07:35:03.071] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Chung'/25174, l='ServerLevel[world]', x=-672.15, y=62.71, z=175.85] died, message: 'Chung was slain by Tasha'
+[13May2025 07:35:03.072] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Chung'/25174, l='ServerLevel[world]', x=-672.15, y=62.71, z=175.85] died: Chung was slain by Tasha
+[13May2025 07:35:06.784] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Loren'/34352, l='ServerLevel[world]', x=-677.47, y=62.92, z=166.70] died: Loren was slain by JhynMC using [Worldbreaker]
+[13May2025 07:35:08.618] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Kazuko'/34283, l='ServerLevel[world]', x=-686.35, y=65.02, z=155.93] died: Kazuko was slain by Inquisitor
+[13May2025 07:35:11.816] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Elfreda'/35249, l='ServerLevel[world]', x=-675.37, y=63.00, z=163.44] died: Elfreda was slain by Stacey
+[13May2025 07:35:12.268] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Jonathan'/35248, l='ServerLevel[world]', x=-674.30, y=63.00, z=163.70] died: Jonathan was slain by Harvey
+[13May2025 07:35:15.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Kiersten'/34241, l='ServerLevel[world]', x=-698.99, y=63.00, z=158.69] died: Kiersten was slain by Inquisitor
+[13May2025 07:35:16.769] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Georgia'/35246, l='ServerLevel[world]', x=-678.97, y=63.00, z=161.08] died: Georgia was slain by Harvey
+[13May2025 07:35:18.217] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Debby'/35245, l='ServerLevel[world]', x=-677.78, y=63.00, z=163.49] died: Debby was slain by Stacey
+[13May2025 07:35:24.118] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Cassidy'/35247, l='ServerLevel[world]', x=-681.10, y=63.00, z=160.30] died: Cassidy was slain by Stacey
+[13May2025 07:35:26.716] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Winter'/25227, l='ServerLevel[world]', x=-693.41, y=64.50, z=172.31] died: Winter was slain by Inquisitor
+[13May2025 07:35:35.058] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Randell'/35127, l='ServerLevel[world]', x=-674.54, y=62.00, z=174.60] died: Randell was slain by JhynMC
+[13May2025 07:35:35.323] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Annabelle'/35184, l='ServerLevel[world]', x=-691.72, y=63.00, z=164.62] died: Annabelle was shot by Lashunda
+[13May2025 07:35:36.867] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Tasha'/34635, l='ServerLevel[world]', x=-686.77, y=64.00, z=169.30] died: Tasha was slain by Emilia
+[13May2025 07:35:39.716] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Armand'/34730, l='ServerLevel[world]', x=-684.11, y=64.00, z=169.68] died: Armand was slain by Dudley
+[13May2025 07:35:40.496] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Jean'/34687, l='ServerLevel[world]', x=-666.14, y=62.00, z=172.45] died: Jean was slain by JhynMC
+[13May2025 07:35:41.365] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Stacey'/35557, l='ServerLevel[world]', x=-683.81, y=64.00, z=169.31] died: Stacey was slain by Dudley
+[13May2025 07:35:42.624] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Chung'/35213, l='ServerLevel[world]', x=-675.06, y=62.00, z=173.62] died: Chung was slain by JhynMC
+[13May2025 07:35:44.974] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:35:50.927] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:36:07.673] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Emilia'/34123, l='ServerLevel[world]', x=-681.70, y=63.00, z=163.48] died: Emilia was impaled by Marauder
+[13May2025 07:36:10.221] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Luetta'/34251, l='ServerLevel[world]', x=-681.70, y=63.75, z=163.59] died: Luetta was killed by magic whilst trying to escape Vex
+[13May2025 07:36:13.125] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:36:14.073] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Dudley'/33907, l='ServerLevel[world]', x=-680.99, y=63.00, z=161.94] died: Dudley was slain by Vex
+[13May2025 07:36:16.221] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Jacqueline'/34252, l='ServerLevel[world]', x=-681.29, y=63.50, z=160.25] died: Jacqueline was impaled by Marauder
+[13May2025 07:36:16.272] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Johnathon'/25566, l='ServerLevel[world]', x=-689.09, y=64.00, z=163.70] died: Johnathon was slain by Vex
+[13May2025 07:36:16.320] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Lashunda'/33873, l='ServerLevel[world]', x=-695.33, y=63.30, z=156.62] died: Lashunda was slain by Vindicator
+[13May2025 07:36:17.122] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Harvey'/34255, l='ServerLevel[world]', x=-677.73, y=63.00, z=164.67] died: Harvey was slain by Ravager
+[13May2025 07:36:19.724] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Penney'/35103, l='ServerLevel[world]', x=-667.48, y=68.00, z=169.15] died: Penney was shot by JhynMC
+[13May2025 07:36:22.625] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:36:22.625] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:36:28.372] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Frederic'/33969, l='ServerLevel[world]', x=-693.49, y=64.00, z=172.81] died: Frederic was slain by Vex
+[13May2025 07:36:35.024] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[13May2025 07:37:03.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[13May2025 07:37:06.617] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Dorsey'/36247, l='ServerLevel[world]', x=-701.23, y=63.00, z=148.32] died: Dorsey was slain by Vindicator
+[13May2025 07:37:09.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[13May2025 07:37:10.967] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Merlin'/36265, l='ServerLevel[world]', x=-694.50, y=63.00, z=146.69] died: Merlin was slain by Vindicator
+[13May2025 07:37:11.118] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Kennith'/36263, l='ServerLevel[world]', x=-699.22, y=63.00, z=158.34] died: Kennith was slain by Vindicator
+[13May2025 07:37:12.168] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Dante'/36257, l='ServerLevel[world]', x=-697.69, y=63.00, z=145.59] died: Dante was slain by Vindicator
+[13May2025 07:37:15.317] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Timmy'/36272, l='ServerLevel[world]', x=-699.37, y=63.00, z=149.33] died: Timmy was slain by Vindicator
+[13May2025 07:37:19.968] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Audria'/36269, l='ServerLevel[world]', x=-705.02, y=63.00, z=156.30] died: Audria was slain by Vindicator
+[13May2025 07:37:23.321] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[13May2025 07:37:23.466] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Ann'/36296, l='ServerLevel[world]', x=-704.13, y=63.00, z=155.77] died: Ann was slain by Vindicator
+[13May2025 07:37:27.966] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Milo'/36294, l='ServerLevel[world]', x=-688.27, y=63.00, z=157.58] died: Milo was slain by Inquisitor
+[13May2025 07:37:28.967] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Andrew'/36340, l='ServerLevel[world]', x=-692.13, y=63.00, z=159.05] died: Andrew was slain by Inquisitor
+[13May2025 07:37:29.364] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Neville'/36289, l='ServerLevel[world]', x=-701.81, y=62.77, z=150.84] died: Neville was slain by Vindicator
+[13May2025 07:37:29.819] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Kanisha'/36339, l='ServerLevel[world]', x=-704.80, y=63.00, z=151.25] died: Kanisha was killed by Witch using magic
+[13May2025 07:37:30.766] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Everett'/36261, l='ServerLevel[world]', x=-696.05, y=63.00, z=159.47] died: Everett was slain by Inquisitor
+[13May2025 07:37:34.119] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Phillis'/36292, l='ServerLevel[world]', x=-699.28, y=63.00, z=148.04] died: Phillis was slain by Vex
+[13May2025 07:37:34.618] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Gabriel'/36291, l='ServerLevel[world]', x=-707.36, y=63.00, z=157.71] died: Gabriel was slain by Inquisitor
+[13May2025 07:37:37.866] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Gerry'/36268, l='ServerLevel[world]', x=-706.02, y=63.00, z=152.27] died: Gerry was slain by Vindicator
+[13May2025 07:37:47.972] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Maxima'/36252, l='ServerLevel[world]', x=-717.53, y=63.00, z=159.30] died: Maxima was killed by Witch using magic
+[13May2025 07:37:48.173] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:37:48.173] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:38:07.126] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:38:15.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[13May2025 07:38:19.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 07:38:19.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 07:39:22.772] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:39:31.370] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:39:44.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has completed the challenge [Hero of the Village]
+[13May2025 07:40:41.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[13May2025 07:40:50.870] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:41:03.920] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:43:01.419] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:43:08.471] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:43:08.471] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:43:19.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 07:43:19.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 07:44:31.071] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:44:31.071] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:44:31.072] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:44:36.725] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:45:18.420] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:45:25.371] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:45:26.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -519.500000, 81.500000, 2941.500000]
+[13May2025 07:45:26.948] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/savanna_scriber_1
+[13May2025 07:45:27.571] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/bent_2
+[13May2025 07:45:27.576] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/straight
+[13May2025 07:45:27.578] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/bent_1
+[13May2025 07:45:27.579] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/fishing_hut
+[13May2025 07:45:27.580] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/small_3
+[13May2025 07:45:27.581] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/shepherd
+[13May2025 07:45:27.582] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/bench
+[13May2025 07:45:27.582] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_0
+[13May2025 07:45:27.582] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_1
+[13May2025 07:45:27.583] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/big_1
+[13May2025 07:45:27.584] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/mason
+[13May2025 07:45:27.585] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/boat
+[13May2025 07:45:27.587] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/mid_2
+[13May2025 07:45:27.589] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/priest_tower
+[13May2025 07:45:27.591] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/mid_1
+[13May2025 07:45:27.592] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/small_1
+[13May2025 07:45:27.592] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_5
+[13May2025 07:45:27.592] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/terminator
+[13May2025 07:45:27.593] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/sheep
+[13May2025 07:45:27.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/chemist
+[13May2025 07:45:27.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_4
+[13May2025 07:45:27.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_2
+[13May2025 07:45:27.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_3
+[13May2025 07:46:10.668] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:46:20.471] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Isadora'/39450, l='ServerLevel[world]', x=-491.41, y=63.00, z=2867.41] died: Isadora was slain by Inquisitor
+[13May2025 07:47:15.218] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:47:53.637] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:ocean_ruin_vanilla_temple
+[13May2025 07:47:57.730] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonocean:ocean_ruin_pillager
+[13May2025 07:48:19.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 07:48:19.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 07:48:42.918] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:49:20.674] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:49:54.523] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:50:43.471] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:50:43.471] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:50:59.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -453.500000, 81.500000, 1144.500000]
+[13May2025 07:51:00.146] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[13May2025 07:51:00.161] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[13May2025 07:51:00.169] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[13May2025 07:51:00.170] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[13May2025 07:51:00.196] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_4
+[13May2025 07:51:00.202] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[13May2025 07:51:01.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:51:01.291] [Server thread/DEBUG] [mixin/]: Mixing alloc.composter.ComposterMixin$ComposterBlockComposterInventoryMixin from lithium.mixins.json into net.minecraft.world.level.block.ComposterBlock$InputContainer
+[13May2025 07:51:01.291] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.composter.ComposterMixin$ComposterBlockComposterInventoryMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[13May2025 07:51:02.271] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:51:35.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[13May2025 07:51:38.845] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/roads/t_3
+[13May2025 07:51:38.846] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/roads/t_2
+[13May2025 07:51:38.846] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/roads/straight
+[13May2025 07:51:38.847] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/roads/bent_1
+[13May2025 07:51:38.847] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/loomhouse
+[13May2025 07:51:38.848] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/house/small_1
+[13May2025 07:51:38.849] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/lamp_5
+[13May2025 07:51:38.849] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/lamp_4
+[13May2025 07:51:38.850] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/house/med_1
+[13May2025 07:51:38.851] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/house/big_2
+[13May2025 07:51:38.851] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/cartography
+[13May2025 07:51:38.852] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/lamp_3
+[13May2025 07:51:38.852] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/house/small_3
+[13May2025 07:51:38.853] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/lamp_2
+[13May2025 07:51:38.853] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/campfire_1
+[13May2025 07:51:38.853] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/butcher
+[13May2025 07:51:38.854] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/roads/inter
+[13May2025 07:51:38.854] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/lamp_1
+[13May2025 07:51:38.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/priest_tower
+[13May2025 07:51:38.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/roads/bent_2
+[13May2025 07:51:38.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/bench
+[13May2025 07:51:38.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/campfire_2
+[13May2025 07:51:38.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/flowerbed
+[13May2025 07:51:38.858] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/farm
+[13May2025 07:51:38.859] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/house/med_3
+[13May2025 07:51:38.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/chemist
+[13May2025 07:51:38.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/library
+[13May2025 07:51:38.862] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/house/small_2
+[13May2025 07:51:38.862] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/smith
+[13May2025 07:51:38.863] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/roads/t_1
+[13May2025 07:51:38.864] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/house/med_2
+[13May2025 07:51:38.865] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/fountain
+[13May2025 07:51:38.865] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/roads/terminator
+[13May2025 07:51:38.866] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/deco/well
+[13May2025 07:53:01.530] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[13May2025 07:53:19.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 07:53:19.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
