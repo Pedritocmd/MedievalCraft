@@ -1635,3 +1635,8 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [13May2025 07:46:20.471] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Isadora'/39450, l='ServerLevel[world]', x=-491.41, y=63.00, z=2867.41] died: Isadora was slain by Inquisitor
 [13May2025 07:50:59.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -453.500000, 81.500000, 1144.500000]
 [13May2025 07:51:35.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[13May2025 07:54:47.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[13May2025 08:02:27.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[13May2025 08:03:07.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Summoned new Vindicator]
+[13May2025 08:03:40.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [The Guardian]
+[13May2025 08:03:48.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! 88.4553449822356,10.5625,-24.342514515782113
