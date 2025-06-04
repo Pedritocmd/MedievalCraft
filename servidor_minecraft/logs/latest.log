@@ -1509,3 +1509,7 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 [04Jun2025 04:52:51.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Double Or Nothing!]
 [04Jun2025 04:52:51.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [You Monster...]
 [04Jun2025 04:58:30.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[04Jun2025 05:04:24.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[04Jun2025 05:09:43.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[04Jun2025 05:09:57.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[04Jun2025 05:11:37.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
