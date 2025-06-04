@@ -1005,3 +1005,507 @@ java.lang.ClassNotFoundException: org.mineskin.request.AbstractRequestBuilder
 [04Jun2025 04:35:40.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> PEPIIIIIIIIIII
 [04Jun2025 04:35:45.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> GOONDAAAAAAARR
 [04Jun2025 04:35:51.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> RUBEEEEEEEEEN
+[04Jun2025 04:45:49.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[04Jun2025 04:51:21.909] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[04Jun2025 04:51:21.911] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	Index: 10
+	Listeners:
+		0: HIGH
+		1: ASM: class tschipp.carryon.events.CommonEvents onBlockClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		2: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		3: NORMAL
+		4: ASM: com.github.alexthe666.citadel.server.CitadelEvents@56f47948 onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		5: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@66c7f8ca onUseItemOnBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		6: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@104ee5d2 onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		7: ASM: com.lothrazar.library.events.FlibBlockEvents@3cefdb0d onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		8: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@4ea11f32
+		9: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@3713aa9e onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		10: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@3fd25e28 onPlayerRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		11: ASM: class twilightforest.events.ProgressionEvents onPlayerRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		12: ASM: class twilightforest.events.MiscEvents onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		13: ASM: class twilightforest.events.EntityEvents attachLeadToWroughtFence(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		14: ASM: class twilightforest.events.EntityEvents createSkullCandle(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		15: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@5bb1ff5d
+		16: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@19554e1c
+		17: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@d3be7a6
+		18: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@4b2531bc
+		19: ASM: class net.mcreator.endlessbiomes.procedures.TwistedFungusBonemealedProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		20: ASM: class net.mcreator.endlessbiomes.procedures.StripTwistedStemProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		21: ASM: class net.mcreator.endlessbiomes.procedures.StripTwistedHyphaeProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		22: ASM: class net.mcreator.endlessbiomes.procedures.StripPenumbraStemProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		23: ASM: class net.mcreator.endlessbiomes.procedures.StripPenumbraHyphaeProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		24: ASM: class net.mcreator.endlessbiomes.procedures.RuinousAltarSacrificeProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		25: ASM: class net.mcreator.endlessbiomes.procedures.PumpkinIsCarvedProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		26: ASM: class net.mcreator.endlessbiomes.procedures.PenumbralMossBoneMealProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		27: ASM: class net.mcreator.endlessbiomes.procedures.PenumbralFungusBonemealedProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		28: ASM: class io.redspace.ironsspellbooks.loot.LootDebugEvents alertLootTable(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		29: ASM: class io.redspace.ironsspellbooks.entity.mobs.wizards.WizardAIEvents onBlockUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		30: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@4ace740d onPlayerRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		31: ASM: class twilightforest.events.ToolEvents onEntityInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		32: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@1fba6492
+		33: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@2cacfcd7
+		34: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@7e783833
+		35: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@1cb24e91
+		36: LOW
+		37: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@50602761
+		38: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@1be123fe
+		39: LOWEST
+		40: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@24e72911
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.0/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.start(SpawnBoulderAbility.java:55)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.capability.AbilityCapability$AbilityCapabilityImp.activateAbility(AbilityCapability.java:85)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.AbilityHandler.sendAbilityMessage(AbilityHandler.java:90)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.onRightClickBlock(SpawnBoulderAbility.java:185)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler.onPlayerRightClickBlock(AbilityCommonEventHandler.java:33)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.__AbilityCommonEventHandler_onPlayerRightClickBlock_RightClickBlock.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.0/net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:801)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:323)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1057)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[04Jun2025 04:51:21.912] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@747b7d11, suppressing error
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.0.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.start(SpawnBoulderAbility.java:55) ~[mowziesmobs-1.6.5.jar%23292!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.capability.AbilityCapability$AbilityCapabilityImp.activateAbility(AbilityCapability.java:85) ~[mowziesmobs-1.6.5.jar%23292!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.AbilityHandler.sendAbilityMessage(AbilityHandler.java:90) ~[mowziesmobs-1.6.5.jar%23292!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.onRightClickBlock(SpawnBoulderAbility.java:185) ~[mowziesmobs-1.6.5.jar%23292!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler.onPlayerRightClickBlock(AbilityCommonEventHandler.java:33) ~[mowziesmobs-1.6.5.jar%23292!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.__AbilityCommonEventHandler_onPlayerRightClickBlock_RightClickBlock.invoke(.dynamic) ~[mowziesmobs-1.6.5.jar%23292!/:1.6.5]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:801) ~[forge-1.20.1-47.3.0-universal.jar%23344!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1057) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[04Jun2025 04:51:25.956] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[04Jun2025 04:51:25.956] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	Index: 10
+	Listeners:
+		0: HIGH
+		1: ASM: class tschipp.carryon.events.CommonEvents onBlockClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		2: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		3: NORMAL
+		4: ASM: com.github.alexthe666.citadel.server.CitadelEvents@56f47948 onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		5: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@66c7f8ca onUseItemOnBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		6: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@104ee5d2 onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		7: ASM: com.lothrazar.library.events.FlibBlockEvents@3cefdb0d onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		8: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@4ea11f32
+		9: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@3713aa9e onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		10: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@3fd25e28 onPlayerRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		11: ASM: class twilightforest.events.ProgressionEvents onPlayerRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		12: ASM: class twilightforest.events.MiscEvents onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		13: ASM: class twilightforest.events.EntityEvents attachLeadToWroughtFence(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		14: ASM: class twilightforest.events.EntityEvents createSkullCandle(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		15: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@5bb1ff5d
+		16: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@19554e1c
+		17: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@d3be7a6
+		18: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@4b2531bc
+		19: ASM: class net.mcreator.endlessbiomes.procedures.TwistedFungusBonemealedProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		20: ASM: class net.mcreator.endlessbiomes.procedures.StripTwistedStemProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		21: ASM: class net.mcreator.endlessbiomes.procedures.StripTwistedHyphaeProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		22: ASM: class net.mcreator.endlessbiomes.procedures.StripPenumbraStemProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		23: ASM: class net.mcreator.endlessbiomes.procedures.StripPenumbraHyphaeProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		24: ASM: class net.mcreator.endlessbiomes.procedures.RuinousAltarSacrificeProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		25: ASM: class net.mcreator.endlessbiomes.procedures.PumpkinIsCarvedProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		26: ASM: class net.mcreator.endlessbiomes.procedures.PenumbralMossBoneMealProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		27: ASM: class net.mcreator.endlessbiomes.procedures.PenumbralFungusBonemealedProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		28: ASM: class io.redspace.ironsspellbooks.loot.LootDebugEvents alertLootTable(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		29: ASM: class io.redspace.ironsspellbooks.entity.mobs.wizards.WizardAIEvents onBlockUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		30: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@4ace740d onPlayerRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		31: ASM: class twilightforest.events.ToolEvents onEntityInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		32: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@1fba6492
+		33: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@2cacfcd7
+		34: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@7e783833
+		35: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@1cb24e91
+		36: LOW
+		37: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@50602761
+		38: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@1be123fe
+		39: LOWEST
+		40: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@24e72911
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.0/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.start(SpawnBoulderAbility.java:55)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.capability.AbilityCapability$AbilityCapabilityImp.activateAbility(AbilityCapability.java:85)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.AbilityHandler.sendAbilityMessage(AbilityHandler.java:90)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.onRightClickBlock(SpawnBoulderAbility.java:185)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler.onPlayerRightClickBlock(AbilityCommonEventHandler.java:33)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.__AbilityCommonEventHandler_onPlayerRightClickBlock_RightClickBlock.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.0/net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:801)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:323)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1057)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[04Jun2025 04:51:25.957] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@4ebbb569, suppressing error
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.0.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.start(SpawnBoulderAbility.java:55) ~[mowziesmobs-1.6.5.jar%23292!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.capability.AbilityCapability$AbilityCapabilityImp.activateAbility(AbilityCapability.java:85) ~[mowziesmobs-1.6.5.jar%23292!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.AbilityHandler.sendAbilityMessage(AbilityHandler.java:90) ~[mowziesmobs-1.6.5.jar%23292!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.onRightClickBlock(SpawnBoulderAbility.java:185) ~[mowziesmobs-1.6.5.jar%23292!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler.onPlayerRightClickBlock(AbilityCommonEventHandler.java:33) ~[mowziesmobs-1.6.5.jar%23292!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.__AbilityCommonEventHandler_onPlayerRightClickBlock_RightClickBlock.invoke(.dynamic) ~[mowziesmobs-1.6.5.jar%23292!/:1.6.5]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:801) ~[forge-1.20.1-47.3.0-universal.jar%23344!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1057) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[04Jun2025 04:51:26.765] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[04Jun2025 04:51:26.766] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	Index: 10
+	Listeners:
+		0: HIGH
+		1: ASM: class tschipp.carryon.events.CommonEvents onBlockClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		2: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		3: NORMAL
+		4: ASM: com.github.alexthe666.citadel.server.CitadelEvents@56f47948 onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		5: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@66c7f8ca onUseItemOnBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		6: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@104ee5d2 onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		7: ASM: com.lothrazar.library.events.FlibBlockEvents@3cefdb0d onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		8: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@4ea11f32
+		9: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@3713aa9e onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		10: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@3fd25e28 onPlayerRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		11: ASM: class twilightforest.events.ProgressionEvents onPlayerRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		12: ASM: class twilightforest.events.MiscEvents onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		13: ASM: class twilightforest.events.EntityEvents attachLeadToWroughtFence(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		14: ASM: class twilightforest.events.EntityEvents createSkullCandle(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		15: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@5bb1ff5d
+		16: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@19554e1c
+		17: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@d3be7a6
+		18: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@4b2531bc
+		19: ASM: class net.mcreator.endlessbiomes.procedures.TwistedFungusBonemealedProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		20: ASM: class net.mcreator.endlessbiomes.procedures.StripTwistedStemProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		21: ASM: class net.mcreator.endlessbiomes.procedures.StripTwistedHyphaeProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		22: ASM: class net.mcreator.endlessbiomes.procedures.StripPenumbraStemProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		23: ASM: class net.mcreator.endlessbiomes.procedures.StripPenumbraHyphaeProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		24: ASM: class net.mcreator.endlessbiomes.procedures.RuinousAltarSacrificeProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		25: ASM: class net.mcreator.endlessbiomes.procedures.PumpkinIsCarvedProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		26: ASM: class net.mcreator.endlessbiomes.procedures.PenumbralMossBoneMealProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		27: ASM: class net.mcreator.endlessbiomes.procedures.PenumbralFungusBonemealedProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		28: ASM: class io.redspace.ironsspellbooks.loot.LootDebugEvents alertLootTable(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		29: ASM: class io.redspace.ironsspellbooks.entity.mobs.wizards.WizardAIEvents onBlockUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		30: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@4ace740d onPlayerRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		31: ASM: class twilightforest.events.ToolEvents onEntityInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		32: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@1fba6492
+		33: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@2cacfcd7
+		34: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@7e783833
+		35: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@1cb24e91
+		36: LOW
+		37: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@50602761
+		38: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@1be123fe
+		39: LOWEST
+		40: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@24e72911
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.0/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.start(SpawnBoulderAbility.java:55)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.capability.AbilityCapability$AbilityCapabilityImp.activateAbility(AbilityCapability.java:85)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.AbilityHandler.sendAbilityMessage(AbilityHandler.java:90)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.onRightClickBlock(SpawnBoulderAbility.java:185)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler.onPlayerRightClickBlock(AbilityCommonEventHandler.java:33)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.__AbilityCommonEventHandler_onPlayerRightClickBlock_RightClickBlock.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.0/net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:801)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:323)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1057)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[04Jun2025 04:51:26.767] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@4002b0fa, suppressing error
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.0.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.start(SpawnBoulderAbility.java:55) ~[mowziesmobs-1.6.5.jar%23292!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.capability.AbilityCapability$AbilityCapabilityImp.activateAbility(AbilityCapability.java:85) ~[mowziesmobs-1.6.5.jar%23292!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.AbilityHandler.sendAbilityMessage(AbilityHandler.java:90) ~[mowziesmobs-1.6.5.jar%23292!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.onRightClickBlock(SpawnBoulderAbility.java:185) ~[mowziesmobs-1.6.5.jar%23292!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler.onPlayerRightClickBlock(AbilityCommonEventHandler.java:33) ~[mowziesmobs-1.6.5.jar%23292!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.__AbilityCommonEventHandler_onPlayerRightClickBlock_RightClickBlock.invoke(.dynamic) ~[mowziesmobs-1.6.5.jar%23292!/:1.6.5]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:801) ~[forge-1.20.1-47.3.0-universal.jar%23344!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1057) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[04Jun2025 04:51:31.071] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[04Jun2025 04:51:31.072] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	Index: 10
+	Listeners:
+		0: HIGH
+		1: ASM: class tschipp.carryon.events.CommonEvents onBlockClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		2: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		3: NORMAL
+		4: ASM: com.github.alexthe666.citadel.server.CitadelEvents@56f47948 onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		5: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@66c7f8ca onUseItemOnBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		6: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@104ee5d2 onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		7: ASM: com.lothrazar.library.events.FlibBlockEvents@3cefdb0d onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		8: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@4ea11f32
+		9: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@3713aa9e onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		10: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@3fd25e28 onPlayerRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		11: ASM: class twilightforest.events.ProgressionEvents onPlayerRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		12: ASM: class twilightforest.events.MiscEvents onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		13: ASM: class twilightforest.events.EntityEvents attachLeadToWroughtFence(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		14: ASM: class twilightforest.events.EntityEvents createSkullCandle(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		15: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@5bb1ff5d
+		16: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@19554e1c
+		17: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@d3be7a6
+		18: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@4b2531bc
+		19: ASM: class net.mcreator.endlessbiomes.procedures.TwistedFungusBonemealedProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		20: ASM: class net.mcreator.endlessbiomes.procedures.StripTwistedStemProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		21: ASM: class net.mcreator.endlessbiomes.procedures.StripTwistedHyphaeProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		22: ASM: class net.mcreator.endlessbiomes.procedures.StripPenumbraStemProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		23: ASM: class net.mcreator.endlessbiomes.procedures.StripPenumbraHyphaeProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		24: ASM: class net.mcreator.endlessbiomes.procedures.RuinousAltarSacrificeProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		25: ASM: class net.mcreator.endlessbiomes.procedures.PumpkinIsCarvedProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		26: ASM: class net.mcreator.endlessbiomes.procedures.PenumbralMossBoneMealProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		27: ASM: class net.mcreator.endlessbiomes.procedures.PenumbralFungusBonemealedProcedure onRightClickBlock(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		28: ASM: class io.redspace.ironsspellbooks.loot.LootDebugEvents alertLootTable(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		29: ASM: class io.redspace.ironsspellbooks.entity.mobs.wizards.WizardAIEvents onBlockUsed(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		30: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@4ace740d onPlayerRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$RightClickBlock;)V
+		31: ASM: class twilightforest.events.ToolEvents onEntityInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent;)V
+		32: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@1fba6492
+		33: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@2cacfcd7
+		34: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@7e783833
+		35: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@1cb24e91
+		36: LOW
+		37: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@50602761
+		38: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@1be123fe
+		39: LOWEST
+		40: net.minecraftforge.eventbus.EventBus$$Lambda$1506/0x00007ec4e868d7b0@24e72911
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.0/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.start(SpawnBoulderAbility.java:55)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.capability.AbilityCapability$AbilityCapabilityImp.activateAbility(AbilityCapability.java:85)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.AbilityHandler.sendAbilityMessage(AbilityHandler.java:90)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.onRightClickBlock(SpawnBoulderAbility.java:185)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler.onPlayerRightClickBlock(AbilityCommonEventHandler.java:33)
+	at TRANSFORMER/mowziesmobs@1.6.4/com.bobmowzie.mowziesmobs.server.ability.__AbilityCommonEventHandler_onPlayerRightClickBlock_RightClickBlock.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.0/net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:801)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:323)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1057)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[04Jun2025 04:51:31.073] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@5ab91900, suppressing error
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.0.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.start(SpawnBoulderAbility.java:55) ~[mowziesmobs-1.6.5.jar%23292!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.capability.AbilityCapability$AbilityCapabilityImp.activateAbility(AbilityCapability.java:85) ~[mowziesmobs-1.6.5.jar%23292!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.AbilityHandler.sendAbilityMessage(AbilityHandler.java:90) ~[mowziesmobs-1.6.5.jar%23292!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.abilities.player.geomancy.SpawnBoulderAbility.onRightClickBlock(SpawnBoulderAbility.java:185) ~[mowziesmobs-1.6.5.jar%23292!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler.onPlayerRightClickBlock(AbilityCommonEventHandler.java:33) ~[mowziesmobs-1.6.5.jar%23292!/:1.6.5]
+	at com.bobmowzie.mowziesmobs.server.ability.__AbilityCommonEventHandler_onPlayerRightClickBlock_RightClickBlock.invoke(.dynamic) ~[mowziesmobs-1.6.5.jar%23292!/:1.6.5]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:801) ~[forge-1.20.1-47.3.0-universal.jar%23344!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1057) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23339!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[04Jun2025 04:52:51.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Double Or Nothing!]
+[04Jun2025 04:52:51.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [You Monster...]
+[04Jun2025 04:58:30.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]

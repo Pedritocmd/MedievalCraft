@@ -1760,5 +1760,17 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2025-06-04 04:52:51 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_grottol_fortune": {
+    "criteria": {
+      "steal_crystal": "2025-06-04 04:52:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
